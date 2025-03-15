@@ -1,0 +1,865 @@
+submission,category,idiom,type
+"Yeni öğrendiği şarkıyı sokak köşesinde söyleyen müzisyen, dinleyenlerin içini eritti.",mecaz,İçi erimek,Zero-shot
+"Bir lider olarak çalışanlarının hatalarını defterden silip onlara ikinci bir şans vermek, onları motive eder.",mecaz,Defterden silmek,Zero-shot
+"Yönetici, iş yerindeki moral ve motivasyonu yüksek tutmak için düzenli olarak çalışanların nabzını tutar.",mecaz,Nabzını tutmak,Zero-shot
+Şirketteki gizli toplantıyı kazara sızdırınca tüm ofiste ayvayı yedi.,mecaz,Ayvayı yemek,Zero-shot
+"Film eleştirmenleri, yönetmenin eserindeki simgesel unsurlar üzerinde durarak yorumlarını derinleştirdiler.",mecaz,Üzerinde durmak,Zero-shot
+Krizin etkilerini en az hasarla atlatmak için sıkı durmalıyız.,mecaz,Sıkı durmak,Zero-shot
+"Girişimci, inovatif projeleriyle pazarda dikkat çekici izler bırakmayı amaçlıyor.",mecaz,İz bırakmak,Zero-shot
+"Bilimsel gelişmelere karşı çıkmak, ilerlemenin önüne duvar örmek anlamına gelir.",mecaz,Karşı çıkmak,Zero-shot
+"Kriz anında, yöneticinin pratik bir çözüm yolu ortaya atması, tüm ekip için bir rahatlama oldu.",mecaz,Ortaya atmak,Zero-shot
+"Çevreci yaklaşımlara karşı çıkmak, kendi yaşam alanını küçültmek anlamına gelir.",mecaz,Karşı çıkmak,Zero-shot
+"Eğitimsizliğe karşı çıkmak, karanlığa meşale tutmaktır.",mecaz,Karşı çıkmak,Zero-shot
+Bilgi yarışmasında sorulara verdiği hızlı ve doğru yanıtlarla kısa sürede puan tablosunda başa geçti.,mecaz,Başa geçmek,Zero-shot
+"Ekip olarak ilham alacak bir fikir beklerken, özgün bir konsept ortaya atıldı ve tüm planlarımızı değiştirdi.",mecaz,Ortaya atmak,Zero-shot
+"Uzun bir bekleyiş olduğunu öğrenince, havaalanında kitapçıdan bir kitap alıp okuyarak zaman öldürdüm.",mecaz,Zaman öldürmek,Zero-shot
+"Hükümet, altyapı projelerine ağırlık vererek ülkenin kalkınmasına önemli adımlar atmış oldu.",mecaz,Ağırlık vermek,Zero-shot
+Çalışmalar devam ederken ekip arasında bir uyum meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Toplantıda dile getirilen sorunları üstüne alarak, derhal çözüm yolları aramaya koyuldu.",mecaz,Üstüne almak,Zero-shot
+"Öğretmeni, sınıfta yaptığı hataları defterden silerek her öğrenciye temiz bir sayfa açma fırsatı tanıdı.",mecaz,Defterden silmek,Zero-shot
+"Mesleki kariyerinde yükselmek isteyen Ayşe, daha fazla sorumluluk almayı kabul ederek yöneticiliğe adım attı.",mecaz,Adım atmak,Zero-shot
+"Seminerde konuşmacı olarak yer almak, bilgi ve deneyimlerini paylaşma fırsatı sundu.",mecaz,Yer almak,Zero-shot
+"Kurumsal bir projede anahtar role sahip olarak yer almak, ona büyük bir profesyonel tatmin sundu.",mecaz,Yer almak,Zero-shot
+"Oyunun son perdesiyle, karakterlerin gerçek niyetleri şaşırtıcı bir şekilde ortaya çıktı.",mecaz,Ortaya çıkmak,Zero-shot
+"Özlemle beklediği mektup eline ulaştığında, genç kızın içi eriyip gitti.",mecaz,İçi erimek,Zero-shot
+Kendini sürekli geliştirerek akademik alanda basamak yapan bir bilim insanı.,mecaz,Basamak yapmak,Zero-shot
+İşten çıkar çıkmaz kafedeki arkadaşlarımla buluşup sohbet ederek zaman öldürdüm.,mecaz,Zaman öldürmek,Zero-shot
+"Kahve molasında, sevdiğim dizinin son bölümünü izleyerek zaman öldürdüm.",mecaz,Zaman öldürmek,Zero-shot
+Yeni yıl yaklaşırken herkes evini baştan yaratmak için kolları sıvadı.,mecaz,Kolları sıvamak,Zero-shot
+"Eğitim seminerinde katılımcılara medya okuryazarlığı üzerinde duruldu, böylece bilgiye erişimlerinin kalitesi arttı.",mecaz,Üzerinde durmak,Zero-shot
+"Toplantılarda her zaman çözüm odaklıymış gibi rol oynamak, aslında onun yardım isteme kapasitesini sınırlıyor.",mecaz,Rol oynamak,Zero-shot
+Katılması gereken toplantıları tekrar düzenleyerek ekibimize önemli ölçüde zaman kazandırdı.,mecaz,Zaman kazanmak,Zero-shot
+"Bazı veliler çocuklarının yanlış davranışlarına göz yumuyor, bu da çocukların hatalarından ders çıkarmasını engelliyor.",mecaz,Göz yummak,Zero-shot
+"İleri sürdüğü çözüm önerisi, toplantıdaki herkesin problemi daha net görmesini sağladı.",mecaz,İleri sürmek,Zero-shot
+"Yazarın eserleri, okurlarında kendi iç dünyalarını sorgulamalarına yol açtı.",mecaz,Yol açmak,Zero-shot
+"Teknolojik girişimi için yatırımcılardan fon toplamak adına, startup sahibi cesaretle el açtı.",mecaz,El açmak,Zero-shot
+"Sınıf arkadaşına özenle hazırladığı doğum günü sürprizini gören kızın mutluluğu, öğretmenin içini eritti.",mecaz,İçi erimek,Zero-shot
+Geçmişteki tüm kırgınlıkları defterden silip yeniden başlamaya ne dersin?,mecaz,Defterden silmek,Zero-shot
+Eleştiriler genellikle genel olarak söylenir ama bazen biri çıkar bu sözleri üstüne alır ve işleri rayına oturtur.,mecaz,Üstüne almak,Zero-shot
+"Kitabının eleştirilere maruz kalması üzerine, yazar okurlarına düşüncelerini ifade etme ve hesap verme fırsatı buldu.",mecaz,Hesap vermek,Zero-shot
+Çalışma programını iyi planlayarak her gün kitap okumak için kendine ekstra zaman kazandı.,mecaz,Zaman kazanmak,Zero-shot
+Kayıp köpekleri sahiplerine kavuşturduğumda yaşlı çiftin mutluluğu karşısında içim eridi.,mecaz,İçi erimek,Zero-shot
+Teknoloji alanındaki yenilikçi ürünleri ve kullanıcı dostu çözümleriyle pazardaki diğer şirketleri geride bırakarak üste çıktı.,mecaz,Üste çıkmak,Zero-shot
+Sunumunda başarısızlık hikayelerine de yer vererek gerçekçi bir bakış açısı sundu.,mecaz,Yer vermek,Zero-shot
+"Affetmek, acıları defterden silip yeni bir umutla yola devam etmektir.",mecaz,Defterden silmek,Zero-shot
+"Yıllar geçmiş olsa da onu, hala hafızamın derinliklerinden defterden silmeyi başaramadım.",mecaz,Defterden silmek,Zero-shot
+E-postayı yanlış kişiye gönderdiğim an ayvayı yediğimi biliyordum.,mecaz,Ayvayı yemek,Zero-shot
+"Doktor, hastanın sağlık durumunu ele alarak en uygun tedavi yöntemini belirlemeye çalıştı.",mecaz,Ele almak,Zero-shot
+Kitapta az bilinen tarihi olaylara yer vererek okuyucuların merakını cezbetti.,mecaz,Yer vermek,Zero-shot
+"Eski iş yerinde yaşadığı olumsuzlukları defterden silip, yeni işine pozitif bir enerjiyle başladı.",mecaz,Defterden silmek,Zero-shot
+"Pazarlık masasında sert adam rolü oynamak, aslında onun anlaşmayı çok istediğini gizlemek için bir taktik.",mecaz,Rol oynamak,Zero-shot
+Genel müdürenin yapıcı eleştirilerini üstüne alarak performansını artırmak için ekstra çaba gösterdi.,mecaz,Üstüne almak,Zero-shot
+"Psikolog, seminerde sağlıklı ilişkilerin altını çizerek insanlar arası etkileşimlerin niteliğinin önemini anlattı.",mecaz,Altını çizmek,Zero-shot
+"Müşteri memnuniyeti anketinde düşük puanların sebeplerine parmak basınca, hizmet kalitemizi artırmak için yeni stratejiler geliştirdik.",mecaz,Parmak basmak,Zero-shot
+İnovatif düşünceleri ve çözüm odaklı yaklaşımıyla endüstride üste çıkmayı başardı.,mecaz,Üste çıkmak,Zero-shot
+"Toplumsal değişim yaratma niyetiyle sivil toplum kuruluşlarına gönüllü olarak katılmaya adım atmak, onun için anlamlı bir adım oldu.",mecaz,Adım atmak,Zero-shot
+"Siyaset bilimci, konuşmasında demokrasinin korunmasının önemini altını çizdi.",mecaz,Altını çizmek,Zero-shot
+Bu başarı hikayesinde onun da katkıları yer almakta.,mecaz,Yer almak,Zero-shot
+"Kitap kulübümüzde düzenli olarak yer almak, okuma alışkanlıklarımı güçlendiriyor.",mecaz,Yer almak,Zero-shot
+Sahip olduğu yeteneklerle sanat dünyasında basamak yaparak tanınmış bir ressam haline geldi.,mecaz,Basamak yapmak,Zero-shot
+"Toplantıda yönetici, müşteri memnuniyeti üzerinde durdu ve tüm ekip bu konuda ortak bir strateji geliştirmeye yönlendirildi.",mecaz,Üzerinde durmak,Zero-shot
+"İş hayatındaki başarısızlıklarını defterden silip, kendisine yeni bir kariyer yolunu çizme kararı aldı.",mecaz,Defterden silmek,Zero-shot
+"Kariyer basamaklarını sabırla ve azimle tırmanarak, meslektaşları arasından sıyrılıp üste çıktı.",mecaz,Üste çıkmak,Zero-shot
+"Kültürel etkinliklerde aktif olarak yer almak, toplumla bağlarımızı güçlendiriyor.",mecaz,Yer almak,Zero-shot
+"Her ne kadar zor olsa da, onu hayatımdan tamamen defterden silmeye karar verdim.",mecaz,Defterden silmek,Zero-shot
+"Felaketin ardından bütün kasaba, yardım için birlikte el açtı.",mecaz,El açmak,Zero-shot
+İşten ayrıldıktan sonra o yoğun temponun stresini üstünden atmak kolay olmadı.,mecaz,Üstünden atmak,Zero-shot
+Son teslim tarihini kaçırınca projede ayvayı yediğimi anladım.,mecaz,Ayvayı yemek,Zero-shot
+Aniden başlayan yağmurda sokakta bir karmaşa meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Gazeteci, toplumun ilgi alanlarını doğru tespit edebilmek için haberlerde sürekli halkın nabzını tutar.",mecaz,Nabzını tutmak,Zero-shot
+"Eğitime karşı çıkmak, bilgi okyanusunda kürek çekmeyi reddetmektir.",mecaz,Karşı çıkmak,Zero-shot
+Eğitim programlarımızda yenilikçi yaklaşımlara ağırlık vermeyi planlıyoruz.,mecaz,Ağırlık vermek,Zero-shot
+İş görüşmesi öncesi heyecanımı yatıştırmak için parkta yürüyüş yaparak zaman öldürdüm.,mecaz,Zaman öldürmek,Zero-shot
+Eski dostunu yıllar sonra havaalanında karşılayan adamın heyecanlı halini görenlerin içi eridi.,mecaz,İçi erimek,Zero-shot
+"Rekabetin artmasıyla birlikte şirket, pazarlama politikalarına yeniden el koyarak kampanyaları güncelledi.",mecaz,El koymak,Zero-shot
+Kazanan takım açıklandığında stadımda bir coşku fırtınası meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Yaşlı adamın, parkta oynayan çocuklara bakarken gülümseyip içi eriyordu.",mecaz,İçi erimek,Zero-shot
+"Projeyi geliştirmek amacıyla, yenilikçi bir strateji öne sürdü.",mecaz,Öne sürmek,Zero-shot
+"Bölüm başkanı, toplantıda sürekli olarak disiplinlerarası çalışmanın önemini altını çizdi.",mecaz,Altını çizmek,Zero-shot
+"Eğitim seminerlerimizde pratik bilgiye ağırlık vermek, teorik bilgilerin iş hayatında uygulanabilirliğini artırıyor.",mecaz,Ağırlık vermek,Zero-shot
+Şirketteki terfi haberinin duyulmasıyla bir rekabet ortamı meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Seminerde konuşmacı, global ısınmanın sebep olduğu sorunları ele alarak çözüm yollarını anlattı.",mecaz,Ele almak,Zero-shot
+Müze restorasyonu için yerel halktan ve iş insanlarından destek istenerek el açıldı.,mecaz,El açmak,Zero-shot
+"Her ne kadar kimsenin hatası olarak görünmese de, o, olumsuz sonucu üstüne alarak herkesin rahatlamasını sağladı.",mecaz,Üstüne almak,Zero-shot
+Yenilikçi fikirleriyle startup dünyasında hızla basamak yapan bir girişimci.,mecaz,Basamak yapmak,Zero-shot
+"Kurallara uymayan sürücülere göz yumduğumuz zaman, trafik kazaları kaçınılmaz hale geliyor.",mecaz,Göz yummak,Zero-shot
+Üst katta su sızıntısı yapınca alt komşunun tavanı zarar gördü ve ayvayı yediğimi biliyordum.,mecaz,Ayvayı yemek,Zero-shot
+"Her zaman olduğu gibi bu toplantıda da yönetici, takım çalışmasının öneminin altını çizdi.",mecaz,Altını çizmek,Zero-shot
+"İş yerinde herkesin gözdesi haline gelerek, informal lider pozisyonuna başa geçti.",mecaz,Başa geçmek,Zero-shot
+"Projede önemli bir hata yapan mühendis, tasarım ekibine hesap vermek için sorunun nedenlerini açıklamak zorunda kaldı.",mecaz,Hesap vermek,Zero-shot
+"Kriz anında serinkanlılıkla önemli noktalara parmak basmak, çözüme giden yolda büyük bir avantaj sağlar.",mecaz,Parmak basmak,Zero-shot
+Önemli bir müşteriyi beklerken trafikte kaldığımda ayvayı yediğimi hissettim.,mecaz,Ayvayı yemek,Zero-shot
+"Kültürel etkinliklerin devamlılığını sağlamak için, halka açık bağış toplayarak el açıldı.",mecaz,El açmak,Zero-shot
+Sunumunda engellilerin karşılaştığı sorunlara yer vererek farkındalık yaratma çabasına öncülük etti.,mecaz,Yer vermek,Zero-shot
+"Üniversitenin araştırma projelerinde yer almak, öğrencilere yeni ufuklar açıyor.",mecaz,Yer almak,Zero-shot
+"Projedeki hatalara parmak basarak, sorunların üstesinden gelmemiz daha kolay oldu.",mecaz,Parmak basmak,Zero-shot
+"Aktivist, çabalarıyla toplumsal farkındalık yaratmak adına toplumda derin izler bırakmayı başardı.",mecaz,İz bırakmak,Zero-shot
+Ahmet dedikoduları üstüne alındı ve huzursuz olmamak için konuyu açıklığa kavuşturdu.,mecaz,Üstüne almak,Zero-shot
+"Disküsyonda, konuya olan derin bilgisini ortaya koyarak herkesin takdirini kazandı.",mecaz,Ortaya koymak,Zero-shot
+"Ekip toplantısında, projede karşılaştığı zorlukları sayıp döktü ve çözüm yolları aradı.",mecaz,Sayıp dökmek,Zero-shot
+"Yeni bir lisan öğrenmeye adım atmak, dünyayı keşfetme biçimini değiştirebilir.",mecaz,Adım atmak,Zero-shot
+"Eğitimciler, öğrencilere kritik düşünme becerilerini kazandırmak için derslerde bu konuya ağırlık veriyorlar.",mecaz,Ağırlık vermek,Zero-shot
+"Toplumsal değişimlere karşı çıkmak, zamanın akışına kaya koymak gibidir.",mecaz,Karşı çıkmak,Zero-shot
+"Sınıfta ileri sürdüğü fikirler, öğretmenin dikkatini çekti ve takdirini kazandı.",mecaz,İleri sürmek,Zero-shot
+"Toplantı sırasında yapılan eleştiriler genelde hava çarpımı oldu fakat benim mesajım birine dokundu; çünkü o, sözleri üstüne alındı ve hemen düzeltiler yapmaya başladı.",mecaz,Üstüne almak,Zero-shot
+Kariyerinin en tepesine çıkarken onun her zaman sıkı durduğunu gördüm.,mecaz,Sıkı durmak,Zero-shot
+"Cinsiyet eşitliği konferansında aktivist, kadınların iş hayatındaki rollerinin güçlendirilmesinin altını çizdi.",mecaz,Altını çizmek,Zero-shot
+"İstişare toplantısında ileri sürdüğü fikirler, projenin yönünü değiştirmeyi başardı.",mecaz,İleri sürmek,Zero-shot
+"Yönetimin çevresel düzenlemelere göz yumması, şirketin toplum nezdindeki itibarını zedeliyor.",mecaz,Göz yummak,Zero-shot
+"Geçmişin karanlık anılarını üstünden atmak, ona daha aydınlık bir gelecek vaat ediyordu.",mecaz,Üstünden atmak,Zero-shot
+Çevre koruma bilincini artırmak adına okullarda adım atmak gerektiğini düşünüyordu.,mecaz,Adım atmak,Zero-shot
+"Yeni çıkan bu yazıda, yazar kadın haklarının altını çizerek toplumsal meselelere değinmiş.",mecaz,Altını çizmek,Zero-shot
+"Bütçeyi aşan harcamalar nedeniyle, finans müdürü yönetim kuruluna hesap vermek zorunda kaldı.",mecaz,Hesap vermek,Zero-shot
+Bilgi birikimi ve deneyimiyle sektördeki diğer profesyonellere nazaran her zaman öne çıkarak başa geçti.,mecaz,Başa geçmek,Zero-shot
+"Ekip toplantısında, herkes fikirlerini rahatlıkla ortaya koydu ve bu sayede çözüm yolları hızla belirlendi.",mecaz,Ortaya koymak,Zero-shot
+"Konuşmacı, konferansta bilim ve teknolojinin geleceğini ele alarak izleyicileri büyüledi.",mecaz,Ele almak,Zero-shot
+"Satranç turnuvasında Ali, ustalık dolu hamleleriyle rakiplerini geçerek zirveye başa geçti.",mecaz,Başa geçmek,Zero-shot
+"Dil kursunda, öğretmen dil öğrenirken yaşanan zorlukları ele alarak öğrencilere pratik çözümler sundu.",mecaz,Ele almak,Zero-shot
+Yeni gelen yönetici kararlarıyla herkes biraz sıkı durmak zorunda kaldı.,mecaz,Sıkı durmak,Zero-shot
+"Müdür, bütçe kesintilerini tartışırken, masrafları azaltmanın yeni bir yolunu ortaya attı.",mecaz,Ortaya atmak,Zero-shot
+Kayıp cüzdanı fark ettiğimde cebimdeki paralar için ayvayı yediğimi anlamıştım.,mecaz,Ayvayı yemek,Zero-shot
+Eski dostunun yanlış anlamalarını üstünden atmak için onunla yüzleşmeye karar verdi.,mecaz,Üstünden atmak,Zero-shot
+Seminerde enerji krizinin çözümü olarak yenilenebilir kaynaklara yatırım yapılmasını öne sürdü.,mecaz,Öne sürmek,Zero-shot
+"Yeni düzenleme, sektörde rekabetin artmasına yol açacak.",mecaz,Yol açmak,Zero-shot
+Dedikoduyu yanlış kişiye yapınca olayın büyüyeceğini ve ayvayı yediğimi biliyordum.,mecaz,Ayvayı yemek,Zero-shot
+"Topluma katkı sağlamak amacıyla sosyal girişimcilik alanına adım atmak, genç girişimci için büyük bir fırsat sundu.",mecaz,Adım atmak,Zero-shot
+"Şef, restoranın düşen müşteri memnuniyet oranları hakkında işletme sahibine hesap verdi.",mecaz,Hesap vermek,Zero-shot
+"Rehber, tarihi belgeler üzerinde durarak şehrin geçmişinin altını çizdi.",mecaz,Üzerinde durmak,Zero-shot
+"Gazeteci, köşe yazısında yerel seçimleri ele alarak siyasi dinamikleri analiz etti.",mecaz,Ele almak,Zero-shot
+"Toplantı kontrolden çıkınca, yönetici hemen el koyarak herkesi sakinleştirdi.",mecaz,El koymak,Zero-shot
+"Tasarımcı, koleksiyonundaki her bir parçayla özgün stilini ortaya koydu.",mecaz,Ortaya koymak,Zero-shot
+"Raporunda ileri sürdüğü bulgular, sektördeki mevcut anlayışı tamamen değiştirecek nitelikteydi.",mecaz,İleri sürmek,Zero-shot
+"Yazar, romanında yalnızlık temasını ele alarak karakterlerin iç dünyalarını derinlemesine işledi.",mecaz,Ele almak,Zero-shot
+"Eğitmen, dersin başında öğrencilerin motivasyon sorunlarını ele almak için bir anket düzenledi.",mecaz,Ele almak,Zero-shot
+"Üniversite sınavlarına hazırlanan öğrenciler, hedeflerine ulaşmak için kolları sıvayarak daha sıkı çalışmaya başladı.",mecaz,Kolları sıvamak,Zero-shot
+"Yeni tanıştığı kişiye güveni tam olduğu için, ona geçmişte yaşadığı tüm zorlukları sayıp döktü.",mecaz,Sayıp dökmek,Zero-shot
+Ödevlerini grup çalışması yaparak arkadaşlar arasında zaman kazanmış oldular.,mecaz,Zaman kazanmak,Zero-shot
+Minik öğrencinin sahnedeki ilk piyano performansını izlerken tüm öğretmenlerin içi eridi.,mecaz,İçi erimek,Zero-shot
+"Seminerde, teknolojik gelişmelerin iş gücü piyasasını dönüştürdüğünü öne sürerek katılımcıları bilgilendirdi.",mecaz,Öne sürmek,Zero-shot
+"Brainstorming seansında ortaya atılan fikirler, probleme bambaşka bir çözüm yolu sundu.",mecaz,Ortaya atmak,Zero-shot
+"Bu romanın yazarı, edebiyat dünyasında unutulmaz izler bırakarak genç yazarlara ilham kaynağı oldu.",mecaz,İz bırakmak,Zero-shot
+Akıllı telefonunu toplantı moduna alarak gereksiz bildirimlerle uğraşmadan toplantıda zaman kazandı.,mecaz,Zaman kazanmak,Zero-shot
+"Toplantıda farklı görüşlere yer vermek, daha yaratıcı çözümler üretilmesine olanak sağladı.",mecaz,Yer vermek,Zero-shot
+"Eşitlik ilkesine karşı çıkmak, köprüleri yakmak gibi bir şeydir.",mecaz,Karşı çıkmak,Zero-shot
+Her konuda bilgili olması ve etkili konuşmalar yapmasıyla akademide üste çıktı.,mecaz,Üste çıkmak,Zero-shot
+"Yönetici toplantıda, iş yerindeki iletişim problemlerini ele alarak tüm ekiple bu konuyu tartıştı.",mecaz,Ele almak,Zero-shot
+"Ailesine karşı hep mutluymuş gibi davranmak, gerçek duygularını ifade etmekten alıkoyan bir rol oynamadır.",mecaz,Rol oynamak,Zero-shot
+"Mutfakta denemek için yeni bir tarif ortaya atmak, her zaman heyecan vericidir.",mecaz,Ortaya atmak,Zero-shot
+"Kriz anlarında sergilediği liderlik özellikleriyle her zaman üste çıkan yönetici, çalışanlar tarafından çok saygı görüyordu.",mecaz,Üste çıkmak,Zero-shot
+"Kriz anlarındaki liderlik yeteneği, gerçek karakterini ortaya çıkarmıştı.",mecaz,Ortaya çıkmak,Zero-shot
+İhanetini asla unutmayacağım ve onu kalbimdeki defterden silmeye hiç niyetim yok.,mecaz,Defterden silmek,Zero-shot
+"Grup tartışmasında, çevre kirliliğine çözüm olarak yenilenebilir enerji kullanımının artırılmasını öne sürdü.",mecaz,Öne sürmek,Zero-shot
+"Toplum hizmeti projelerinde aktif olarak yer almak, ona büyük bir iç huzuru sağlıyor.",mecaz,Yer almak,Zero-shot
+"Yıllarca süren hizmetinden sonra emekliye ayrılan müdür, tüm kötü anları defterden silip, güzel hatıralarla vedalaştı.",mecaz,Defterden silmek,Zero-shot
+"İnovatör, sunumunda yeni icadını ortaya koyarak sektördeki sorunlara yaratıcı çözümler sundu.",mecaz,Ortaya koymak,Zero-shot
+"Kitap tartışmasında ileri sürdüğü yorumlar, herkesin bakış açısını değiştirdi.",mecaz,İleri sürmek,Zero-shot
+"Kongrede, bilim insanları son teknoloji yeniliklerini ele alarak sektördeki gelişmeler hakkında bilgi verdiler.",mecaz,Ele almak,Zero-shot
+"Yaşadığı bütün zorlukları arkadaşına sayıp döktü, bunun sonucunda çok daha hafif hissetti.",mecaz,Sayıp dökmek,Zero-shot
+"Aktivist, çevre koruma konusundaki tutkulu çalışmalarıyla toplumda farkındalık yaratarak bir iz bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Ayrıldığı sevgilisinin hatırasını üstünden atmak, yeni bir ilişkiye başlamasına yardımcı oldu.",mecaz,Üstünden atmak,Zero-shot
+"Eğitmen, dersin başında önemli konular üzerinde durarak herkesin dikkatini çekti.",mecaz,Üzerinde durmak,Zero-shot
+"Projede yapılan hataları, lider üstüne alınca ekip içerisinde rahatlama hissedildi.",mecaz,Üstüne almak,Zero-shot
+"Sporcu, uluslararası yarışmalarda elde ettiği başarılarla ülkesini gururlandırarak spor tarihinde önemli bir iz bıraktı.",mecaz,İz bırakmak,Zero-shot
+Gizemli hikaye anlatılırken etrafta bir tedirginlik meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Yağmurlu bir gün olduğunda, evde film izleyerek zaman öldürmeyi tercih ederim.",mecaz,Zaman öldürmek,Zero-shot
+"Gecenin ilerleyen saatlerinde, sohbet derinleştikçe dostumun sanat tutkusu ortaya çıktı.",mecaz,Ortaya çıkmak,Zero-shot
+"Şef, menüsünde Akdeniz mutfağına ağırlık vererek ziyaretçilere farklı tatlar sunmayı tercih etti.",mecaz,Ağırlık vermek,Zero-shot
+"Teknoloji şirketi, ürünlerinin güvenlik açıkları hakkında tüketicilere ve yatırımcılara hesap vermek için bir basın toplantısı düzenledi.",mecaz,Hesap vermek,Zero-shot
+Öğle arasında kısa yürüyüşler yaparak enerji toplayıp öğleden sonra daha verimli çalışarak zaman kazandı.,mecaz,Zaman kazanmak,Zero-shot
+"Eğitimciler, öğrencilerin ilgi alanlarını belirlemek için sınıfın nabzını tutmaya özen gösteriyor.",mecaz,Nabzını tutmak,Zero-shot
+"Sorunun çözümüne yönelik ileri sürdüğü öneriler, işleri kolaylaştırdı.",mecaz,İleri sürmek,Zero-shot
+"Yönetim kurulu toplantısında yeniliklere yer vermek, şirketin ileriye dönük büyümesini destekleyecektir.",mecaz,Yer vermek,Zero-shot
+Ulusal şampiyonaları kazanarak spor kariyerinde basamak yapan bir atlet.,mecaz,Basamak yapmak,Zero-shot
+"Psikolog, danışanının stres yönetimi sorunlarını ele alarak çeşitli terapiler önerdi.",mecaz,Ele almak,Zero-shot
+"Strateji toplantısında, tüm farklı fikirleri bir araya getirip ortak bir çözüm ortaya attık.",mecaz,Ortaya atmak,Zero-shot
+"Yönetici, toplantıda şirketin gelecek stratejilerini ortaya koyarak tüm çalışanları bilgilendirdi.",mecaz,Ortaya koymak,Zero-shot
+"Sağlıklı yaşam yolculuğuna adım atmak, ilk olarak sağlıklı beslenme alışkanlıkları edinmekle başlar.",mecaz,Adım atmak,Zero-shot
+Hava durumunu önceden kontrol ederek yanlış günlerde dışarı çıkma planı yapmaktan ve böylece zaman kaybetmekten kaçındı.,mecaz,Zaman kazanmak,Zero-shot
+"Eğitim programında sürdürülebilir çevre uygulamalarına yer vermek, öğrencilerin bilinçlenmesine yardımcı oluyor.",mecaz,Yer vermek,Zero-shot
+"Evinde yapılacak büyük tadilat öncesinde Ali, malzeme araştırmalarına başlamak üzere kolları sıvadı.",mecaz,Kolları sıvamak,Zero-shot
+"Gelişmelere sürekli karşı çıkmak, fırtınalı bir denizde yelken açmaya çalışmaktır.",mecaz,Karşı çıkmak,Zero-shot
+Beklenmeyen haberle ailede bir telaş meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Yabancı dil öğrenmeye en sonunda adım atmak, onun için yeni kültürlerle tanışmanın kapısını araladı.",mecaz,Adım atmak,Zero-shot
+Aile toplantısında uzun süredir söylenmeyen gerçekler sonunda ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"Proje ilerlemiyor görünce, departman başkanı el koyarak ekibe yeni üyeler ekledi.",mecaz,El koymak,Zero-shot
+"Aile içi çekişmeleri defterden silmek, bayram sofrasındaki muhabbeti daha da tatlandırdı.",mecaz,Defterden silmek,Zero-shot
+"İş yerinde sürekli özverili çalışan rolü oynamak, gerçektir benliğini gölgeledi.",mecaz,Rol oynamak,Zero-shot
+Şirketin kriz yönetimi sırasında her bir çalışan sıkı durarak büyük bir dayanışma gösterdi.,mecaz,Sıkı durmak,Zero-shot
+"Çevre koruma projesi için destek toplama kampanyasını yöneten ekip, hedeflerine ulaşmak için kollarını sıvadı.",mecaz,Kolları sıvamak,Zero-shot
+"Seminer boyunca ileri sürdüğü görüşler, konunun daha iyi anlaşılmasına katkıda bulundu.",mecaz,İleri sürmek,Zero-shot
+"Tartışmalarda sürekli arabulucu rolü oynamak, kendi görüşlerini ifade etmekten alıkoyuyor.",mecaz,Rol oynamak,Zero-shot
+"Kırıldığı anlarda, duygularını kontrol edemeyip tepkilerini sayıp döker.",mecaz,Sayıp dökmek,Zero-shot
+"Sınıftaki herkes sıkılınca, öğretmen dersi canlandırmak için ilginç bir soru ortaya attı.",mecaz,Ortaya atmak,Zero-shot
+"İkilemde kaldığımızda, Ahmet yeni bir çözüm yolu ortaya atarak hepimizin rahatlamasını sağladı.",mecaz,Ortaya atmak,Zero-shot
+"Başarısız girişiminden sonra, genç girişimci başka bir fırsat için yeniden el açmak zorunda kaldı.",mecaz,El açmak,Zero-shot
+"Yazar, olay örgüsü ve karakter derinliğiyle okurlarının zihninde silinmez izler bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Desteklediği yardım kuruluşu için fon toplama etkinliğini başlatan Emre, gönüllülerle bir araya gelip kolları sıvadı.",mecaz,Kolları sıvamak,Zero-shot
+"Kitabın sarsıcı içeriği, okurlarında farkındalık yaratmaya yol açtı.",mecaz,Yol açmak,Zero-shot
+"Sorunlara çözüm getiren önerilere karşı çıkmak, sorunu büyüten bir su birikintisine dönüştürür.",mecaz,Karşı çıkmak,Zero-shot
+"Kendi sanat sergisini düzenleyerek sanat dünyasına adım atmak, onun için büyük bir dönüm noktasıydı.",mecaz,Adım atmak,Zero-shot
+Proje için gerekli finansmanı sağlamak amacıyla kalabalığa el açarak bağış kampanyası başlattı.,mecaz,El açmak,Zero-shot
+"İş arkadaşlarının gözünde, her zaman yardıma koşan tavırlarıyla güvenilirlikte başa geçti.",mecaz,Başa geçmek,Zero-shot
+"Kriz durumunda herkesin göz ardı ettiği detaylara parmak basmak, çözüm sürecini hızlandırabilir.",mecaz,Parmak basmak,Zero-shot
+"Toplum olarak haksızlıklara göz yumduğumuz sürece, adalet duygusu zayıflayacaktır.",mecaz,Göz yummak,Zero-shot
+"Araştırma raporunda çevresel etkiler üzerinde durulması, konunun önemini vurguluyor.",mecaz,Üzerinde durmak,Zero-shot
+"Mutfaktaki sipariş karışıklığı artınca, aşçıbaşı el koyup sipariş sistemi üzerinde düzenlemeler yaptı.",mecaz,El koymak,Zero-shot
+"Projenin başarısızlığının ardından, lider olarak Ben, takımıma ve yöneticime hesap vermek durumunda kaldım.",mecaz,Hesap vermek,Zero-shot
+"Politik yorumcu, televizyon programında hükümetin ekonomi politikaları üzerinde durdu, toplumun dikkatini bu konuya çekti.",mecaz,Üzerinde durmak,Zero-shot
+Yıllar süren üzüntüyü üstünden atmak için terapiye başladı.,mecaz,Üstünden atmak,Zero-shot
+Başarısızlıkla sonuçlanan projeden sonra yönetim duruma el koydu ve yeni stratejiler geliştirdi.,mecaz,El koymak,Zero-shot
+Kişisel gelişim yolculuğunda karşılaşacağın zorluklar karşısında sıkı dur.,mecaz,Sıkı durmak,Zero-shot
+Her zaman doğru zamanda doğru hamleyi yaparak oyun masasında rakiplerini birer birer geçip başa geçti.,mecaz,Başa geçmek,Zero-shot
+"İşveren, iş görüşmesinde takım çalışmasının şirket kültürü için ne kadar önemli olduğunu altını çizdi.",mecaz,Altını çizmek,Zero-shot
+Yeni müfredatta çevre bilincine ağırlık vermek öğrencilerin geleceğe daha duyarlı yetişmesini sağlayacak.,mecaz,Ağırlık vermek,Zero-shot
+"Sosyal değişimlere karşı çıkmak, tarihin akışına set çekmeye çalışmaktır.",mecaz,Karşı çıkmak,Zero-shot
+Bütçe açıklarına göz yumarak işletmeyi uzun vadede tehlikeye atıyoruz.,mecaz,Göz yummak,Zero-shot
+"Değerlendirme raporunda, sistematik hatalara parmak basmak, sorunların kökten çözülmesini sağladı.",mecaz,Parmak basmak,Zero-shot
+"Yeni başlayanlar için kolaylık sağlamak amacıyla, eğitim programımızı iyileştirecek önerileri ortaya attık.",mecaz,Ortaya atmak,Zero-shot
+"Araştırmacı, toplumun çevresel bilincini anlayabilmek için nabzını tutmak amacıyla anketler düzenliyor.",mecaz,Nabzını tutmak,Zero-shot
+Bilgi yarışmasında sorulara verdiği akıllıca yanıtlarla diğer yarışmacıları geride bırakıp başa geçti.,mecaz,Başa geçmek,Zero-shot
+Gizli toplantıların detayları basına sızdı ve şirketin kriz yönetimi stratejileri ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"İş yerindeki gereksiz baskıları üstünden atmak, onun daha verimli çalışmasına olanak tanıdı.",mecaz,Üstünden atmak,Zero-shot
+"Sanatçının yenilikçi çalışmaları, sanat dünyasında yeni bir akımın yolunu açtı.",mecaz,Yol açmak,Zero-shot
+Zorlu rekabetin yaşandığı pazarda yenilikçi ürünleriyle firma kısa sürede rakiplerinin üstüne çıktı.,mecaz,Üste çıkmak,Zero-shot
+"Müdürün genel uyarısının ardından, hepsi kafalarını öne eğdi ama sadece biri sözleri üstüne alarak hemen aksiyona geçti.",mecaz,Üstüne almak,Zero-shot
+"Film yönetmeni, toplumsal meselelere değinen filmleriyle izleyicilerin bilincinde derin izler bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Bir problem olduğunda çözüm bulmak için hemen parmak basan Melis, takımın vazgeçilmezi.",mecaz,Parmak basmak,Zero-shot
+Üstlerinin usulsüzlüklerine göz yumduğu için iş yerindeki düzen bozuldu.,mecaz,Göz yummak,Zero-shot
+"Geleneklere karşı çıkmak, ataların izinden sapmak gibi görülebilir.",mecaz,Karşı çıkmak,Zero-shot
+"Cerrahi operasyon için beklerken, dergilerle vakit öldürdüm.",mecaz,Zaman öldürmek,Zero-shot
+"Havaalanında uçuş saatimin gelmesini beklerken, bilgisayar oyunları oynayarak zaman öldürdüm.",mecaz,Zaman öldürmek,Zero-shot
+Krizin ortasında herkesin sabrı sınandı ve gerçek dostlarımız ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"Performans değerlendirme toplantısında yönetici, çalışanların motivasyonunu artırma ihtiyacına parmak basarak, yeni teşvikler önerdi.",mecaz,Parmak basmak,Zero-shot
+"Küçük köy okulu, tadilat için hükümete ve hayır kurumlarına el açtı.",mecaz,El açmak,Zero-shot
+"Üniversitedeki son sınavından aldığı düşük notun hayal kırıklığını üstünden atmak, mezuniyet partisine kendini adamasına yardımcı oldu.",mecaz,Üstünden atmak,Zero-shot
+"Dedektifin dikkatli soruşturması sonucunda, kasabanın unutulmuş sırları birer birer ortaya çıktı.",mecaz,Ortaya çıkmak,Zero-shot
+"Her zaman mükemmel dost rolü oynamak, zaman zaman kendisine zaman ayırmayı ihmal etmesine neden oluyor.",mecaz,Rol oynamak,Zero-shot
+"Geçmişte yaşanan tüm olumsuzlukları üstünden atmak, ona taze bir başlangıç sundu.",mecaz,Üstünden atmak,Zero-shot
+"Herkesle dost gibi görünmek, aslında yalnız hissettiğini gizlemek için oynadığı bir rol haline gelmişti.",mecaz,Rol oynamak,Zero-shot
+"Öğrencinin sorusu, dersin daha ilginç bir tartışmaya yol açtı.",mecaz,Yol açmak,Zero-shot
+Uzun bir toplantı arasında kantinde kahve içerek zaman öldürdüm.,mecaz,Zaman öldürmek,Zero-shot
+"Şirket, teknoloji dünyasındaki gelişmelerden geri kalmamak için sürekli sektörün nabzını tutuyor.",mecaz,Nabzını tutmak,Zero-shot
+"Genç girişimciler fuarında yer almak, hem motivasyonunu artırdı hem de ağını genişletti.",mecaz,Yer almak,Zero-shot
+"Bilimsel çalışma, genetik mühendisliği alanında devrim yapacak yeniliklere yol açtı.",mecaz,Yol açmak,Zero-shot
+"Sosyal bilgiler sunumunda, medyanın toplumsal değişim üzerindeki etkilerini öne sürerek argümanını pekiştirdi.",mecaz,Öne sürmek,Zero-shot
+Sunumda şirketin geleceği üzerinde duruldu ve yeni stratejiler ortaya konuldu.,mecaz,Üzerinde durmak,Zero-shot
+"Toplum tarafından şiddet olaylarına göz yumulduğunda, barış ortamı zarar görüyor.",mecaz,Göz yummak,Zero-shot
+"Şirket, çalışanlarının iş tatmini ve motivasyonuna ağırlık vermek için yeni bir program başlattı.",mecaz,Ağırlık vermek,Zero-shot
+"Sağlıklı yaşam sürmek için düzenli spor yapmaya adım atmak, onun için büyük bir değişiklik olacaktı.",mecaz,Adım atmak,Zero-shot
+"Toplum lideri, adalet ve eşitlik adına verdiği mücadelelerle insanların kalplerinde derin bir iz bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Reklam stratejilerini belirlerken, firma gençlerin nabzını tutarak hareket ediyor.",mecaz,Nabzını tutmak,Zero-shot
+"Festival yönetimi, alternatif müzik gruplarına sahnede daha fazla yer verme kararı aldı.",mecaz,Yer vermek,Zero-shot
+"İleri sürdüğü plan sayesinde, karmaşık problem kolayca çözüme kavuştu.",mecaz,İleri sürmek,Zero-shot
+"Yönetici, haftalık iş toplantısında projenin zaman yönetimi sorunlarını ele alarak ekip üyelerinden geri bildirim istedi.",mecaz,Ele almak,Zero-shot
+Kahramanın zaferiyle sinema salonunda alkış tufanı meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Kriz anlarında sıkı durmak, sakin kalmamıza yardımcı olur.",mecaz,Sıkı durmak,Zero-shot
+Proje planını iyi yaparak olası aksaklıklarda zaman kazanmanın yollarını buldu.,mecaz,Zaman kazanmak,Zero-shot
+"İleri sürdüğü strateji sayesinde, şirket rekabette bir adım öne geçti.",mecaz,İleri sürmek,Zero-shot
+"Festival programında sanatçı olarak yer almak, performansını daha geniş kitlelere ulaştırdı.",mecaz,Yer almak,Zero-shot
+"Bilim insanı, kanser araştırmalarında elde ettiği başarılarla tıp dünyasında silinmez bir iz bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Yeni düzenlemeler, endüstride çevre dostu uygulamalara yol açacak.",mecaz,Yol açmak,Zero-shot
+"Projedeki aksamaları fark eden Ayşe, sorunların üstüne parmak basarak hızlıca çözüm aradı.",mecaz,Parmak basmak,Zero-shot
+"Kriz yönetimi sırasında liderlerin sıkı durması, tüm organizasyonun bu zor dönemi atlatmasına yardımcı olur.",mecaz,Sıkı durmak,Zero-shot
+"Üniversiteye giriş sınavına hazırlanan öğrenciler, başarıyı yakalamak için ders çalışmada kolları sıvadılar.",mecaz,Kolları sıvamak,Zero-shot
+"Filmin beklenmeyen finali hakkında, yönetmen sinema severlere sosyal medya üzerinden hesap verdi.",mecaz,Hesap vermek,Zero-shot
+Projeye yeni bir soluk getirmek için cesurca fikirler ortaya atmak gerekti.,mecaz,Ortaya atmak,Zero-shot
+"İçini rahatlatmak için psikoloğa gittiğinde, tüm problem ve endişelerini sayıp döktü.",mecaz,Sayıp dökmek,Zero-shot
+"Üretim hatalarına parmak basarak, kalite kontrol süreçlerinin yeniden gözden geçirilmesi gerektiğini dile getirdi.",mecaz,Parmak basmak,Zero-shot
+"Yazar, romanında aşk ve ihaneti ele alarak okuyucuların duygularına tercüman oldu.",mecaz,Ele almak,Zero-shot
+"Sürdürülebilirlik konularına göz yummak, gelecekteki nesillere karşı sorumluluklarımızı ihlal eder.",mecaz,Göz yummak,Zero-shot
+"Projenin gelişim süreci, ekibin yaratıcı potansiyelini ortaya çıkardı.",mecaz,Ortaya çıkmak,Zero-shot
+Sektördeki yenilikleri sürekli takip ederek rakiplerinin önüne geçip üste çıktı.,mecaz,Üste çıkmak,Zero-shot
+"Şirket, sunumunda yenilikçi projelere geniş yer vermekle yatırımcıların ilgisini çekmeyi başardı.",mecaz,Yer vermek,Zero-shot
+"Sokak hayvanlarına kötü muameleye göz yumduğumuz her an, insanlık dışı davranışları normalleştiriyoruz.",mecaz,Göz yummak,Zero-shot
+Başarılı sunumları ve etkili iletişim becerileri sayesinde iş yerinde hızla üste çıkan bir yetenek olarak dikkat çekti.,mecaz,Üste çıkmak,Zero-shot
+Grup motivasyonunu yüksek tutabilmek için eğitmen düzenli olarak sürece el koyup moral veriyor.,mecaz,El koymak,Zero-shot
+Toptan alışveriş yaparak her hafta markete gitmekten zaman kazandı.,mecaz,Zaman kazanmak,Zero-shot
+"Tüm gece arkadaşlarıyla dışarıda kalan genç, eve döndüğünde annesine hesap vermek zorunda kaldı.",mecaz,Hesap vermek,Zero-shot
+"Takım olarak kötü performans sergiledik ama kaleci arkadaşımız maç sonrası yapılan eleştirileri üstüne alıp, daha fazla çalışacağını söyledi.",mecaz,Üstüne almak,Zero-shot
+Şef menüsünde geleneksel lezzetlere ağırlık vererek ziyaretçilerine unutulmaz bir deneyim sunmayı hedefliyor.,mecaz,Ağırlık vermek,Zero-shot
+"İleri sürdüğü plan, projemizin başarıya ulaşmasında büyük rol oynadı.",mecaz,İleri sürmek,Zero-shot
+"Sürekli fikir değiştiren toplulukta, belirgin vizyonu ile bütün gözler ona döndü ve mecazi anlamda başa geçti.",mecaz,Başa geçmek,Zero-shot
+Yaşadığı maddi sıkıntılar yüzünden ailesinden yine el açmak zorunda kaldı.,mecaz,El açmak,Zero-shot
+"Her daim bilge kişi rolü oynamaya çalışmak, onun içindeki çelişkileri görmezden gelmesine neden oluyordu.",mecaz,Rol oynamak,Zero-shot
+"Yönetmen, filmi için konu seçerken seyircinin nabzını tutmayı ihmal etmiyor.",mecaz,Nabzını tutmak,Zero-shot
+"Ahmet, kariyerinde bir adım ilerlemek için kollarını sıvayıp, yeni yetenekler öğrenmeye başladı.",mecaz,Kolları sıvamak,Zero-shot
+"Gazeteci makalesinde, şehir planlamasında yeşil alanların korunmasının altını çizdi.",mecaz,Altını çizmek,Zero-shot
+Evde kırdığım vazonun annemin en sevdiği vazo olduğunu öğrenince ayvayı yediğimi biliyordum.,mecaz,Ayvayı yemek,Zero-shot
+"Yanlış kişiye mesaj gönderdiğimde cevap olarak kızgın bir emoji aldığımda, kesinlikle ayvayı yemiştim.",mecaz,Ayvayı yemek,Zero-shot
+Eleştirilerin ardından bir savunma duvarı meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Mütevazı bir yaşam sürdüren yazar, ünüyle ilgili sorular karşısında medyaya hesap vermek zorunda kaldı.",mecaz,Hesap vermek,Zero-shot
+"Şikayetler artınca, o dostane tavsiyeyi üstüne alarak kendini ve yaklaşımlarını gözden geçirmeye karar verdi.",mecaz,Üstüne almak,Zero-shot
+"Hayvan hastanesinde tedavi gören yaralı köpek, sağlığına kavuşup koşmaya başlayınca çalışanların içi eridi.",mecaz,İçi erimek,Zero-shot
+Kış ayları geldikçe insanların içlerindeki sıcaklık daha bir ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"Üniversiteli genç, öğrenimine devam edebilmek için burs programlarına başvurarak el açtı.",mecaz,El açmak,Zero-shot
+"Kendini sürekli geliştirerek sanat alanında basamak yapan ressam, sergiler açmaya başladı.",mecaz,Basamak yapmak,Zero-shot
+"İş görüşmelerinde her zaman kendinden emin rolü oynamak, doğal kişiliğinin gölgede kalmasına neden oluyor.",mecaz,Rol oynamak,Zero-shot
+Önceden ders notlarını gözden geçirerek sınıfta anlatılacak konuları daha hızlı kavrayıp zaman kazandı.,mecaz,Zaman kazanmak,Zero-shot
+Yolculuk sırasında manzara fotoğrafları çekerek zaman öldürdüm.,mecaz,Zaman öldürmek,Zero-shot
+Son dakika golüyle taraftarlar arasında sevinçten adeta bir volkan meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Öğretmen, dersinin anlaşılırlığına ağırlık vererek öğrencilerin başarısını artırmayı amaçlıyor.",mecaz,Ağırlık vermek,Zero-shot
+"Politik bir tartışmada, ekonomik istikrarsızlığın ana sebeplerinden biri olarak küresel sermaye akışlarını öne sürdü.",mecaz,Öne sürmek,Zero-shot
+"Sanatçı, kişisel sergisinde yaşamın iniş çıkışlarını tasvir eden eserlerini ortaya koydu.",mecaz,Ortaya koymak,Zero-shot
+"Müzisyenler için bir festival programında yer almak, kariyerlerinde önemli bir kilometre taşı olabilir.",mecaz,Yer almak,Zero-shot
+"İş yerindeki baskı dayanılmaz hale gelince, toplantıda hissettiklerini sayıp döktü.",mecaz,Sayıp dökmek,Zero-shot
+"Yönetmen, sinema dünyasında sosyal sorunlara değinen filmleriyle eleştirmenlerin belleğinde kalıcı bir iz bıraktı.",mecaz,İz bırakmak,Zero-shot
+"Sosyal sorunlara dikkat çekmek adına belgesel yapımına adım atmak, onun için medyanın gücünü kullanmanın en etkili yolu oldu.",mecaz,Adım atmak,Zero-shot
+"Yazar, karakterlerinin ağzından sosyal meseleleri sayıp döktüğü romanında derin mesajlar verdi.",mecaz,Sayıp dökmek,Zero-shot
+"Kariyer danışmanı, iş arama süreçlerinde etkili iletişim kurma teknikleri üzerinde durdu, böylece adayların iş bulma şanslarını arttırdı.",mecaz,Üzerinde durmak,Zero-shot
+"Toplantı yönünü yitirince, toplantı başkanı el koyup gündemi daha sıkı takip etmeye başladı.",mecaz,El koymak,Zero-shot
+Araştırma ilerledikçe eski uygarlıkların bilinmeyen yönleri ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"Eski ilişkisinin gölgesini üstünden atmak, yeni başlangıçlar için ilk adım oldu.",mecaz,Üstünden atmak,Zero-shot
+"Araştırmacı, konferansta yeni teorisini ortaya koyarak akademik çevrelerde saygınlık kazandı.",mecaz,Ortaya koymak,Zero-shot
+Müzede sergilenen eserlerle ziyaretçilerde büyük bir hayranlık meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Grup çalışması aksamaya başlayınca, öğretmen el koyarak herkese eşit görev dağılımı yaptı.",mecaz,El koymak,Zero-shot
+"Kitapta unutulmuş halk hikayelerine yer vermek, bu geleneğin yeni nesillere aktarılmasını garanti altına alıyor.",mecaz,Yer vermek,Zero-shot
+"Bilim insanı, sunumunda yeni bulgularını ortaya koyarak teorinin doğruluğunu kanıtladı.",mecaz,Ortaya koymak,Zero-shot
+Müzakere masasında herkesi ikna edebilme kabiliyeti sayesinde kısa sürede grubun lideri olarak başa geçti.,mecaz,Başa geçmek,Zero-shot
+"Kültürel etkinliklerde yerel sanatçılara ağırlık vermek, bölgesel kültürün korunması ve tanıtılmasına katkıda bulunuyor.",mecaz,Ağırlık vermek,Zero-shot
+Söz verdiğim halde doğum gününü unutunca ayvayı yemiş bulundum.,mecaz,Ayvayı yemek,Zero-shot
+"Gerçekleri öğrendiğinde sıkı durmak kolay olmayacak, ama güçlü kalması lazım.",mecaz,Sıkı durmak,Zero-shot
+"Herkes sessizken, Seda konuyu değiştirmek için çarpıcı bir soruyu ortaya atınca, sohbet tekrar alevlendi.",mecaz,Ortaya atmak,Zero-shot
+"Politikacı konuşmasında eğitim reformları üzerinde durdu, bu da seçmenlerin ilgisini çekti.",mecaz,Üzerinde durmak,Zero-shot
+Üstümdeki kıyafetle yağmura yakalanınca ayvayı yediğimi hissettim.,mecaz,Ayvayı yemek,Zero-shot
+"Sinema kulübündeki değerlendirmede, filmin aslında modern toplumu eleştirdiğini öne sürerek farklı bir bakış açısı sundu.",mecaz,Öne sürmek,Zero-shot
+Eleştirileri kabul ederken özellikle iyileştirilmesi gereken noktalara parmak basmak faydalıydı.,mecaz,Parmak basmak,Zero-shot
+"Yazar, röportaj sırasında kariyeri boyunca yaşadığı zorlukları sayıp döktü ve tüm dikkatleri üzerine çekti.",mecaz,Sayıp dökmek,Zero-shot
+"Gazete, köşe yazılarında genç yazarlara yer vererek yeni seslerin duyulmasına kapı aralıyor.",mecaz,Yer vermek,Zero-shot
+Okulun tadilat için gereken fonu toplamak üzere herkes kolları sıvayıp etkinlikler düzenlemeye koyuldu.,mecaz,Kolları sıvamak,Zero-shot
+"Üstünden atamadığı korkuları, onun ilerlemesine engel olmaya devam ediyordu.",mecaz,Üstünden atmak,Zero-shot
+"Geciken proje teslimi nedeniyle, tüm ekip üyeleri yöneticiye hesap vermek durumunda kaldı.",mecaz,Hesap vermek,Zero-shot
+"Müzik yarışmasında diğer tüm performansları geride bırakarak, alandaki yeteneği ile başa geçti.",mecaz,Başa geçmek,Zero-shot
+"Şirket CEO'su, yatırımcılara hesap vermek için çeyrek dönem kar zarar bilançosunu hazırladı.",mecaz,Hesap vermek,Zero-shot
+"İdareciler, disiplinsiz davranışlara sistemli olarak göz yumduğu sürece, kurumsal yapı zayıflar.",mecaz,Göz yummak,Zero-shot
+"Şirket global pazarda yer almak için adım atmak zorundaydı, bu yüzden yurtdışına açılma kararı aldı.",mecaz,Adım atmak,Zero-shot
+"İnternet gittiğinde, evdeki eski albümleri karıştırarak zaman öldürmeyi seçtim.",mecaz,Zaman öldürmek,Zero-shot
+"Yarışta birçok güçlü rakip vardı, ancak hazırlık ve azmi sayesinde puanlamada zirveye oturarak başa geçti.",mecaz,Başa geçmek,Zero-shot
+"Oynadığı kritik rol, takımın maçı kazanmasına yol açtı.",mecaz,Yol açmak,Zero-shot
+"Seminerde konuşmacı, yenilikçi düşüncenin altını çizerek geleceğin iş dünyasının bu yönde şekilleneceğini belirtti.",mecaz,Altını çizmek,Zero-shot
+"Hastanede gönüllü çalışmaya karar veren Merve, sağlık eğitimleri almak için kollarını sıvadı.",mecaz,Kolları sıvamak,Zero-shot
+"Yazar, romanında aşk temasına ağırlık vererek okuyucuların duygusal bağ kurmasını sağladı.",mecaz,Ağırlık vermek,Zero-shot
+"Karar verme sürecinde ileri sürdüğü fikirler, herkesin bakış açısını genişletti.",mecaz,İleri sürmek,Zero-shot
+Değişim zamanlarında doğru kararlar vererek şirketi krizlerden alıp üste çıkardı.,mecaz,Üste çıkmak,Zero-shot
+"Roman sona erdikçe, kurgunun ardındaki derin mesajlar ortaya çıktı.",mecaz,Ortaya çıkmak,Zero-shot
+"Tarihi bir romanın kurgusunda gerçek olaylara yer vermek, okuyucuya daha derin bir bağ kurma şansı sunuyor.",mecaz,Yer almak,Zero-shot
+"Değerlendirme toplantısında yapılan eleştiriler genelde olumsuzdu ama o, bu eleştirileri üstüne alarak kendini geliştirme fırsatı olarak gördü.",mecaz,Üstüne almak,Zero-shot
+"Tartışmada, karşı tarafın argümanlarını çürütmek için kendi tezini öne sürdü.",mecaz,Öne sürmek,Zero-shot
+Müzakere sırasında rakibin zayıf noktalarına parmak basarak avantaj sağladık.,mecaz,Parmak basmak,Zero-shot
+"Yazar, kitabında toplumsal meselelere dair çarpıcı gerçekleri ortaya koymuştu.",mecaz,Ortaya koymak,Zero-shot
+"Filmin yönetmeni, hikayenin duygusal derinliğini ortaya koymak için karakterler arasındaki ilişkileri dikkatle işledi.",mecaz,Ortaya koymak,Zero-shot
+"Seminerde öğretmenlerin karşılaştıkları günlük zorluklara yer vermek, onların da seslerini duyurdu.",mecaz,Yer vermek,Zero-shot
+"Öğretmen, sınıf tartışmasında insan hakları konusunun üzerinde durdu, böylece öğrencilerin bu konuda farkındalığını artırmayı hedefledi.",mecaz,Üzerinde durmak,Zero-shot
+"Aile içinde hep sorun çözücü rolünü oynamak, diğer aile bireylerinin sorumluluk almasını engelledi.",mecaz,Rol oynamak,Zero-shot
+"Filmin en dramatik sahnesinde, kahramanın gözyaşlarına şahit olan her izleyicinin içi eriyordu.",mecaz,İçi erimek,Zero-shot
+"İstişare esnasında ileri sürdüğü çözümler, büyük bir krizin önlenmesine yardımcı oldu.",mecaz,İleri sürmek,Zero-shot
+"Bilimsel buluş, tıpta çığır açacak yeni tedavilere yol açtı.",mecaz,Yol açmak,Zero-shot
+"Herkesin göz önünde olduğu toplantıda yönetici, engin tecrübesiyle üste çıkarak etkileyici öneriler sundu.",mecaz,Üste çıkmak,Zero-shot
+"Kariyer basamaklarını hızla tırmanırken, engebeli yollarda sıkı durmak zorundasın.",mecaz,Sıkı durmak,Zero-shot
+"Toplantıda sürekli aynı fikirleri duymaktan sıkıldığında, yenilikçi bir öneri ortaya attı.",mecaz,Ortaya atmak,Zero-shot
+"Kitap çıkarma hayalini gerçekleştirmek için kolları sıvayan yazar, gece gündüz demeden yazmaya başladı.",mecaz,Kolları sıvamak,Zero-shot
+"Filmde, karakter gelişimine ağırlık verilmiş, bu sayede hikayeye derinlik katılmış.",mecaz,Ağırlık vermek,Zero-shot
+Tartışmanın ortasında gerçek duyguları ortaya çıktı.,mecaz,Ortaya çıkmak,Zero-shot
+"Müdür, çalışanlar arasında olası sorunları erkenden tespit edebilmek için ofisin nabzını tutmaya özen gösteriyor.",mecaz,Nabzını tutmak,Zero-shot
+"Yaşadığı deneyimler, onun hayata bakış açısında önemli değişikliklere yol açtı.",mecaz,Yol açmak,Zero-shot
+"Doktorla görüşmesi sırasında, hastalığı hakkındaki tüm endişelerini sayıp döktü.",mecaz,Sayıp dökmek,Zero-shot
+"Ekip lideri, projenin sürekli gecikmesine daha fazla katlanamayarak el koydu ve teslim tarihlerini öne çekti.",mecaz,El koymak,Zero-shot
+Zorlu bir sektörde başarılı projeler gerçekleştirerek kariyerinde hızla basamak yaptı.,mecaz,Basamak yapmak,Zero-shot
+Hayalini kurduğu işi açmak için sonunda adım atmak üzere kararını verdi.,mecaz,Adım atmak,Zero-shot
+"Yazar, duygu yüklü romanlarıyla edebiyat dünyasında unutulmaz bir iz bırakarak kritiklerden tam not aldı.",mecaz,İz bırakmak,Zero-shot
+"O, iş dünyasında kısa sürede basamak yaparak üst düzey yönetici oldu.",mecaz,Basamak yapmak,Zero-shot
+"Onunla ilgili tüm kırgınlıkları defterimden silip, eskisi gibi dost olmaya karar verdim.",mecaz,Defterden silmek,Zero-shot
+"Tartışma sırasında, herkes görüşlerini açıkça ortaya koydu ve uzlaşma sağlanmak üzere ilerlendi.",mecaz,Ortaya koymak,Zero-shot
+Projeyi son teslim gününe kadar unuttuğumda başıma gelecekleri tahmin edebiliyordum; kesinlikle ayvayı yemiştim.,mecaz,Ayvayı yemek,Zero-shot
+"İş yerindeki stresten ötürü, müdürün odasına girip tüm yüklerini sayıp döktü.",mecaz,Sayıp dökmek,Zero-shot
+Zor günleri üstünden atmak için yoga ve meditasyona yöneldi.,mecaz,Üstünden atmak,Zero-shot
+"Genç sanatçı, sergisini açabilme hayali için sanatseverlerden maddi destek elde etmek üzere el açtı.",mecaz,El açmak,Zero-shot
+"Kitap kulübümüzde, yazarın mesajının derinlemesine anlaşılması için alternatif bir yorum öne sürdü.",mecaz,Öne sürmek,Zero-shot
+Uluslararası konferanslarda yaptığı etkileyici konuşmalarla kariyerinde basamak yapan bir bilim insanı.,mecaz,Basamak yapmak,Zero-shot
+"Bilim insanı, konferansta yeni keşfettiği teoriyi öne sürerek akademik çevrelerde büyük ilgi uyandırdı.",mecaz,Öne sürmek,Zero-shot
+"Sosyal medyada yapılan haksız yorumlar karşısında sıkı durmak, karakterin gücünü ortaya koyar.",mecaz,Sıkı durmak,Zero-shot
+"Sınıfta sürekli iyi öğrenci rolü oynamak, aslında öğrenme şevkini köreltiyor.",mecaz,Rol oynamak,Zero-shot
+"Sunumunda proje yöneticisi, zaman yönetiminin altını çizerek başarının bu unsura bağlı olduğunu vurguladı.",mecaz,Altını çizmek,Zero-shot
+Bütçe hazırlıklarını çabucak bitirerek mali planlamada zaman kazandık.,mecaz,Zaman kazanmak,Zero-shot
+"Toplu taşıma sistemlerini iyileştirmek için, uluslararası kalkınma ajanslarından ek kaynak talep edilerek el açıldı.",mecaz,El açmak,Zero-shot
+"Ağır eleştiriler karşısında sıkı durmak, kendini geliştirmenin bir parçasıdır.",mecaz,Sıkı durmak,Zero-shot
+"Toplum merkezini yenileme projesi kabul edilince, mahalle sakinleri gönüllü çalışmalar için kolları sıvadı.",mecaz,Kolları sıvamak,Zero-shot
+"Tren geciktiğinde, peronda yürüyüş yaparak ve manzarayı izleyerek zaman öldürdüm.",mecaz,Zaman öldürmek,Zero-shot
+Sokak sanatçısının serenadıyla yaşlı çiftin yüzündeki tebessümü görünce herkesin içi eridi.,mecaz,İçi erimek,Zero-shot
+"Kitabın yazarı, eserindeki tartışmalı konular hakkında okuyucularına hesap vermek için bir söyleşi düzenledi.",mecaz,Hesap vermek,Zero-shot
+"Yazarın etkileyici romanı, okuyucular arasında derin düşüncelere yol açtı.",mecaz,Yol açmak,Zero-shot
+"Mimar, tasarımıyla kent siluetine estetik bir iz bırakarak mimarlık dünyasında adından söz ettirdi.",mecaz,İz bırakmak,Zero-shot
+Yazılımı doğru şekilde konfigüre ederek sorun giderme sürecinde büyük oranda zaman kazandık.,mecaz,Zaman kazanmak,Zero-shot
+"Başkalarının önünde sürekli iyimser olmak, zaman zaman gerçek hislerini gizlemek için yapılan bir rol oynamadır.",mecaz,Rol oynamak,Zero-shot
+"Politikada basamak yapmak isteyen genç, yerel seçimlerde aday olarak kendini gösterdi.",mecaz,Basamak yapmak,Zero-shot
+"Uzun süren bir tartışmadan sonra, iki dost barışarak birbirlerine karşı duydukları kırgınlığı üstünden atmaya karar verdiler.",mecaz,Üstünden atmak,Zero-shot
+"Yeni mezunlar, kariyerlerinde basamak yapabilmek için çeşitli iş deneyimleri arıyorlar.",mecaz,Basamak yapmak,Zero-shot
+Filmin sonunda beklenmedik bir dönüşle izleyiciler arasında şaşkınlık meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+"Eğitim danışmanı, yeni müfredat tasarımında öğrencilerin nabzını tutarak onların ihtiyaçlarına uygun değişiklikler yapıyor.",mecaz,Nabzını tutmak,Zero-shot
+"Askerden dönen oğlunu kapıda gören baba, sevinçten içi eriyerek sarıldı oğluna.",mecaz,İçi erimek,Zero-shot
+"Festival organizatörü, katılımcı sayısını maksimize etmek için gençlerin nabzını tutarak etkinlikler düzenliyor.",mecaz,Nabzını tutmak,Zero-shot
+Toplantıda tartışmalar sırasında bir anlaşmazlık meydana geldi.,mecaz,Meydana gelmek,Zero-shot
+Yeni teknolojileri çabuk öğrenerek kariyerinde önemli basamaklar yapan bir yazılım geliştiricisi oldu.,mecaz,Basamak yapmak,Zero-shot
+Çalışkanlığı ve azmi sayesinde mesleğinde basamak yaparak kıdemli yönetici pozisyonuna ulaştı.,mecaz,Basamak yapmak,Zero-shot
+"Felsefe dersinde, varoluşsal bir soruna alternatif çözüm yollarını öne sürerek fikir alışverişini teşvik etti.",mecaz,Öne sürmek,Zero-shot
+"Fuar hazırlıklarında, organizasyon eksikliklerine parmak basmak, etkinliğin sorunsuz geçmesini sağladı.",mecaz,Parmak basmak,Zero-shot
+"Gergin toplantıda, herkes birbirine biriktirdiği şikayetleri sayıp döktükten sonra gerilim daha da arttı.",mecaz,Sayıp dökmek,Zero-shot
+"Terapist, danışanına ilişkilerde iletişimin önemini altını çizerek doğru iletişim teknikleri üzerinde durdu.",mecaz,Altını çizmek,Zero-shot
+Sınavlara daha verimli çalışabilmek için notlarını düzenleyerek zaman kazanmaya çalıştı.,mecaz,Zaman kazanmak,Zero-shot
+"Yasemin, kariyerinde üst seviyelere çıkabilmek için profesyonel gelişim kurslarına katılmaya ve kolları sıvamaya karar verdi.",mecaz,Kolları sıvamak,Zero-shot
+"Tur rehberi olarak yer almak, dünya görüşünü değiştirdi.",mecaz,Yer almak,Zero-shot
+"Spor antrenörü, takımın moralini yüksek tutabilmek için oyuncuların nabzını sürekli olarak tutar.",mecaz,Nabzını tutmak,Zero-shot
+"Yönetim kurulu toplantısında bütçe açığı üzerinde durulması, mali disiplin arayışını gösteriyor.",mecaz,Üzerinde durmak,Zero-shot
+Konser programında yerli sanatçılara daha fazla yer vererek kültürümüzün tanıtımına katkıda bulunmaya çalışıyorlar.,mecaz,Yer vermek,Zero-shot
+"Müşteri toplantısında, satışları artırmak için dijital pazarlama kampanyalarını öne sürdü.",mecaz,Öne sürmek,Zero-shot
+Canı sıkkınken annesiyle telefonda konuştu ve gün içinde yaşadığı tüm olumsuz olayları sayıp döktü.,mecaz,Sayıp dökmek,Zero-shot
+"Oyun yazılımcısının yenilikçi yaklaşımı, dijital eğlence dünyasında yeni bir döneme yol açtı.",mecaz,Yol açmak,Zero-shot
+"Zamanın akışına karşı çıkmak, nehirde kürek çekmeye benzer.",mecaz,Karşı çıkmak,Zero-shot
+"Okullarda öğrencilere baskıcı davranışlara göz yumdukça, eğitimdeki kalite düşüyor.",mecaz,Göz yummak,Zero-shot
+"Toplumsal değişime karşı çıkmak, tarihin akışını durdurma çabasındadır.",mecaz,Karşı çıkmak,Zero-shot
+"Moda endüstrisindeki tüm yenilikleri takip ederek, trendleri belirleyen bir ikon haline gelip üste çıktı.",mecaz,Üste çıkmak,Zero-shot
+"Grup içinde sürekli bir çekişme yaşanması üzerine, danışman el koyup herkesi aynı hedefe yoğunlaştırmayı başardı.",mecaz,El koymak,Zero-shot
+"Eleştirileri doğrudan üstüne alıp, profesyonel anlamda daha da ilerlemek için gerekenleri yapmaya başladı.",mecaz,Üstüne almak,Zero-shot
+"Hayalini kurduğu işi kurabilmek için, genç girişimci ailesinden cesaretle el açtı.",mecaz,El açmak,Zero-shot
+"Hafta sonu programımız iptal olunca, evde puzzle yaparak zaman öldürdük.",mecaz,Zaman öldürmek,Zero-shot
+"Yazar, kitabında toplumsal meseleleri dile getirerek cesaretini ortaya koydu.",mecaz,Ortaya koymak,Zero-shot
+"Yöneticinin hatalı kararlarına göz yumdukça, kurum içindeki huzursuzluk artıyor.",mecaz,Göz yummak,Zero-shot
+Uzun bir hastalık sürecinden sonra ayağa kalkan genci gören herkesin içi eriyip gitti.,mecaz,İçi erimek,Zero-shot
+"Diyetisyen, sağlıklı beslenmenin önemini altını çizerek her yaşta dikkat edilmesi gerektiğini söyledi.",mecaz,Altını çizmek,Zero-shot
+"Yatırımcı, piyasa dalgalanmalarını anlamak için sürekli olarak ekonominin nabzını tutuyor.",mecaz,Nabzını tutmak,Zero-shot
+Tartışmada sunduğu bilgiler ve kusursuz mantığıyla herkesi ikna edip rahatlıkla başa geçti.,mecaz,Başa geçmek,Zero-shot
+"Müdür, ekip içi anlaşmazlıkların üretimi olumsuz etkilemeye başlamasının ardından el koyarak bir çözüm bulmayı amaçladı.",mecaz,El koymak,Zero-shot
+"Hayat zorlu bir safhaya girdiğinde sıkı durmak, ayakta kalmamızı sağlar.",mecaz,Sıkı durmak,Zero-shot
+Olağanüstü liderlik becerileriyle kriz zamanlarında bile şirketini başarıya taşıyıp üste çıktı.,mecaz,Üste çıkmak,Zero-shot
+"Tartışma iyice kızışınca, grup lideri duruma el koymak zorunda kaldı.",mecaz,El koymak,Zero-shot
+"Evde yapılan vanilyalı dondurmanın içi, dışarıda bekletildikçe hızla erimeye başladı.",gerçek,İçi erimek,Zero-shot
+"Denklemleri çözerken, hatalı olanları defterden silmek için dikkatli bir şekilde kontrol ettim.",gerçek,Defterden silmek,Zero-shot
+"Felç geçiren hastanın nabzını tutarak, doktorun müdahale yapmasını izledim.",gerçek,Nabzını tutmak,Zero-shot
+Yemeğe başlamadan önce herkese birer porsiyon ayva sundum.,gerçek,Ayvayı yemek,Zero-shot
+Bahçeye yeni dikilen ağacın üzerinde durup güneşin batışını izlemek son derece huzur vericiydi.,gerçek,Üzerinde durmak,Zero-shot
+"İnşaat işçisi, iş makinesinin sıkı bir viraj almasını sağladıktan sonra güvenlik amacıyla makineyi hızla durmak zorunda bıraktı.",gerçek,Sıkı durmak,Zero-shot
+Lastikler yolda sert fren sonucu siyah izler bıraktı.,gerçek,İz bırakmak,Zero-shot
+"Engelli parkurunda, son engeli aştıktan sonra hemen karşıya çıktı.",gerçek,Karşı çıkmak,Zero-shot
+"Atlet, diskusunu güçlü bir ivme ile ortaya attı ve rekor kırdı.",gerçek,Ortaya atmak,Zero-shot
+"Ormanın içinden geçip, karşı tepenin zirvesine çıktığımızda nefesimizi kesti.",gerçek,Karşı çıkmak,Zero-shot
+Şehir merkezinden karşı tepeye çıkmak epey zaman aldı.,gerçek,Karşı çıkmak,Zero-shot
+"Koşu bandında tempoyu yükselten adam, yanındaki koşucuyu geçmek ve salondaki en iyi süreyi başa yazdırmak için hız kesmedi.",gerçek,Başa geçmek,Zero-shot
+"Sirkteki jonglör, hünerlerini sergilemek için havaya çeşitli nesneleri ortaya attı.",gerçek,Ortaya atmak,Zero-shot
+"Ormanın derinliklerinde, avını öldürmek için uygun zamanı bekleyen bir kaplanın gözleri parladı.",gerçek,Zaman öldürmek,Zero-shot
+Tırmanış sırasında çantanın bir tarafına yanlışlıkla fazla ağırlık verince dengemizi kaybettik.,gerçek,Ağırlık vermek,Zero-shot
+Sirk gösterisini izlemek için kalabalıklar erkenden meydana geldi.,gerçek,Meydana gelmek,Zero-shot
+"Çocuk, deniz kıyısında topladığı deniz yıldızlarını bir kutuya koydu ve kutuyu üstüne alarak ailesinin yanına koştu.",gerçek,Üstüne almak,Zero-shot
+"Defterden istenmeyen notları silmek, temiz bir sayfa oluşturmama yardımcı oldu.",gerçek,Defterden silmek,Zero-shot
+"Dağda yürüyüş yaparken, yüksek bir taşın üzerine çıkmak için hızla birkaç adım atıp sırt çantamı yukarı atmıştım.",gerçek,Adım atmak,Zero-shot
+Yogada hoca ile doğrudan iletişim kurabilmek için ön taraftan bir yer aldım.,gerçek,Yer almak,Zero-shot
+Uçakta koridor kenarında daha rahat etmek için özel bir yer aldık.,gerçek,Yer almak,Zero-shot
+Yapboz parçalarını kutudan çıkarırken kayıp parça masanın altından ortaya çıktı.,gerçek,Ortaya çıkmak,Zero-shot
+Yoğun kar yağışından sonra sokakların içi erimiş kar suyuyla dolmuştu.,gerçek,İçi erimek,Zero-shot
+"Çatı katına çıkışı güvenli hale getirebilmek için, sağlam ahşap basamaklar yapmaya başladık.",gerçek,Basamak yapmak,Zero-shot
+"Zaman daralırken, düşmanı öldürmek için son bir hamle yaptı.",gerçek,Zaman öldürmek,Zero-shot
+"Askerler, düşman birliklerini öldürmek için gece yarısını en uygun zaman olarak belirlediler.",gerçek,Zaman öldürmek,Zero-shot
+"Bahçe işleri için dışarı çıkan adam, kollarını sıvayarak fidanları dikmeye başladı.",gerçek,Kolları sıvamak,Zero-shot
+"Sporcular, tartı aletinin üzerinde durarak kilolarını kontrol ettiler.",gerçek,Üzerinde durmak,Zero-shot
+"Doğum günü partisinde, animatörler çocuklarla birlikte süper kahraman rollerini oynamak için kostüm giydiler.",gerçek,Rol oynamak,Zero-shot
+Yüzme müsabakasında hızını artırarak zaman sınırını geçip madalyayı kazandı.,gerçek,Zaman kazanmak,Zero-shot
+Sinema salonunda film başlamadan önce salonun karanlık olmasına alışmak için bir süre gözlerimi yummuştum.,gerçek,Göz yummak,Zero-shot
+"Gemi kaptanı, büyük vapurunu dikkatlice ileri sürerek limana yanaştı.",gerçek,İleri sürmek,Zero-shot
+"Teknoloji parkına bağlantı sağlayacak yeni bir yol açmak için kamyonlar, asfalt dökmeye başladı.",gerçek,Yol açmak,Zero-shot
+"Soğuk bir sabah, cam pencereyi elleriyle açtı ve taze hava odaya doldu.",gerçek,El açmak,Zero-shot
+"Kış ortasında, gölete dökülen sıcak suyun içi, kısa sürede erimeye başladı.",gerçek,İçi erimek,Zero-shot
+"Yanlış yazdığım formülleri defterden silmek, hemen bir silgi bulmamı gerektirdi.",gerçek,Defterden silmek,Zero-shot
+"Genç adam, marketten aldığı su kasasını üstüne alıp apartman dairesine çıktı.",gerçek,Üstüne almak,Zero-shot
+"Öğretmen, velilere sınıf içi etkinliklerin maliyet hesabını vererek destek istedi.",gerçek,Hesap vermek,Zero-shot
+"Oyuncu, maçın bitimine az bir zaman kala kritik bir basket atarak takımına galibiyeti kazandırdı.",gerçek,Zaman kazanmak,Zero-shot
+"Zemin katın içi, yoğun karın erimesiyle birlikte su baskınına uğramıştı.",gerçek,İçi erimek,Zero-shot
+"Dağcı, zirveye ulaşmak için son bir çaba ile sarp kayanın üstüne çıkmaya çalıştı.",gerçek,Üste çıkmak,Zero-shot
+"Eski evrakları arşivlemek için, ofiste bir dolaba yer vermek gerekiyordu.",gerçek,Yer vermek,Zero-shot
+"Derste öğrendiğimiz konuları tekrar ederken, yanlış notları defterden silmek işimi kolaylaştırdı.",gerçek,Defterden silmek,Zero-shot
+Hatalı yazdığım işlemi defterden silmek için hemen bir silgiye ihtiyacım oldu.,gerçek,Defterden silmek,Zero-shot
+Yemeği özenle hazırladım ve ayvayı garnitür olarak kullandım.,gerçek,Ayvayı yemek,Zero-shot
+"Spor salonunda, farklı ağırlıklardaki dambılları ele alıp denedim.",gerçek,Ele almak,Zero-shot
+Mutfak yenilemesi sırasında yeni mikrodalga fırına tezgah üzerinde yer vererek zaman kazandık.,gerçek,Yer vermek,Zero-shot
+"Yazı yazarken fikirlerimi organize etmek adına, defterden gereksiz cümleleri silmek zorunda kaldım.",gerçek,Defterden silmek,Zero-shot
+Arkadaş grubumuz içerisinde lider rolünü oynamak her zaman zordur.,gerçek,Rol oynamak,Zero-shot
+"Taşıyıcı, büyük su bidonlarını üstüne alarak araçtan depoya yürüdü.",gerçek,Üstüne almak,Zero-shot
+Toplantıda sunulan grafiklerdeki anahtar verilerin altını kırmızı marker ile çizdim.,gerçek,Altını çizmek,Zero-shot
+"Ağır bir kutuyu kaldırırken, ayak parmaklarını yere basarak ekstra destek sağladı.",gerçek,Parmak basmak,Zero-shot
+Korkusunu yenip kayanın üstüne çıkmayı başardı ve manzarayı seyretti.,gerçek,Üste çıkmak,Zero-shot
+Konserde en iyi görüş açısını yakalamak için kalabalığın önüne birkaç adım atıp cep telefonumu havaya atmıştım.,gerçek,Adım atmak,Zero-shot
+"Yapı tasarımcısı, mühendislik çizimlerinde değişiklik gerektiren bölümlerin altını çizdi.",gerçek,Altını çizmek,Zero-shot
+Otobüste ayakta kalmamak için boş bir yer almaya çalıştım.,gerçek,Yer almak,Zero-shot
+Konser salonunda ses sistemine yakın bir yer almak istedim.,gerçek,Yer almak,Zero-shot
+Gölet kenarındaki yürüyüş yolu için taş basamaklar yapmak oldukça zaman aldı ama sonuç mükemmeldi.,gerçek,Basamak yapmak,Zero-shot
+"Kütüphanenin en üst katında, balkonun üzerinde durup aşağıdaki okuyucuları izledim.",gerçek,Üzerinde durmak,Zero-shot
+"Matematik öğretmeni, yanlış işlemleri defterden silmek için daha iyi bir yöntem gösterdi.",gerçek,Defterden silmek,Zero-shot
+Arıza yapan uydunun üstüne çıkmak için astronotlar uzay yürüyüşüne çıktılar.,gerçek,Üste çıkmak,Zero-shot
+Fuar alanında stant açacak uygun bir yer almak için önceden rezervasyon yaptırdık.,gerçek,Yer almak,Zero-shot
+"Biyoloji dersinde, defterden yanlış çizdiğim şemayı silmek için acele ettim.",gerçek,Defterden silmek,Zero-shot
+"Ceren, kitaplığın kenarındaki eski sandığı elleriyle açmaya uğraştı.",gerçek,El açmak,Zero-shot
+"Uzun yürüyüş sonrası, yorulan dağcı ağır rüzgârlık ceketini üstünden atmak için bir kayanın üzerine oturdu.",gerçek,Üstünden atmak,Zero-shot
+Ayvayı yemek için dilimleyerek salataya ekledim.,gerçek,Ayvayı yemek,Zero-shot
+Sabah egzersizi için parkın en büyük meydanına bir grup insan gelmişti.,gerçek,Meydana gelmek,Zero-shot
+Denizde boğulma tehlikesi geçiren kişiyi kurtardıktan sonra nabzını tutarak ilk müdahalede bulundum.,gerçek,Nabzını tutmak,Zero-shot
+Çalışma odasının kapısının karşısına çıktığımda koridorda kimseyi göremedim.,gerçek,Karşı çıkmak,Zero-shot
+Çocuklar kum torbalarına ağırlık verdikçe oyun alanı daha eğlenceli hale geldi.,gerçek,Ağırlık vermek,Zero-shot
+"Asker, savaş meydanında düşmanını öldürmek için zaman kaybetmeden ilerledi.",gerçek,Zaman öldürmek,Zero-shot
+"Laboratuvarda yapılan deney sırasında, reaktif maddelerin içi erimeye başladığında bilim insanları heyecanla not alıyorlardı.",gerçek,İçi erimek,Zero-shot
+"Çocuk, yapbozun son parçasını yerine oturtmak için elini koyup sıkıca bastırdı.",gerçek,El koymak,Zero-shot
+Bölgesel yemek festivali başlamak üzereyken katılımcılar merkez meydanına gelmeye başladı.,gerçek,Meydana gelmek,Zero-shot
+Metal bir kap içine konulan balmumunun içi ısıtıldıkça erimiş ve sıvı hale gelmişti.,gerçek,İçi erimek,Zero-shot
+Çocuklar oyuncağı öne sürerek parkın diğer ucuna kadar gittiler.,gerçek,Öne sürmek,Zero-shot
+Rehber kitapta yol tarifleri verilirken dönülmesi gereken yerlerin altını çizdim.,gerçek,Altını çizmek,Zero-shot
+"Taşınma gününde, ağır sandıkları kaldırırken bacaklarıma fazla ağırlık verdim.",gerçek,Ağırlık vermek,Zero-shot
+Kitap fuarı nedeniyle yazarlar ve okurlar kütüphane önündeki meydana gelerek etkinliğe katıldılar.,gerçek,Meydana gelmek,Zero-shot
+"Elif, zemindeki cam kırıklarını dikkatlice ele alarak çöp kutusuna attı.",gerçek,Ele almak,Zero-shot
+"Öğrenci, çantasını eliyle açarak ders kitaplarını çıkardı.",gerçek,El açmak,Zero-shot
+"Anne, alışveriş arabasındaki çantaları tek tek üstüne alarak aracına yerleştirdi.",gerçek,Üstüne almak,Zero-shot
+Yeni alışveriş merkezinin iç dizaynında farklı katlara geçişi kolaylaştıracak basamaklar yapmaktan sorumlu olduk.,gerçek,Basamak yapmak,Zero-shot
+"Gözlerini yummak ve kulağında çalan müziğe odaklanmak, onun stresini azaltmayı başardı.",gerçek,Göz yummak,Zero-shot
+Yemek pişerken ayvayı fırında karamelizasyon için hazırlayıp pişirdim.,gerçek,Ayvayı yemek,Zero-shot
+Poster üzerindeki başlıkların altını kırmızı renkle çizdik ki dikkat çeksin.,gerçek,Altını çizmek,Zero-shot
+"Tırmanış yapılan dağda, alpinistler zirveye ilk ulaşmak adına birbirlerini hızla geçmek ve başa gelmek için mücadele etti.",gerçek,Başa geçmek,Zero-shot
+"Butik sahibi, gün sonunda kasa hesabını tutarak gelirlerini iyi bir şekilde verdi.",gerçek,Hesap vermek,Zero-shot
+"Spor yaparken zıplarken, parmağını zemine basarak dengesini sağlamaya çalıştı.",gerçek,Parmak basmak,Zero-shot
+"Yemeği servis etmeden önce, yanında karamelize ayva sunmaya karar verdim.",gerçek,Ayvayı yemek,Zero-shot
+"Annesi, fırının kapısını eliyle açarak keklerin pişip pişmediğine baktı.",gerçek,El açmak,Zero-shot
+Misafir odasına yeni bir çalışma masası yer vermek için eski divanı kaldırmak zorunda kaldık.,gerçek,Yer vermek,Zero-shot
+Restoranda masamıza ekstra sandalye ekletebilmek için geniş bir yer almamız gerekiyordu.,gerçek,Yer almak,Zero-shot
+Yoga yaparken dengede kalmak için parmaklarını matın üzerine sıkıca basması gerekiyordu.,gerçek,Parmak basmak,Zero-shot
+"Ağır çantanın köşesi, odanın ahşap kapısında izler bıraktı.",gerçek,İz bırakmak,Zero-shot
+"Çocuk, büyük topu üstüne alarak arkadaşlarına doğru koştu.",gerçek,Üstüne almak,Zero-shot
+Çalışma masasının ortasına tüm dosyalarını koyarak düzenlemeye başladı.,gerçek,Ortaya koymak,Zero-shot
+"Bahçıvan, gübre torbasındaki malzemeleri sayıp bahçenin her bir köşesine dağıttı.",gerçek,Sayıp dökmek,Zero-shot
+"Çocuklar, elma toplamak için ağaca doğru birkaç adım atıp sepetlerini yere atmışlardı.",gerçek,Adım atmak,Zero-shot
+"Bahçe düzenlemesi yaparken, saksıları taşırken her birine eşit ağırlık vermek gerekiyor.",gerçek,Ağırlık vermek,Zero-shot
+Karşıya çıkmak için caddeyi dikkatlice geçtiler.,gerçek,Karşı çıkmak,Zero-shot
+"Buz patencisi, rekabetçi performansına başlamadan önce buz üzerinde ileri süzülerek ısındı.",gerçek,İleri sürmek,Zero-shot
+Bahçede çalışırken büyük çiçek saksısını üstüne aldı ve yavaşça istenen yere taşıdı.,gerçek,Üstüne almak,Zero-shot
+"İşçiler, inşaat alanında sıkı güvenlik önlemleri altında çalışırken, bir uyarı sireninin çalması üzerine hızla durmak zorunda kaldılar.",gerçek,Sıkı durmak,Zero-shot
+Kullanım kılavuzunda uygulamada dikkat edilmesi gereken noktaların altını çizdim.,gerçek,Altını çizmek,Zero-shot
+"Sahilde güvenlik görevlisi, ATV'sini kumsal boyunca ileri süre süre devriye gezdi.",gerçek,İleri sürmek,Zero-shot
+"Hayvanat bahçesindeki gösteride, papağanın gözlerini yummak için öğretilen numarasını izledik.",gerçek,Göz yummak,Zero-shot
+"Yaz sıcağında, terli tişörtünü üstünden atmak için bir köşe aradı.",gerçek,Üstünden atmak,Zero-shot
+"Yürüyüş yaparken, ayakkabılarımda biriken çamuru temizlemek için sık sık adım atıp ayakkabılarımı sert bir şekilde yere atmam gerekiyordu.",gerçek,Adım atmak,Zero-shot
+Belgedeki şartların altını çizmek için siyah bir tükenmez kalem kullandım.,gerçek,Altını çizmek,Zero-shot
+"Müdür, çalışanlara projenin maliyet hesabını vermek için bir toplantı düzenledi.",gerçek,Hesap vermek,Zero-shot
+Çocuklar sokakta bisiklet yarışı yaparken birbirlerini geçmek ve sokak başına ilk ulaşmak için çabaladılar.,gerçek,Başa geçmek,Zero-shot
+Kitaplarını masanın ortasına koydu ve çalışmaya başladı.,gerçek,Ortaya koymak,Zero-shot
+"Tamirci, masasındaki arızalı elektronik cihazları bir bir ele alarak tamir etmeye başladı.",gerçek,Ele almak,Zero-shot
+"Maç sırasında, futbolcu topu kaparak rakiplerini geçmek ve sahanın başa kısmına ulaşmak için sprint attı.",gerçek,Başa geçmek,Zero-shot
+Bahçede bulduğum ilginç taşı ele alıp daha yakından inceledim.,gerçek,Ele almak,Zero-shot
+Çocuklar sıkı bir şekilde ipi çektiler ve oyunu tamamlamak için durmak zorunda kaldılar.,gerçek,Sıkı durmak,Zero-shot
+"Kız kardeşim, sinirli bir şekilde kitaplarını odanın ortasına attı.",gerçek,Ortaya atmak,Zero-shot
+Ayvayı kesip yemeği hazırlamak için pişirmeye başladım.,gerçek,Ayvayı yemek,Zero-shot
+"Yumuşak koltuğa oturduktan sonra, sıkı ceketini üstünden atmakta hiç tereddüt etmedi.",gerçek,Üstünden atmak,Zero-shot
+Oyun sırasında çocuklar futbol topunu öne doğru sürerek gol pozisyonuna girdiler.,gerçek,Öne sürmek,Zero-shot
+Fırtına nedeniyle devrilen ağaçları kaldırarak ana cadde üzerindeki yolu açmak için belediye ekipleri seferber oldu.,gerçek,Yol açmak,Zero-shot
+Ayvayı yemeğin yanında tatlı olarak hazırladım ve afiyetle yedik.,gerçek,Ayvayı yemek,Zero-shot
+Parkta köpeğimle oynarken bir adım öne atarak ona frizbiyi atmıştım.,gerçek,Adım atmak,Zero-shot
+"Kafe çalışanı, müşterinin sipariş ettiği kahvelerin hesabını vererek ödeme aldı.",gerçek,Hesap vermek,Zero-shot
+Çadırın üzerinde duran karın ağırlığı nedeniyle çadırın çökeceğini düşündük.,gerçek,Üzerinde durmak,Zero-shot
+"Çiftçi, toplanan patatesleri ele alarak kasalara doldurdu.",gerçek,Ele almak,Zero-shot
+"Adam, kutuyu yüksek rafa yerleştirebilmek için üstüne elini koyarak ittirdi.",gerçek,El koymak,Zero-shot
+Piknik alanının ortasına büyük bir şemsiye koydu ve altında oturacak yerleri ayarladı.,gerçek,Ortaya koymak,Zero-shot
+"Bahçıvan, çim biçme makinesini ileri sürerek geniş bahçenin bakımını yapmaya başladı.",gerçek,İleri sürmek,Zero-shot
+"Resim öğretmeni, sınıfta kullanılmak üzere boyaları tek tek ele alıp öğrencilerine dağıttı.",gerçek,Ele almak,Zero-shot
+"Sanatçı, atölyesindeki fırçaları bir bir ele alıp temizlemeye başladı.",gerçek,Ele almak,Zero-shot
+"Tatlı yapımına başlamadan önce kollarını sıvayan Şef, malzemeleri tezgaha dizdi.",gerçek,Kolları sıvamak,Zero-shot
+"Bahçıvan, fidanları gübrelemek için önceden saydığı organik gübreyi toprağa döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Dağ bisikletçisi, zorlu parkurda zamanı iyi yöneterek yarışı kazandı.",gerçek,Zaman kazanmak,Zero-shot
+Güneşli bir günde dışarıda bırakılan şekerlemelerin içi erimişti.,gerçek,İçi erimek,Zero-shot
+"Güç birleştirerek ağır dolabı öne sürdüler, böylece arkasındaki duvarı boyayabildiler.",gerçek,Öne sürmek,Zero-shot
+"Çocuklar, yastık savaşı yaparken birbirlerine yastıkları ortaya atıyorlardı.",gerçek,Ortaya atmak,Zero-shot
+Arabanın tekerlekleri karda net izler bıraktı.,gerçek,İz bırakmak,Zero-shot
+Zamanlı düğmeye basarak yarışı kazanmak için mekanizmayı aktive etti.,gerçek,Zaman kazanmak,Zero-shot
+Kış bahçesindeki yeni bitkilere daha fazla ışık alabilmeleri için pencere önünde yer verdik.,gerçek,Yer vermek,Zero-shot
+"Kırsal alanda kaybolmuşken, eski bir köprüyü geçip karşıya çıktık.",gerçek,Karşı çıkmak,Zero-shot
+"Kedi, dolaptaki mama kutusuna ulaşmak için rafların üstüne çıkmayı başardı.",gerçek,Üste çıkmak,Zero-shot
+"Bahçıvan, düşen yaprakları tek tek ele alarak çöp torbasına attı.",gerçek,Ele almak,Zero-shot
+Komşularımız sokak tiyatrosunda eski Roma vatandaşlarının rollerini oynamaya karar verdiler.,gerçek,Rol oynamak,Zero-shot
+"Piknikte, eğlenceli bir oyun için çemberi ortaya atmayı teklif etti.",gerçek,Ortaya atmak,Zero-shot
+Festivalde havai fişek gösterisini daha iyi izleyebilmek için kalabalığın üstüne çıkmak isteyen birkaç kişi oldu.,gerçek,Üste çıkmak,Zero-shot
+"Arkeologlar, kazı sırasında antik bir heykelin ortaya çıkmasına tanık oldular.",gerçek,Ortaya çıkmak,Zero-shot
+"Matematik sınavına çalışırken, defterden yanlış işaretlediğim problemleri silmek zorunda kaldım.",gerçek,Defterden silmek,Zero-shot
+Kütüphanede kitaplık öne doğru sürüldüğünde arkasında bir kapı açıldı.,gerçek,Öne sürmek,Zero-shot
+Konferans salonunda mikrofonun iyi duyulduğu bir yer almak istedim.,gerçek,Yer almak,Zero-shot
+"Merve, dikkatsizce yazdığı denklemi defterden silmek için silgisini çıkardı.",gerçek,Defterden silmek,Zero-shot
+Seramoninin ortasına gelin ve damadın oturacağı iki koltuk koydu.,gerçek,Ortaya koymak,Zero-shot
+"Öğrenci, koridorda kitap dolabını ileri süre süre sınıfın önüne getirdi.",gerçek,İleri sürmek,Zero-shot
+"Yazar, kitaplığındaki kitapları ele alıp aradığı bilgiyi bulmaya çalıştı.",gerçek,Ele almak,Zero-shot
+"Öğrenciler, ders için gerekli boncukları sayıp kutudan dökerek grup çalışması yaptılar.",gerçek,Sayıp dökmek,Zero-shot
+"Bisikletçiler yarış pistinde pedallarken, lastiklerinden dolayı zeminde siyah izler bıraktı.",gerçek,İz bırakmak,Zero-shot
+"Yoğun bir günün ardından, takım elbisesini üstünden atmak ve rahat bir kıyafet giymek için evine koştu.",gerçek,Üstünden atmak,Zero-shot
+"Oyun sırasında top, çitin üzerinde durdu ve kimse onu alamadı.",gerçek,Üzerinde durmak,Zero-shot
+"Bahçıvan, gübre çuvallarını üstüne alarak bahçenin farklı bölgelerine dağıttı.",gerçek,Üstüne almak,Zero-shot
+Yürüyüş sırasında ıslak kaldırımda ayakkabılarımızın izlerini bıraktık.,gerçek,İz bırakmak,Zero-shot
+Paskalya kutlamaları için mahalle sakinleri sabah saatlerinde kilisenin önündeki meydana geldiler.,gerçek,Meydana gelmek,Zero-shot
+"Zamanının çoğunu avcılık yaparak geçiren bu adam, sık sık hayvan öldürmek zorunda kalıyor.",gerçek,Zaman öldürmek,Zero-shot
+"Sofra kurulurken, masanın altından bir top ortaya çıktı.",gerçek,Ortaya çıkmak,Zero-shot
+Su şişelerini taşırken dengeli bir şekilde ağırlık vererek yürüdüm.,gerçek,Ağırlık vermek,Zero-shot
+"Kütüphane görevlisi, ödünç alınan kitapların sayısının hesabını ziyaretçiye verdi.",gerçek,Hesap vermek,Zero-shot
+"Okçuluk turnuvasında, son okunu zamanında bırakarak en yüksek puanı alıp yarışmayı kazandı.",gerçek,Zaman kazanmak,Zero-shot
+"Ambulans şoförü hızla ilerlerken paramedik, hasta kadının nabzını tutmaya çalıştı.",gerçek,Nabzını tutmak,Zero-shot
+"Kızak yarışında katılımcılar, kızaklarını kar üzerinde ileri sürebilmek için güçlü bir itiş yaptılar.",gerçek,İleri sürmek,Zero-shot
+Yeni aldığımız buzdolabını mutfakta pencere yanına yer vererek kurduk.,gerçek,Yer vermek,Zero-shot
+Yeni açılacak olan galerimizin içine sanat eserlerinin sergileneceği kademeli basamaklar yapmak planları arasında yer aldı.,gerçek,Basamak yapmak,Zero-shot
+"Ressam, paftasındaki farklı boyaları ele alarak tuvaline işlemeye devam etti.",gerçek,Ele almak,Zero-shot
+"Oyuncak ayıyı ortaya atan kedi, onunla oynamaya başladı.",gerçek,Ortaya atmak,Zero-shot
+Kutlamak için salona ortasına büyük bir doğum günü pastası koydu ve herkesi etrafına topladı.,gerçek,Ortaya koymak,Zero-shot
+Yoga sınıfında dengemi koruyabilmek için yavaşça adım atıp matımın üzerinde duruyordum.,gerçek,Adım atmak,Zero-shot
+"Atlet, son saniyelerde zamanını mükemmel kullanarak 100 metre yarışını kazandı.",gerçek,Zaman kazanmak,Zero-shot
+"Piknik alanında çocuklar için oyun matını kuracak yer vermek, etkinliğimizi daha keyifli hale getirdi.",gerçek,Yer vermek,Zero-shot
+"Festival hazırlıkları için caddeleri süslemek üzere kollarını sıvayan gönüllüler, renkli balonlarla dolu kutuları açtı.",gerçek,Kolları sıvamak,Zero-shot
+Dağa tırmanırken zirvenin karşısına çıkınca manzaranın güzelliği karşısında şaşırdılar.,gerçek,Karşı çıkmak,Zero-shot
+Yıllık festival coşkusuyla tüm halk sabah erken saatlerde meydana geldi.,gerçek,Meydana gelmek,Zero-shot
+"Bahçe sulama işini bitirirken, hortumu bir kenara atmam gerektiği için önce bir adım geri atıp sonra hortumu yere atmıştım.",gerçek,Adım atmak,Zero-shot
+"Depremden sonra, yıkıntılar arasından bir kedi sarsılarak ortaya çıktı.",gerçek,Ortaya çıkmak,Zero-shot
+"Aşçı yardımcısı, pizzayı fırına koymadan önce kenarlarına eliyle zeytinyağı sürdü.",gerçek,El koymak,Zero-shot
+"Defterden eski telefon numaralarını silmek, güncel bilgilerle yer değiştirmemi sağladı.",gerçek,Defterden silmek,Zero-shot
+"Kukla tiyatrosunda çocuklar, masalsı karakterlerin rollerini oynamak için birbirleriyle yarıştılar.",gerçek,Rol oynamak,Zero-shot
+"Sıkı bir şekilde rüzgâra karşı yelken açan denizci, ani hava değişikliğiyle hemen durmak zorunda kaldı.",gerçek,Sıkı durmak,Zero-shot
+Yeni gelen kitap kutularını açmak üzere kütüphaneci kollarını sıvadı ve makası hazırladı.,gerçek,Kolları sıvamak,Zero-shot
+"Bahçıvan, toprak yığınını bahçenin arka kısmına kadar tekerlekli arabasıyla ileri sürdü.",gerçek,İleri sürmek,Zero-shot
+"Okul müsameresinde, Ali piramitlerin yapımını anlatan sahnede Firavun'un rolünü oynamak için altın renkli bir taç taktı.",gerçek,Rol oynamak,Zero-shot
+"Çiftlikte çalışan adam, hayvanların günlük yemini sayıp ahıra döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Fırtınalı bir günde, çadırını kuran grup, çadırın ortasına ağırlık olarak taşlar attı.",gerçek,Ortaya atmak,Zero-shot
+"Kardeşler, oyun oynarken plastik topu ortaya atmaya başladılar.",gerçek,Ortaya atmak,Zero-shot
+"Bahçede çalışan adam, alet çantasını elleriyle açarak gereken malzemeyi aldı.",gerçek,El açmak,Zero-shot
+"Ormanda yürüyen grup, çamurlu yolda ayak izleri bıraktı.",gerçek,İz bırakmak,Zero-shot
+"Çamur dolu yolda arabayı itmek zorunda kalan Ahmet, kollarını sıvadı ve arkadaşına yardım etti.",gerçek,Kolları sıvamak,Zero-shot
+"Soğuk bir kış gününde, kar küreme araçları şehrin ana caddelerinde karları temizleyip yolu açmak için seferber oldular.",gerçek,Yol açmak,Zero-shot
+Karşı apartmana çıkmak için sokağı geçtim.,gerçek,Karşı çıkmak,Zero-shot
+"Bahçede çalışırken, düzenli olarak dikilen fideye zarar vermemek için adım atıp tarım aletlerini kenara atmam gerekiyordu.",gerçek,Adım atmak,Zero-shot
+"Merve, bilgisayarını eliyle açarak e-postalarını kontrol etmeye başladı.",gerçek,El açmak,Zero-shot
+Hız treni raylarda ilerlerken diğer trenleri geçmek ve istasyona ilk varmak için başa doğru hızlı bir ilerleme kaydetti.,gerçek,Başa geçmek,Zero-shot
+"Kış bahçesinde çalışırken kürekle toprağı kazarken, dengede kalmak için ayağının parmaklarını kürek sapına basarak güç uyguladı.",gerçek,Parmak basmak,Zero-shot
+Gözlerini sıkıca yumarak yüzüne sıçrayan su damlalarından kaçınmaya çalıştı.,gerçek,Göz yummak,Zero-shot
+"Murat, deniz kenarında kayanın üzerinde durarak dalgaları gözlemledi.",gerçek,Üzerinde durmak,Zero-shot
+"Resim öğretmeni, fırçaları boyaların yanına koymadan önce uçlarını eliyle düzeltti.",gerçek,El koymak,Zero-shot
+"Stajyer, bitirdiği projenin maliyet hesabını mentoruna vermek için hazırlıklar yaptı.",gerçek,Hesap vermek,Zero-shot
+"Yolda yürürken, adam su birikintisinin üzerinde durdu ve yanından geçen arabaların sıçrattığı suya dikkat etti.",gerçek,Üzerinde durmak,Zero-shot
+Evin bahçesinde toplanan yaprakları üstünden atmak için kendine büyük bir fırça aldı.,gerçek,Üstünden atmak,Zero-shot
+"Müze görevlisi, antika vazonun üzerine dikkatlice elini koyarak onu raflara yerleştirdi.",gerçek,El koymak,Zero-shot
+"Sporcunun antrenörü, sıkı bir disiplinle antrenmana devam ederken, sakatlık riskini göz önünde bulundurarak durmak kararı aldı.",gerçek,Sıkı durmak,Zero-shot
+"Parkurda bisikletçiler, lideri geçmek ve yarışın başında yer almak için pedal çevirmeye devam ettiler.",gerçek,Başa geçmek,Zero-shot
+"İnceleme raporunda problemli alanların altını çizmek, sorunları çözmeye yardımcı oldu.",gerçek,Altını çizmek,Zero-shot
+Ağırlık vererek sandığı aracın arkasına yerleştirmeye çalıştı.,gerçek,Ağırlık vermek,Zero-shot
+"Bulmaca yarışmasında, final turuna karşı oyuncuya çıkmak büyük bir heyecan yarattı.",gerçek,Karşı çıkmak,Zero-shot
+"Rüzgarlı havada bisiklete binerken gözlerimi yummak zorunda kaldım, çünkü gözüme toz kaçmıştı.",gerçek,Göz yummak,Zero-shot
+"Kitaplığı düzenlerken, en üst rafa uzanırken parmağını yanlışlıkla rafa basıp acı içinde kıvrandı.",gerçek,Parmak basmak,Zero-shot
+"Bahçedeki genç, futbol topunu arkadaşlarının çevresine ortaya attı.",gerçek,Ortaya atmak,Zero-shot
+"Can kurtaran eğitiminde, adayların birbirlerinin nabzını tutarak pratik yaptıklarını gördüm.",gerçek,Nabzını tutmak,Zero-shot
+Oyun alanında çocuklar sürekli birbirlerini geçmek ve sıranın başa dönüp tekrar oynamak için hızlarını artırdılar.,gerçek,Başa geçmek,Zero-shot
+"Bahçede oynayan çocuklar, birden ormandan bir tavşanın ortaya çıktığını fark ettiler.",gerçek,Ortaya çıkmak,Zero-shot
+Kasvetli havayı dağıtmak için üzerindeki koyu renkli paltoyu üstünden atmak istedi.,gerçek,Üstünden atmak,Zero-shot
+"İnşaat ekibi, bölgenin yüksek verimliliğini sağlamak amacıyla tarlalar arasında yeni bir yol açmak için çalışıyor.",gerçek,Yol açmak,Zero-shot
+"Küçük kardeşim, kutunun üstüne çıkmak için çabaladı ancak başaramadı.",gerçek,Üste çıkmak,Zero-shot
+"Öğretmen, sınıfa girdikten sonra kitapları üstüne alarak masaya doğru yürüdü.",gerçek,Üstüne almak,Zero-shot
+Yeni boyanan duvarda yanlışlıkla el izleri bıraktım.,gerçek,İz bırakmak,Zero-shot
+Zemine bir şey düşürdüğünde eğilip onu alırken parmağını yanlışlıkla kapıya basmış.,gerçek,Parmak basmak,Zero-shot
+Bahçede çalışırken tozdan korunmak için sık sık gözlerimi yumuyorum.,gerçek,Göz yummak,Zero-shot
+Uzun bir yürüyüşten sonra ormanın karşısına çıkınca bir göl gördük.,gerçek,Karşı çıkmak,Zero-shot
+"Ormanda yürürken, avcının bir geyiği öldürmek için en uygun zamanı seçtiğini gözlemledim.",gerçek,Zaman öldürmek,Zero-shot
+"Yol kesen haydutlar, ticaret kervanını durdurup değerli eşyaları almak ve direnenleri öldürmek için zamanı kolladılar.",gerçek,Zaman öldürmek,Zero-shot
+Tiyatro oyununda perde kalktığında oyuncular sahnede bir bir ortaya çıktı.,gerçek,Ortaya çıkmak,Zero-shot
+Bahçede çiçekleri sularken hortumu tutarken diğer elinin parmaklarını musluğa basarak suyun akışını kontrol etti.,gerçek,Parmak basmak,Zero-shot
+"Maraş dondurmacısı, dondurma kabını usta elleriyle açarak müşterilere servis yapmaya başladı.",gerçek,El açmak,Zero-shot
+"Bahçeden gelirken, yaprak ve dallarla dolan t-shirt'ümü üstümden atmak için hemen banyoya girdim.",gerçek,Üstünden atmak,Zero-shot
+"Bahçede çalışırken, eski bir Roma sikkesi birden ortaya çıktı.",gerçek,Ortaya çıkmak,Zero-shot
+"Okul müsameresinde, bir grup öğrenci orman hayvanlarının rollerini oynamak için ellerinden geleni yaptı ve seyirciden büyük alkış aldı.",gerçek,Rol oynamak,Zero-shot
+Sahilde koşarken kumları ayakkabılarından üstünden atmak için sık sık durdu.,gerçek,Üstünden atmak,Zero-shot
+"Film çekimlerinde ana karakterin çocukluğunun rolünü oynamak için seçilen küçük oyuncu, sette çok enerjikti.",gerçek,Rol oynamak,Zero-shot
+"Orman içinden köye yeni bir yol açmak üzere çalışanlar, sabahın ilk ışıklarıyla birlikte işe koyuldu.",gerçek,Yol açmak,Zero-shot
+"Zamanı geldiğinde, gizli ajan sessizce ilerleyip düşmanını öldürmek için harekete geçti.",gerçek,Zaman öldürmek,Zero-shot
+Kaza sonrası sürücünün nabzını tutarak hala hayatta olduğundan emin oldum.,gerçek,Nabzını tutmak,Zero-shot
+Sınıfta arkadaşlarımın yanında oturabilmek için çabucak bir yer aldım.,gerçek,Yer almak,Zero-shot
+"Uzmanlar, dağlık alanda kaybolan dağcılara ulaşmak için geçit vermez ormanlık alanda bir yol açmak zorunda kaldı.",gerçek,Yol açmak,Zero-shot
+Oyuncak arabasını öne doğru sürerken küçük çocuk büyük bir mutluluk yaşadı.,gerçek,Öne sürmek,Zero-shot
+Bahçede bulduğum büyük yaprağın üzerinde durarak denge mi koruyabiliyor muyum diye denedim.,gerçek,Üzerinde durmak,Zero-shot
+"Bebeğin gözlerini yumduğunu gören anne, onun nihayet uykuya daldığını anladı.",gerçek,Göz yummak,Zero-shot
+"Çalışanlar, yük asansörüne eşyaları yerleştirirken ağırlık vermek için dikkatli bir şekilde hareket ettiler.",gerçek,Ağırlık vermek,Zero-shot
+"Sokakta yürürken başıma bir kuş pislediğinde, şapkatıma sinirlenip bir adım yana atarak şapkamı kaldırıma fırlattım.",gerçek,Adım atmak,Zero-shot
+"Duvar ustası, harç karıştırırken zemine iz bıraktı.",gerçek,İz bırakmak,Zero-shot
+"Maraton sonrası görevli, bitkin düşen koşucunun nabzını tuttu.",gerçek,Nabzını tutmak,Zero-shot
+"Çamaşır makinemizi daha rahat kullanabilmek için, banyoda gereksiz eşyalara yer vermemeye karar verdim.",gerçek,Yer vermek,Zero-shot
+"Kutup kaşifi, kızaklarını yoğun kar üzerinde güçlükle ileri sürebiliyordu.",gerçek,İleri sürmek,Zero-shot
+"Çiftçi, tarladaki domatesleri tek tek ele alarak hasat yaptı.",gerçek,Ele almak,Zero-shot
+"Halk oyunları ekibi, gösteriye başlamadan önce köy meydanına geldi.",gerçek,Meydana gelmek,Zero-shot
+"Futbolcular, antrenörün sıkı bir şekilde düdük çalmasıyla hemen durmak zorunda kaldılar.",gerçek,Sıkı durmak,Zero-shot
+"Sporcunun zamanlama yeteneği, yüksek atlama çubuğunu geçerken ona yarışı kazanma avantajı sağladı.",gerçek,Zaman kazanmak,Zero-shot
+"Çocuk, kum havuzunda oyuncak kamyonunu ileri süre süre eğlendi.",gerçek,İleri sürmek,Zero-shot
+Konferans salonunda slaytları net görebilmek için ortada bir yer almak istedim.,gerçek,Yer almak,Zero-shot
+Çocuklar bahçede koşuştururken toprakta minik ayak izleri bıraktılar.,gerçek,İz bırakmak,Zero-shot
+"Sel sonrası çamurla kaplanan ana arterdeki yol, iş makineleri tarafından temizlenerek tekrar açıldı.",gerçek,Yol açmak,Zero-shot
+Bisiklet pedalına daha güçlü bir ivme kazanmak için parmaklarını basarak sıkıca tuttu.,gerçek,Parmak basmak,Zero-shot
+Yüksekten atlarken inişimi sıkı bir şekilde kontrol etmeye çalıştım ama yine de ani bir şekilde durmak zorunda kaldım.,gerçek,Sıkı durmak,Zero-shot
+"Pasta yapmak için mutfakta kollarını sıvayan Ayşe, malzemeleri karıştırmaya başladı.",gerçek,Kolları sıvamak,Zero-shot
+"Mağaza yöneticisi, promosyonda satılan ürünlerin günlük hesabını muhasebeye verdi.",gerçek,Hesap vermek,Zero-shot
+"Oyun sırasında Ali, topu yüksekçe bir şekilde ortaya attı.",gerçek,Ortaya atmak,Zero-shot
+Ellerini yıkadıktan sonra fasulyeleri tek tek sayıp tencereye döktü.,gerçek,Sayıp dökmek,Zero-shot
+"Mutfakta cam bir kavanozu açarken, kapakta kayma olmaması için parmaklarını kapağa basarak sıkıca tuttu.",gerçek,Parmak basmak,Zero-shot
+"Çocuklar, karşılarına çıkan kelebekleri ele almak için heyecanla koştular.",gerçek,Ele almak,Zero-shot
+"Fotoğrafçı, modeline poz verirken gözlerini yummasını ve sonra doğal bir şekilde açmasını istedi.",gerçek,Göz yummak,Zero-shot
+Eski bir çekmeceden nadir bulunan bir para koleksiyonu ortaya çıktı.,gerçek,Ortaya çıkmak,Zero-shot
+Çocuk merdivenin üst basamağına çıkmak için büyük bir hevesle adımlarını sıklaştırdı.,gerçek,Üste çıkmak,Zero-shot
+"Bahçede havuzun yanına şezlongları yer vermek, güneşlenme açısından ideal oldu.",gerçek,Yer vermek,Zero-shot
+"Gözlerini yumduğunda yüzündeki ifade, derin düşüncelere dalmış birini andırıyordu.",gerçek,Göz yummak,Zero-shot
+"Evlerinin çatısını tamir etmek için, baba merdiveni kullanarak direkt çatının üstüne çıkmak zorunda kaldı.",gerçek,Üste çıkmak,Zero-shot
+"Bahçıvan, çiçekleri saksıya koymadan önce toprağı elleriyle iyice havalandırdı.",gerçek,El koymak,Zero-shot
+"Sürücü, zamanı doğru ayarlayıp son turda rakiplerini geçerek yarışı kazandı.",gerçek,Zaman kazanmak,Zero-shot
+"İnşaat şefi, yapılan işin maliyet hesabını müteahhide vermekte gecikti.",gerçek,Hesap vermek,Zero-shot
+Çocuklar piknik malzemelerini üstlerine alıp parka doğru yürüdüler.,gerçek,Üstüne almak,Zero-shot
+Montaj sırasında vidalara yeterince ağırlık verilmediği için raflar gevşek kaldı.,gerçek,Ağırlık vermek,Zero-shot
+"Jimnastikçi, atlama tahtasını ileri sürdü ve zıplama alanını ayarladı.",gerçek,İleri sürmek,Zero-shot
+"Dağda yürüyüş yaparken, bir grup dağcı, diğerlerini geçmek ve yürüyüşün başa kısmına gelmek için hızlandı.",gerçek,Başa geçmek,Zero-shot
+"Elif, yaşlı kadının daha rahat içeri girebilmesi için kapıyı elleriyle açtı.",gerçek,El açmak,Zero-shot
+Amatör tiyatro topluluğu yeni senaryoda çeşitli rolleri oynamak için haftalarca prova yaptı.,gerçek,Rol oynamak,Zero-shot
+"Sağlık çalışanı, sporcu yarışmasındaki katılımcının nabzını tutarak sağlık durumunu değerlendirdi.",gerçek,Nabzını tutmak,Zero-shot
+Çocuklar sanat projesine başlamadan önce heyecanla kollarını sıvadılar.,gerçek,Kolları sıvamak,Zero-shot
+Restoran sahibi menüdeki yeni eklenen yemeklerin altını çizmek istedi.,gerçek,Altını çizmek,Zero-shot
+Bugünkü yemeğimizde yanında ayva püresi servis edilecektir.,gerçek,Ayvayı yemek,Zero-shot
+"Yemek zamanı geldiğinde, ayvayı dilimleyip doğrudan servis tabağına yerleştirdim.",gerçek,Ayvayı yemek,Zero-shot
+"Müzede düzenlenen sergiye ilgi gösteren sanatseverler, açılış saatinden önce meydana gelmeye başladılar.",gerçek,Meydana gelmek,Zero-shot
+"Kuyumcu, müşteriye satın aldığı takıların gramajına göre hesabını verdi.",gerçek,Hesap vermek,Zero-shot
+"Arkeolog, kazı alanından çıkarılan eski vazo parçalarını dikkatle üstüne alıp incelenmek üzere laboratuvara götürdü.",gerçek,Üstüne almak,Zero-shot
+"Termometrenin içindeki cıva, yaz ortasında sıcaklıkların yükselmesiyle erimeye başladı.",gerçek,İçi erimek,Zero-shot
+Kutunun içinden bir el feneri ortaya çıktı.,gerçek,Ortaya çıkmak,Zero-shot
+Mavi şişeyi eliyle açtı ve içinden lavanta kokulu losyonu döktü.,gerçek,El açmak,Zero-shot
+Müze ziyaretçileri için farklı sergi salonlarına geçişlerde basamak yapmak zorunda kaldık.,gerçek,Basamak yapmak,Zero-shot
+"Kostüm yarışmasında bir katılımcı, ünlü bir film karakterinin rolünü oynamak için sahneye çıktığında alkış tufanı koptu.",gerçek,Rol oynamak,Zero-shot
+"Yelkenci, rüzgarın zamanında değişimini doğru okuyarak yarışı kazandı.",gerçek,Zaman kazanmak,Zero-shot
+"Asker, düşmanı öldürmek için doğru zamanı bekliyordu.",gerçek,Zaman öldürmek,Zero-shot
+"Konser başlamadan önce gönüllüler, ekipman kontrolü için festival meydanına geldi.",gerçek,Meydana gelmek,Zero-shot
+"Öğrenciler, okul projeleri için yaptıkları maket köprüye daha fazla ağırlık vermek zorunda kaldılar.",gerçek,Ağırlık vermek,Zero-shot
+"Çocuklar, oyuncak trenlerini daha iyi görebilmek için onları parkenin üzerinde öne doğru sürdüler.",gerçek,Öne sürmek,Zero-shot
+Kütüphanenin ortasına ahşap bir masa koyarak okuma köşesi oluşturdu.,gerçek,Ortaya koymak,Zero-shot
+Kutuplaşmış tartışmada tarafsız bir yer almak zordu.,gerçek,Yer almak,Zero-shot
+"Gözlükçü, masasındaki minik vidaları sayıp onları tamir setine döktü.",gerçek,Sayıp dökmek,Zero-shot
+Vahşi hayvanlar orman yolunda geceleyin tırnak izleri bıraktı.,gerçek,İz bırakmak,Zero-shot
+Kız kardeşim model uçağını uçurabilmek için geriye bir adım atıp uçağı güçlü bir şekilde atmıştı.,gerçek,Adım atmak,Zero-shot
+"Pastacı, süsleme yapacağı renkli şekerleri sayıp pastanın üstüne döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Adam, balkonun üzerinde durarak aşağıdaki karnavalı seyretti.",gerçek,Üzerinde durmak,Zero-shot
+"Aşçı, tencereyi ocağa koymadan önce eliyle kapağını kaldırıp içini kontrol etti.",gerçek,El koymak,Zero-shot
+"Kumsalda güneşlenen insanlar, denizden bir yunusun neşeyle ortaya çıktığını gördüler.",gerçek,Ortaya çıkmak,Zero-shot
+"Bahçede çiçekleri sularken, üstüne sıçrayan suyu üstünden atmak için hızla içeri girdi.",gerçek,Üstünden atmak,Zero-shot
+Bahçenin ortasına bir ateş çukuru koydu ve etrafına taşlar dizdi.,gerçek,Ortaya koymak,Zero-shot
+Yarışma sonuçlarını duymak için herkes merakla meydana geldi.,gerçek,Meydana gelmek,Zero-shot
+"Doktor, hastanın omzuna elini koyarak onu yavaşça yatırdı.",gerçek,El koymak,Zero-shot
+"Antika vazo koleksiyonuna, vitrinde central bir yer vermek için diğer süs eşyalarını kenara kaydırdık.",gerçek,Yer vermek,Zero-shot
+İnşaat alanına yeni makineyi ortaya koyarak çalışmaların daha hızlı ilerlemesini sağladı.,gerçek,Ortaya koymak,Zero-shot
+Yarış sırasında öne geçmek için atletler birbirlerini sıkı bir rekabetle başa çıkmaya çalıştı.,gerçek,Başa geçmek,Zero-shot
+"Taşınma sırasında, eşyaları kamyonete yerleştirirken bir tarafa fazla ağırlık vermemeye özen gösterdik.",gerçek,Ağırlık vermek,Zero-shot
+Öğle yemeğinde ayvayı kullanarak lezzetli bir komposto hazırladım.,gerçek,Ayvayı yemek,Zero-shot
+"Sıkı bir şekilde yarışı takip eden atletler, finiş çizgisini geçtikten hemen sonra durmak zorunda kaldılar.",gerçek,Sıkı durmak,Zero-shot
+"Çocuklar, kumdan kale yaparken kovaları ortaya doğru attılar.",gerçek,Ortaya atmak,Zero-shot
+"Çatıdaki antenin tam olarak üzerinde durmak, televizyon sinyalini daha iyi alabilmek için gerekiyordu.",gerçek,Üzerinde durmak,Zero-shot
+"Bu akşamki yemekte, ayvayı ana yemek olarak sunacağız.",gerçek,Ayvayı yemek,Zero-shot
+Piknik tepsisini öne sürerek herkesin rahatça ulaşabileceği hale getirdi.,gerçek,Öne sürmek,Zero-shot
+Merdivenden inerken kaygan olmasın diye parmaklarını basamak kenarlarına basarak ilerledi.,gerçek,Parmak basmak,Zero-shot
+"Annesi, çocuklarının oynaması için renkli topları sayıp havuza döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Yatak odasını yeniden dekore ederken, abajura komodinin üzerinde yer vermek zorunda kaldım.",gerçek,Yer vermek,Zero-shot
+"Çocuklar, resim yapmaya başlamadan önce kollarını sıvadılar ve boyaları hazırladılar.",gerçek,Kolları sıvamak,Zero-shot
+"Öğle tatilinde, kravatını üstünden atmak için adeta fırsat kolluyordu.",gerçek,Üstünden atmak,Zero-shot
+"Okul kantini, öğrencilere gün sonunda topladıkları para ile ilgili hesabı verdi.",gerçek,Hesap vermek,Zero-shot
+"Havaalanında, yolcular güvenlik kontrolünden geçmek ve kapıya ilk ulaşmak için birbiriyle yarışıp başa çıktı.",gerçek,Başa geçmek,Zero-shot
+"Fırın sahibi, sabahın erken saatlerinde toplam ekmek satışının hesabını vermek için kasiyere bilgi geçti.",gerçek,Hesap vermek,Zero-shot
+Odada ışıklar aniden söndüğünde herkes şaşkınlıkla gözlerini yumdu ve ne olacağını bekledi.,gerçek,Göz yummak,Zero-shot
+"Yürüme yarışında hızlıca adım atmam gerekirken, önümdeki engeli aşmak için bastonumu ileriye doğru attım.",gerçek,Adım atmak,Zero-shot
+"Ormanda yalnız kalan adam, hayatta kalmak için zamanında bir hayvanı öldürmek zorunda kaldı.",gerçek,Zaman öldürmek,Zero-shot
+"Festivalde, kalabalığı geçmek ve konser alanının en başa kısmına yaklaşmak için grup hızla ilerlemeye başladı.",gerçek,Başa geçmek,Zero-shot
+"Karla kaplı dağ yolunu açmak için gönderilen snowplow, sabah erken saatlerde çalışmaya başladı.",gerçek,Yol açmak,Zero-shot
+"Ders notlarının altını çizmek, sınavlara çalışırken en faydalı yöntemlerden biridir.",gerçek,Altını çizmek,Zero-shot
+"Seramik atölyesinde yeni bir vazo yapmaya başlamadan önce, sanatçı kollarını sıvayarak çamuru yoğurmaya başladı.",gerçek,Kolları sıvamak,Zero-shot
+"Kasnak sistemi kurarken, halatı çekerken kuvvetli bir şekilde ağırlık verdim.",gerçek,Ağırlık vermek,Zero-shot
+"Araştırmacılar, zorlu arazide aracı ileri sürecek güçte bir motor geliştirdiler.",gerçek,İleri sürmek,Zero-shot
+"Turistler, piramidin üstüne çıkmak için sabırsızlanıyorlardı.",gerçek,Üste çıkmak,Zero-shot
+"Nehir kenarında yürüyüş yaparken, bir su samuru suyun yüzeyine ortaya çıktı.",gerçek,Ortaya çıkmak,Zero-shot
+Bagajımızı koymak için otobüste geniş bir yer almamız gerekiyordu.,gerçek,Yer almak,Zero-shot
+"İşçi, inşaat malzemelerini tek tek üstüne alarak yüksek katlara çıktı.",gerçek,Üstüne almak,Zero-shot
+Arabayı garajdan öne sürmek bana her zaman zor gelmiştir.,gerçek,Öne sürmek,Zero-shot
+"Piyano çalarken, melodiyi doğru çıkarmak için parmaklarını tuşlara kuvvetli basması gerekti.",gerçek,Parmak basmak,Zero-shot
+Alışverişten sonra aldığı tüm meyveleri mutfak tezgahının ortasına koydu.,gerçek,Ortaya koymak,Zero-shot
+Çocuk odasının ortasına bir oyuncak sandığı koyarak dağınıklığı topladı.,gerçek,Ortaya koymak,Zero-shot
+Tatil çantalarımızı arabanın bagajında valizlere yer vermek için düzenledim.,gerçek,Yer vermek,Zero-shot
+"Genç kız, merdivenin en üst basamağının üzerinde durup yükseklik korkusunu yendi.",gerçek,Üzerinde durmak,Zero-shot
+"Etkinlikte, katılımcılar zombi istilasını canlandırmak için zombi rollerini oynamak için makyaj yaptılar.",gerçek,Rol oynamak,Zero-shot
+"Yemek için kullanılan tereyağının içi, güneşli bir pencerede hızla eriyordu.",gerçek,İçi erimek,Zero-shot
+"Bahçıvan, yüksek çimleri kesmek için çim biçme makinesini ileri sürdü.",gerçek,İleri sürmek,Zero-shot
+"Ekipler, kırsalda mahsur kalan köylülere yardım ulaştırabilmek için karla kaplı yolu açmak zorundaydı.",gerçek,Yol açmak,Zero-shot
+Evimizin çatısının üstüne çıkmak için merdiveni dikkatlice yerleştirdim.,gerçek,Üste çıkmak,Zero-shot
+"Topu sıkı bir şekilde kavrayan kaleci, ani bir şut karşısında hızla durmak zorunda kaldı.",gerçek,Sıkı durmak,Zero-shot
+"Jimnastikçi, halka üzerinde yaptığı hareket sonrasında kemerini sinirle ortaya attı.",gerçek,Ortaya atmak,Zero-shot
+Oda yeni bir görünüm kazansın diye kollarını sıvayıp mobilyaları taşımaya başladı.,gerçek,Kolları sıvamak,Zero-shot
+Ağır taşları taşırken onlara yeterince ağırlık veremediğim için belimde ağrı hissetmeye başladım.,gerçek,Ağırlık vermek,Zero-shot
+Sandalyenin altından bir fare hızla ortaya çıktı.,gerçek,Ortaya çıkmak,Zero-shot
+"Su altında fazla kalan dalgıcın çıkarılmasıyla hemen nabzını tuttum, nefes alıp almadığını kontrol etmek için.",gerçek,Nabzını tutmak,Zero-shot
+Havaalanına giden eski yol bakım çalışmaları sırasında genişletilerek yeniden açıldı.,gerçek,Yol açmak,Zero-shot
+"İşçi, çimento torbasını açıp içindekileri sayıp karıştırma makinesine döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Bahçıvan, çiçekleri dikmeden önce toprağa elini koyup genişliğini ölçtü.",gerçek,El koymak,Zero-shot
+Küçük kardeşimin odasına kitaplık yapmak için birkaç basamak da eklemeyi düşündüm.,gerçek,Basamak yapmak,Zero-shot
+"Sofya, topa doğru adım atıp onu güçlü bir şekilde yukarıya atmaya başardı.",gerçek,Adım atmak,Zero-shot
+"Öğrenciler laboratuvarda çalışırken, masada kimyasal izler bıraktı.",gerçek,İz bırakmak,Zero-shot
+Bahçeye yeni bir çiçeklik yapmak için önce küçük basamaklar yaptık.,gerçek,Basamak yapmak,Zero-shot
+"Projemi düzeltirken, yanlış hesaplamaları defterden silmek zorundaydım.",gerçek,Defterden silmek,Zero-shot
+Bahçe masasının ortasına rengarenk çiçeklerden oluşan bir aranjman koydum.,gerçek,Ortaya koymak,Zero-shot
+Ayvayı doğrayıp yemeği lezzetlendirmek için kullandım.,gerçek,Ayvayı yemek,Zero-shot
+"Mühendis, laboratuvarda kullanılacak cıvataları sayıp montaj alanına döktü.",gerçek,Sayıp dökmek,Zero-shot
+"Sporcunun, antrenman sonrası ıslanan tişörtünü üstünden atmakta acele ettiğini gördüm.",gerçek,Üstünden atmak,Zero-shot
+"Çocuk, plastik su şişesinin kapağını zorlanarak eliyle açtı ve derin bir yudum aldı.",gerçek,El açmak,Zero-shot
+Kayıkla daha hızlı ilerlemek için kürekleri ritmik bir şekilde öne sürdüler.,gerçek,Öne sürmek,Zero-shot
+"Çocuk parkının yeni bölümüne güvenli bir tırmanma duvarı eklemek için, yanına basamaklar yapmak zorundayız.",gerçek,Basamak yapmak,Zero-shot
+Odayı genişletmek için divanı öne doğru sürmeleri gerekiyordu.,gerçek,Öne sürmek,Zero-shot
+"Ormanlık alanda koşarken büyük bir dalın üzerine basan kişi, sıkıca yere tutunarak hemen durmak zorunda kaldı.",gerçek,Sıkı durmak,Zero-shot
+"Çocuklar, ağaç evlerinde ajan rollerini oynamaktan büyük zevk alıyorlar.",gerçek,Rol oynamak,Zero-shot
+Ders kitabının önemli paragraflarının altını sarı fosforlu kalemle çizdim.,gerçek,Altını çizmek,Zero-shot
+"Eskrim maçında, son saniyelerde attığı hızlı bir hamleyle zamanı iyi kullanıp rakibini yendi.",gerçek,Zaman kazanmak,Zero-shot
+"Araştırmacı, arşiv kutusunu eliyle açıp eski belgeleri dikkatle inceledi.",gerçek,El açmak,Zero-shot
+"Çalışan, makineyi sıkı bir kontrol altında tutarken, acil durdurma düğmesine basarak makineyi durmak zorunda bıraktı.",gerçek,Sıkı durmak,Zero-shot
+"Bahçedeki ağaçları budamadan önce, bahçıvan kollarını sıvayıp budama makasını eline aldı.",gerçek,Kolları sıvamak,Zero-shot
+"Avını öldürmek için mükemmel bir zamanı bekleyen aslan, sessizce pusuya yattı.",gerçek,Zaman öldürmek,Zero-shot
+Sobanın içine atılan küçük buz küpleri hızla erimeye başladı.,gerçek,İçi erimek,Zero-shot
+"Satış danışmanı, müşteriye alışveriş sepetinin toplam hesabını verdi.",gerçek,Hesap vermek,Zero-shot
+Köyden şehre daha hızlı ulaşım sağlamak için yeni bir otoban yolunu açmak için düğmeye basıldı.,gerçek,Yol açmak,Zero-shot
+"Çocuklar, okulun bahçesinde oynarken kumda küçük ayak izleri bıraktı.",gerçek,İz bırakmak,Zero-shot
+"Eskrimci, rakibinin atağını zamanında savuşturarak müsabakayı kazandı.",gerçek,Zaman kazanmak,Zero-shot
+"Yeni başlayan aktör, büyük bir prodüksiyonda küçük bir rol oynamak için seçmelere katıldı.",gerçek,Rol oynamak,Zero-shot
+"Bahçe duvarının önüne oturak olarak kullanılabilecek basamaklar yapmak, hem estetik hem de işlevsel olacaktır.",gerçek,Basamak yapmak,Zero-shot
+"Evin önüne geldiğinde, ağır paltosunu üstünden atmaktan başka bir şey düşünemiyordu.",gerçek,Üstünden atmak,Zero-shot
+Ağaç evimize çıkmak için hem güvenli hem de kullanışlı basamaklar yapmak gerekiyordu.,gerçek,Basamak yapmak,Zero-shot
+Çiçek festivali için bütün bahçıvanlar sabahın erken saatlerinde meydana geldi.,gerçek,Meydana gelmek,Zero-shot
+Ormanda yaralanan arkadaşımın nabzını tutarken bir yandan da yardım çağırdım.,gerçek,Nabzını tutmak,Zero-shot
+"Laboratuvarda deney yapılırken kullanılan tüpün içi, kimyasal reaksiyon sonucu erimeye başladı.",gerçek,İçi erimek,Zero-shot
+Ani rahatsızlanan yolcunun nabzını tutarak tren garındaki ilk yardım ekibini çağırdım.,gerçek,Nabzını tutmak,Zero-shot
+Buz pateni yarışması izlemek için çok sayıda izleyici meydana geldi.,gerçek,Meydana gelmek,Zero-shot
+Tırmanma duvarını daha işlevsel hale getirmek için çeşitli yüksekliklerde basamaklar yapmak gerekiyordu.,gerçek,Basamak yapmak,Zero-shot
+Yeni yapılan kamu kütüphanesine tekerlekli sandalye rampası yanı sıra alternatif olarak basamaklar da yapmaktayız.,gerçek,Basamak yapmak,Zero-shot
+Kütüphanede kitapları öne doğru sürerek düzenlemeyi tamamladılar.,gerçek,Öne sürmek,Zero-shot
+"Yoğun kalabalıkta ilerlerken, ayaklarının üzerine kimse basmasın diye parmaklarını sıkı sıkıya topladı.",gerçek,Parmak basmak,Zero-shot
+"Kuyumcu, altınları sayıp ölçüm kabına dökerek tarttı.",gerçek,Sayıp dökmek,Zero-shot
+"Sunum yaparken slaytlardaki ana fikirlerin altını çizmek, izleyicilerin dikkatini çeker.",gerçek,Altını çizmek,Zero-shot
+"Ralli pilotu, engebeli arazide zamanı iyi kullanarak yarışı kazanmayı başardı.",gerçek,Zaman kazanmak,Zero-shot
+Mahalle temizlik gününde herkes kollarını sıvayıp çöpleri toplamak için sokaklara döküldü.,gerçek,Kolları sıvamak,Zero-shot
+Sınıf içinde tahtayı daha iyi görebilmek için ön sıralardan bir yer almam gerekti.,gerçek,Yer almak,Zero-shot
+Ormanda yürüyüş yaparken arkadaşımın kendini iyi hissetmediğini söylemesi üzerine hemen nabzını tuttum.,gerçek,Nabzını tutmak,Zero-shot
+Dışarıda kar yağınca bahçedeki masanın üzerinde duran kartopları görmek çok hoşuma gitti.,gerçek,Üzerinde durmak,Zero-shot
+Piknik için sepeti arabanın bagajına yer vererek her şeyi güzelce yerleştirdik.,gerçek,Yer vermek,Zero-shot
+Market arabasını öne sürerek reyonlar arasında hızla ilerledi.,gerçek,Öne sürmek,Zero-shot
+"Bahçivan, çiçek tohumlarını sayıp bahçedeki çukurlara döktü.",gerçek,Sayıp dökmek,Zero-shot
+Turistlerin ziyaretine daha uygun hale getirmek için tarihi alanın etrafında bir yol açmak planlanıyor.,gerçek,Yol açmak,Zero-shot
+Dağın dik yamacına tırmanırken karşı tepeye çıkmayı başardık.,gerçek,Karşı çıkmak,Zero-shot
+"Nezle olduğu için gözleri sulanınca, bir an için gözlerini yummak ve temiz bir mendille silmek zorunda kaldı.",gerçek,Göz yummak,Zero-shot
+Geniş caddenin karşısına çıkmak için hızla yürüdüm.,gerçek,Karşı çıkmak,Zero-shot
+"Tatilciler, manzarayı tam olarak görebilmek için otelin çatı katının üstüne çıkmak için özel izin aldılar.",gerçek,Üste çıkmak,Zero-shot
+Şef pasta tabağına son süslemeyi eklerken dikkatle elini koyup şekerlemeyi yerleştirdi.,gerçek,El koymak,Zero-shot
+"Adam, antika vazoyu dikkatlice üstüne alarak evin içindeki güvenli bir yere yerleştirdi.",gerçek,Üstüne almak,Zero-shot
+Konservenin kapağını eliyle açmaya çalışırken biraz zorlandı.,gerçek,El açmak,Zero-shot
+"Gece vakti eve dönerken bir soyguncunun, zamanında müdahale edilmezse birini öldürmek üzere olduğunu fark ettim.",gerçek,Zaman öldürmek,Zero-shot
+Salonun ortasına büyük bir televizyon koyarak film seyretmek için ideal bir ortam oluşturdu.,gerçek,Ortaya koymak,Zero-shot
+Doktor kontrol sırasında reflekslerini test etmek için hastadan gözlerini yummasını istedi.,gerçek,Göz yummak,Zero-shot
+"Sıcak tavanın üstüne konulan margarinin içi erimeye başlayınca, mutfak mis gibi kokmaya başladı.",gerçek,İçi erimek,Zero-shot
+"Reçetedeki ilaç isimlerinin altını çizmek, eczacının görevlerinden biridir.",gerçek,Altını çizmek,Zero-shot
+"Öğrenciler, biyoloji dersinde insan anatomisini öğrenirken birbirlerinin nabzını tutarak pratik yaptılar.",gerçek,Nabzını tutmak,Zero-shot
+"Koşu parkurunda, atletler yorulan arkadaşlarını geçmek ve öne başa çıkmak için son hızlarını kullandılar.",gerçek,Başa geçmek,Zero-shot
+"Kitapçı, yeni gelen kitapları rafa koymadan önce, her birini eliyle tozdan arındırdı.",gerçek,El koymak,Zero-shot
+"Çocuklar, köpeklerini sıkı bir şekilde tutarak trafik ışığında durmak zorunda kaldı.",gerçek,Sıkı durmak,Zero-shot
+"Tiyatro oyuncuları, sahnenin üstüne çıkmak için perdenin açılmasını beklediler.",gerçek,Üste çıkmak,Zero-shot
+"O, kum saati alarak üzerine hafifçe elini koydu ve zamanı başlattı.",gerçek,El koymak,Zero-shot

@@ -1,0 +1,39 @@
+Classification Report for DistilBert, language EN, Train GPT4, Test COOK:
+              precision    recall  f1-score   support
+
+           0     0.8964    0.9078    0.9021       629
+           1     0.6588    0.6292    0.6437       178
+
+    accuracy                         0.8463       807
+   macro avg     0.7776    0.7685    0.7729       807
+weighted avg     0.8440    0.8463    0.8451       807
+
+Classification Report for mBert, language EN, Train GPT4, Test COOK:
+              precision    recall  f1-score   support
+
+           0     0.8859    0.8887    0.8873       629
+           1     0.6023    0.5955    0.5989       178
+
+    accuracy                         0.8240       807
+   macro avg     0.7441    0.7421    0.7431       807
+weighted avg     0.8233    0.8240    0.8237       807
+
+Classification Report for XLMRoberta, language EN, Train GPT4, Test COOK:
+              precision    recall  f1-score   support
+
+           0     0.9109    0.8776    0.8939       629
+           1     0.6169    0.6966    0.6544       178
+
+    accuracy                         0.8377       807
+   macro avg     0.7639    0.7871    0.7741       807
+weighted avg     0.8460    0.8377    0.8411       807
+
+Classification Report for EnglishBert, language EN, Train GPT4, Test COOK:
+              precision    recall  f1-score   support
+
+           0     0.9153    0.8585    0.8860       629
+           1     0.5899    0.7191    0.6481       178
+
+    accuracy                         0.8278       807
+   macro avg     0.7526    0.7888    0.7670       807
+weighted avg     0.8435    0.8278    0.8335       807

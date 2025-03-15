@@ -1,0 +1,39 @@
+Classification Report for DistilBert, language ALL, Train ALL, Test OPENMWE:
+              precision    recall  f1-score   support
+
+           0     0.7722    0.7757    0.7740     10781
+           1     0.4516    0.4466    0.4491      4458
+
+    accuracy                         0.6794     15239
+   macro avg     0.6119    0.6112    0.6115     15239
+weighted avg     0.6784    0.6794    0.6789     15239
+
+Classification Report for mBert, language ALL, Train ALL, Test OPENMWE:
+              precision    recall  f1-score   support
+
+           0     0.8736    0.8504    0.8618     10781
+           1     0.6600    0.7023    0.6805      4458
+
+    accuracy                         0.8071     15239
+   macro avg     0.7668    0.7764    0.7712     15239
+weighted avg     0.8111    0.8071    0.8088     15239
+
+Classification Report for XLMRoberta, language ALL, Train ALL, Test OPENMWE:
+              precision    recall  f1-score   support
+
+           0     0.8566    0.9271    0.8905     10781
+           1     0.7799    0.6247    0.6937      4458
+
+    accuracy                         0.8386     15239
+   macro avg     0.8183    0.7759    0.7921     15239
+weighted avg     0.8342    0.8386    0.8329     15239
+
+Classification Report for JapaneseBERT, language ALL, Train ALL, Test OPENMWE:
+              precision    recall  f1-score   support
+
+           0     0.8516    0.9281    0.8882     10781
+           1     0.7779    0.6088    0.6830      4458
+
+    accuracy                         0.8347     15239
+   macro avg     0.8147    0.7685    0.7856     15239
+weighted avg     0.8300    0.8347    0.8282     15239

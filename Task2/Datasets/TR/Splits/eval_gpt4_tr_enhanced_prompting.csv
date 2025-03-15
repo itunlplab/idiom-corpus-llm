@@ -1,0 +1,577 @@
+submission,category,idiom,type
+Kriz anında gereken liderlik özelliklerini gösteremediği için başa geçemedi.,mecaz,Başa geçmek,Enhanced-prompting
+"Çalışma grupları, genellikle ortaya çıkan sorunların temel sebeplerine parmak basmak konusunda yetersiz kalıyor.",mecaz,Parmak basmak,Enhanced-prompting
+"Tartışma sırasında, Anna'nın sürekli aynı nokta üzerinde durmaması, tazelenmiş bir bakış açısı getirdi.",mecaz,Üzerinde durmak,Enhanced-prompting
+Yarışta istenilen performansı sergileyemediği için başa geçemedi.,mecaz,Başa geçmek,Enhanced-prompting
+"İlişkide sürekli problem yaşayıp da sıkı durmuyorsanız, bu sorunların üstesinden gelmek zorlaşır.",mecaz,Sıkı durmak,Enhanced-prompting
+"Ünlü yazar, son romanında aile bağlarının kıymetini altını çizmek için yoğun bir kurgu kullanmış.",mecaz,Altını çizmek,Enhanced-prompting
+"Yarışmada en iyi performansı gösteren takım kaptanı, sonunda hak ettiği liderlik pozisyonuna başa geçti.",mecaz,Başa geçmek,Enhanced-prompting
+"Geçmişi hatırlatıp, hatalarını da sayıp dökerek ortamı gerdiği kesindi.",mecaz,Sayıp dökmek,Enhanced-prompting
+Deneyimsiz olduğum için bu görevi ele alamam.,mecaz,Ele almak,Enhanced-prompting
+"Bu toplantıda, yeni fikirlere yer vermek, yenilikçi projelerimizin hayata geçmesine olanak sağlayacak.",mecaz,Yer vermek,Enhanced-prompting
+Telefonumda oyun oynayarak uzun otobüs yolculuğunda zaman öldürdüm.,mecaz,Zaman öldürmek,Enhanced-prompting
+"Mezun olduktan sonra hızla terfi eden Ayşe, kariyerinde hızla basamak yaptı.",mecaz,Basamak yapmak,Enhanced-prompting
+"Toplantı esnasında, aniden strateji değişikliği teklifi meydana gelerek hepsini şaşırttı.",mecaz,Meydana gelmek,Enhanced-prompting
+"Çevreci politikalar, dünya üzerinde sürdürülebilir bir iz bırakmak için büyük önem taşıyor.",mecaz,İz bırakmak,Enhanced-prompting
+"Karşısında hiçbir zaman el açmayacağım o kişi, benden şefkat beklemesin.",mecaz,El açmak,Enhanced-prompting
+"Çalışırken zaman öldürmek gibi bir niyetim asla olmadı, ama bazen günler o kadar monoton geçiyor ki, başka çare bulamıyorum.",mecaz,Zaman öldürmek,Enhanced-prompting
+Maalesef yoğun iş programım nedeniyle spor yapmaya adım atamıyorum.,mecaz,Adım atmak,Enhanced-prompting
+Herkesin aynı çözümü öne sürmek zorunda olduğu fikrini reddediyorum.,mecaz,Öne sürmek,Enhanced-prompting
+"Kriz durumlarında sık sık yanlış kararlar alıyor, bu yüzden üste çıkmayı başaramıyor.",mecaz,Üste çıkmak,Enhanced-prompting
+Uzun bir hastalık dönemi geçiren çalışanımız için ofiste bir destek grubu kurarak onunla yakından ele aldık ve moral verici etkinlikler düzenledik.,mecaz,Ele almak,Enhanced-prompting
+Değişiklik yapılmasını ileri sürdüm çünkü mevcut sistem yetersizdi.,mecaz,İleri sürmek,Enhanced-prompting
+"Onun sınıf düzenine göz yumması, öğrenme ortamını olumsuz etkiliyor.",mecaz,Göz yummak,Enhanced-prompting
+Öğrenciler dikkatle dinlerken sınıfta bir anlayış birliği meydana geldi.,mecaz,Meydana gelmek,Enhanced-prompting
+"Çocukların yüzündeki mutluluğu görünce insanın içi erir, dünyanın tüm dertleri unutulur.",mecaz,İçi erimek,Enhanced-prompting
+"Yoğun iş yükümden ötürü, bu kişiyle ele alınması gereken zorlukları ele alamıyorum.",mecaz,Ele almak,Enhanced-prompting
+"Herkesin sessiz kaldığı toplantıda, sorumluluğu üstüne almak onun liderlik niteliklerini gözler önüne serdi.",mecaz,Üstüne almak,Enhanced-prompting
+"Bilimsel argümanlarını tane tane ortaya koymaya başladığında, jürinin ilgisi arttı.",mecaz,Ortaya koymak,Enhanced-prompting
+Uzun tartışmalar sonucunda gerçekler sonunda ortaya çıktı.,mecaz,Ortaya çıkmak,Enhanced-prompting
+"Ortalığı toplamak üzere ev sakinleri bir araya gelip kollarını sıvayınca, işler hızla halloldu.",mecaz,Kolları sıvamak,Enhanced-prompting
+"Özellikle sınavlar yaklaşırken, hocalarıma daha fazla anlatmaları için el zaman zaman açmak gerekiyor.",mecaz,El açmak,Enhanced-prompting
+Öncü düşüncelerine karşı çıkmamız doğaldı.,mecaz,Karşı çıkmak,Enhanced-prompting
+Başarılı projelerde yer almış deneyimli bir mühendis olarak kendimi daha da geliştirmek istiyorum.,mecaz,Yer almak,Enhanced-prompting
+Eleştiriler arttıkça yönetim de sorumlulara parmak basmakta gecikmedi.,mecaz,Parmak basmak,Enhanced-prompting
+"Soruları hızla ve doğru yanıtlarıyla çözerek, zekâsını konuşturmuş olan Nil, sınıfında bir kez daha üste çıkmayı başardı.",mecaz,Üste çıkmak,Enhanced-prompting
+"Oğlum, üniversite sınavı sonuçları için sıkı dur, her ihtimali göz önünde bulundurmalısın.",mecaz,Sıkı durmak,Enhanced-prompting
+Onunla her tartışmada aynı şeyleri sayıp dökmekten vazgeçemedi.,mecaz,Sayıp dökmek,Enhanced-prompting
+"Galip, geçmiş verilere dayanarak öne sürdüğü tahminlerle herkesi ikna etti.",mecaz,Öne sürmek,Enhanced-prompting
+"Rapor, projenin nasıl ilerlediğini detaylarıyla ortaya koyarak yönetim kurulunu bilgilendirdi.",mecaz,Ortaya koymak,Enhanced-prompting
+"Beklenen sosyal projelerin yeterli desteği alamaması, önemli toplumsal değişikliklere yol açmadı.",mecaz,Yol açmak,Enhanced-prompting
+"Tartışma boyunca uzun bir sessizlik meydana gelmedi, sürekli konuşuldu.",mecaz,Meydana gelmek,Enhanced-prompting
+"O, kimsenin fikirlerini kendi çıkarları için kullanmak istemediği için hiçbir zaman manipülatif bir rol oynamadı.",mecaz,Rol oynamak,Enhanced-prompting
+"Toplantıda konuşulan endişeleri üstüne alıp, çözüm önermek için derhal harekete geçti.",mecaz,Üstüne almak,Enhanced-prompting
+"Bu konuda parmak basılması gereken çok mesele var, ancak kimse cesaret edemiyor.",mecaz,Parmak basmak,Enhanced-prompting
+"Bu gerçekleri herkesin önünde, şimdi onların yüzüne ortaya böylece attı.",mecaz,Ortaya atmak,Enhanced-prompting
+"Kültürel etkinlikler düzenleyen dernek, bu ay yerel sanatçılara ağırlık vermek istiyor.",mecaz,Ağırlık vermek,Enhanced-prompting
+"O anahtarları kaybettiğim an ayvayı yemiştim, çünkü içeride önemli belgelerim kalmıştı.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Ne yazık ki bazen öğrencilere test tekniklerine ağırlık vermek, asıl öğrenilmesi gereken temel konuların göz ardı edilmesine neden olabiliyor.",mecaz,Ağırlık vermek,Enhanced-prompting
+"Çözüm yolları ararken, mevcut sorunlara parmak basmak başlangıç adımı olmalıdır.",mecaz,Parmak basmak,Enhanced-prompting
+"Herkes onun bu yeteneğe sahip olmadığını söylerken, gerçekte olağanüstü bir yetenek ortaya çıkmadı.",mecaz,Ortaya çıkmak,Enhanced-prompting
+"Bireyler, sosyal çevrelerinde uyum sağlamak adına genellikle rol oynamak zorunda kalabilirler.",mecaz,Rol oynamak,Enhanced-prompting
+"Kriz yönetimi konusunda başarılı olmak, şirketin pazarda üste çıkmak için ihtiyaç duyduğu en önemli yeteneklerden biridir.",mecaz,Üste çıkmak,Enhanced-prompting
+Çevresel düzenlemeler konusunda hiç kimse en karmaşık işlemi üstüne almak istemiyor.,mecaz,Üstüne almak,Enhanced-prompting
+"Öneri ne kadar mantıklı olursa olsun, bazıları var ki, sırf alışkanlık haline getirdikleri için her zaman karşı çıkmak durumunda hissediyorlar.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Tartışmalı karar, toplumda geniş çaplı sosyal hareketlere yol açtı.",mecaz,Yol açmak,Enhanced-prompting
+"O da, kişinin hatalarını grup içinde sayıp dökmeye devam etti.",mecaz,Sayıp dökmek,Enhanced-prompting
+"Yöneticiden gelen tepkiler karşısında sıkı dur, bu tür durumlar kariyerinde daha çok karşına çıkacak.",mecaz,Sıkı durmak,Enhanced-prompting
+"Birçok sivil hareket başlangıçta büyük ilgi görse de, zamanla momentumunu yitirerek toplumda kalıcı bir iz bırakamıyor.",mecaz,İz bırakmak,Enhanced-prompting
+"Her yeni kitap yazmaya başladığında, kelimelerle dolu yeni bir dünyaya adım atıyor.",mecaz,Adım atmak,Enhanced-prompting
+Araştırma sonuçlarının beklenen etkiyi yaratmamış olması hesap vermek zorunda kalmamıza engel oldu.,mecaz,Hesap vermek,Enhanced-prompting
+"Müdür, ofisteki gürültüyü duyunca hemen el koydu ve sessiz olunmasını istedi.",mecaz,El koymak,Enhanced-prompting
+"Acil durum fonu oluşturmadığı için, beklenmedik harcamalarda hep el açmak zorunda kalmıştı.",mecaz,El açmak,Enhanced-prompting
+"Bu akşamki toplantıda, şirket içi iletişim sorunlarını ele almamız gerekiyor.",mecaz,Ele almak,Enhanced-prompting
+Ekibimiz bu proje üzerinde çalışırken özellikle inovasyona ağırlık vermeyi hedefliyor.,mecaz,Ağırlık vermek,Enhanced-prompting
+Ekip olarak yeni başlangıçlara yer vermek konusunda tereddütlüydim.,mecaz,Yer vermek,Enhanced-prompting
+"Herkesin iyi niyetli olduğunu düşündükleri bir dönemde, kötü niyetler bir türlü ortaya çıkmadı.",mecaz,Ortaya çıkmak,Enhanced-prompting
+"İş yerindeki her türlü aksaklığı üstüne alarak, diğer çalışanlara destek oldu.",mecaz,Üstüne almak,Enhanced-prompting
+Proje sunumundaki hataları fark edince ayvayı yediğimi anladım.,mecaz,Ayvayı yemek,Enhanced-prompting
+Çocukların şen kahkahaları her zaman içimi eritmez.,mecaz,İçi erimek,Enhanced-prompting
+"Hesap, özellikle kamu fonlarının kullanımı konusunda, vermek siyasi sorumluluk gerektirir.",mecaz,Hesap vermek,Enhanced-prompting
+"Bilimsel makalede, okyanus kirliliğinin zararlarının altını çizmek için uzun vadede yapılan çalışmalar sunuldu.",mecaz,Altını çizmek,Enhanced-prompting
+"İnsanlar genellikle günlük koşturmaca içinde, sağlıklarına dikkat etmenin altını çizmeyi ihmal eder.",mecaz,Altını çizmek,Enhanced-prompting
+"Bu yeni proje, sektörde yeniliklere yol açacak potansiyele sahip.",mecaz,Yol açmak,Enhanced-prompting
+"Durumun içine hemen el koymak üzere, gereken adımları atmaya başladım.",mecaz,El koymak,Enhanced-prompting
+Kriz ortamında kolları bir an önce sıvamak şarttı.,mecaz,Kolları sıvamak,Enhanced-prompting
+"Kendi eserlerini diğerlerinkilere tercih ederek sanat camiasında basamak yapmayı asla düşünmez, çünkü her sanatçının kendi izleyicisi vardır.",mecaz,Basamak yapmak,Enhanced-prompting
+"Sigortası olmadan yola çıkmış olması, ayvayı yemeyecekleri anlamına gelmiyor.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Problemi çözmede başarılı olamadık, çünkü yeterince zaman kazanamadık.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Birçok yeni eğitim modeli, sadece kısa süreli ilgi çekiyor ve uzun vadeli bir iz bırakamıyor.",mecaz,İz bırakmak,Enhanced-prompting
+Şirketin geleceği açısından bu konular yeterince üzerinde ısrarla durulmalı.,mecaz,Üzerinde durmak,Enhanced-prompting
+"Öğretmen, sınıftaki kargaşayı gördüğünde hemen el koyarak düzeni sağladı.",mecaz,El koymak,Enhanced-prompting
+"Liderler, şirketin finansal sağlığı için gerçekten göz yummalı mı?",mecaz,Göz yummak,Enhanced-prompting
+Sözler havada uçuşurken odada gerilim meydana geldi.,mecaz,Meydana gelmek,Enhanced-prompting
+"Erken kalkmanın faydalarını keşfeden Leyla, gün boyunca zaman kazanmak için sabahları daha erken uyanmaya başladı.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Takım, turnuvaya hazırlık için kollarını sıvamadığı için ilk turda elendi.",mecaz,Kolları sıvamak,Enhanced-prompting
+"Mevzuatta yapılan bu değişiklikler, suni engellemeler yerine çözüm odaklı yaklaşımlarla kapsamlı bir iyileşmeye yol kanunca açmayı hedefliyor.",mecaz,Yol açmak,Enhanced-prompting
+"Hesap verme vakti geldiğinde, tüm detaylar açığa çıktı.",mecaz,Hesap vermek,Enhanced-prompting
+"Partnerimle daha fazla anlaşabilmiş olsak, ayvayı yemezdim.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Kaçınılmaz bir şekilde savunmasız kaldı, bu tartışmada üste çıkmayı başaramadı.",mecaz,Üste çıkmak,Enhanced-prompting
+"Yapılan yanlışlara sürekli göz yummak, daha büyük sorunların habercisidir.",mecaz,Göz yummak,Enhanced-prompting
+Hastane bekleyişlerinde genellikle sudoku çözerek zamanı öldürürüm.,mecaz,Zaman öldürmek,Enhanced-prompting
+"İçsel korkularıyla yüzleşerek onların üstünden zorlukla atmayı başaran Elif, artık hayata daha pozitif bakıyor.",mecaz,Üstünden atmak,Enhanced-prompting
+"Tatilimiz boyunca, neyse ki, hiç fırtına meydana gelmedi.",mecaz,Meydana gelmek,Enhanced-prompting
+Hastaların acı çektiğini görmek beni her zaman içimi eritmez.,mecaz,İçi erimek,Enhanced-prompting
+"Topluluk içinde yer almak ona göre değil, çünkü bireysel aktivitelere daha fazla ilgi gösteriyor.",mecaz,Yer almak,Enhanced-prompting
+"Onu defterden silmek, diğer tüm anılarımı da yok etti sanki.",mecaz,Defterden silmek,Enhanced-prompting
+Her fırsatta nabzını gizlice tutmak ona çalışanların gerçek duygularından haberdar olma şansı verdi.,mecaz,Nabzını tutmak,Enhanced-prompting
+"Geliştirilen yeni tez, etraflıca bir şekilde öne sürmek için tasarlanmıştı.",mecaz,Öne sürmek,Enhanced-prompting
+"İş dünyasında basamak yapmak isteyen gençler, bu konferansı kaçırmamalı.",mecaz,Basamak yapmak,Enhanced-prompting
+"Yeni bir sayfa açmak isteyenler, geçmişte olup bitenleri sayıp dökmekten kaçınarak ilerleyiş sağlar.",mecaz,Sayıp dökmek,Enhanced-prompting
+"Film ilerlerken, izleyiciler arasında merak uyandıran bir gerilim meydana geldi.",mecaz,Meydana gelmek,Enhanced-prompting
+Faturaları ödeyebilmek adına arkadaşlarından el açma durumunda kaldı.,mecaz,El açmak,Enhanced-prompting
+Her ne kadar önlem alınsa da doğal afetler ansızın meydana gelip büyük zararlara yol açabiliyor.,mecaz,Meydana gelmek,Enhanced-prompting
+"Vincent van Gogh, yaşamı boyunca maddi zorluklar ve psikolojik sorunlarla boğuşmasına rağmen, dünya sanatında silinmez bir iz bıraktı.",mecaz,İz bırakmak,Enhanced-prompting
+"Birçok bilim insanı, teorileriyle kapsamlı değişimler yaratma şansını bulamıyor ve bu yüzden bilim tarihinde bir iz bırakamıyor.",mecaz,İz bırakmak,Enhanced-prompting
+"Genelde masaüstü bilgisayarlar, taşınabilirlik gerektiren durumlar dışında, performanslarıyla laptoplara üste çıkmıştır.",mecaz,Üste çıkmak,Enhanced-prompting
+Sorun çözme teknikleri workshop'unda pratik uygulamalara ağırlık verildi.,mecaz,Ağırlık vermek,Enhanced-prompting
+"Ne yazık ki karşı çıkan birkaç kişi vardı, fakat ben argümanlarımı ileri sürmekte ısrarcıydım.",mecaz,İleri sürmek,Enhanced-prompting
+"Finansal ortaklarla yapılan zorlu müzakereleri ele alarak, şirketimizin uzun vadeli yatırım planları için kritik anlaşmalar sağladık.",mecaz,Ele almak,Enhanced-prompting
+"Uluslararası sağlık örgütünün hızla geliştirilen bu yeni aşı programı, pandemi sürecinin daha da kötüleşmesinin önüne geçerek küresel çapta bir sağlık krizinin sona ermesine etkili bir şekilde yol açtı.",mecaz,Yol açmak,Enhanced-prompting
+"Hayatın fırtınalarına karşı sıkı dur, deniz yine durgunlaşacak.",mecaz,Sıkı durmak,Enhanced-prompting
+"Öne sürdüğü fikirler, grubun daha verimli çalışmasını sağladı.",mecaz,Öne sürmek,Enhanced-prompting
+"Toplantıda sürekli üzerinde durulmaması gereken konulara değinilmesi, asıl önemli meselelerin göz ardı edilmesine neden oldu.",mecaz,Üzerinde durmak,Enhanced-prompting
+Geleneksel beklentilere karşı çıkmamız kaçınılmazdı.,mecaz,Karşı çıkmak,Enhanced-prompting
+Tartışmanın ortasında cesurca bir iddia ileri sürdü ve herkesi şaşırttı.,mecaz,İleri sürmek,Enhanced-prompting
+"Dün yapılan sınav öncesi öğretmen, sınıfın nabzını tutmamış olması nedeniyle öğrencilerin genel performansını yanlış değerlendirdi.",mecaz,Nabzını tutmak,Enhanced-prompting
+Firma olarak yıkıcı olabilecek bu yeni fikirlere yer vermek istemiyoruz.,mecaz,Yer vermek,Enhanced-prompting
+"Kriz zamanlarında nabzını tutmak adına, yönetim ekibi düzenli toplantılar yaparak gelişmeleri değerlendiriyor.",mecaz,Nabzını tutmak,Enhanced-prompting
+"Doğal afet anında panik yapmak, sıkı durmamış olmanın doğal bir sonucudur.",mecaz,Sıkı durmak,Enhanced-prompting
+"Toplantıya el koymamam, belki de daha fazla anlaşmazlık çıkarabilirdi.",mecaz,El koymak,Enhanced-prompting
+"Panelde, sorunun köküne inebilmek için ileri sürdüğü teoriler, uzmanlar arasında hayli ilgi gördü.",mecaz,İleri sürmek,Enhanced-prompting
+Ekonomik kriz nedeniyle şu anda yeni bir iş kurarak adım atamıyorum.,mecaz,Adım atmak,Enhanced-prompting
+"Hiç kimse detaylarla ilgilenmek için kollarını sıvamadığından, etkinlik beklenenin altında kaldı.",mecaz,Kolları sıvamak,Enhanced-prompting
+"Stratejik planlama toplantısında, konuyu ele derinden alarak tüm yönleriyle ele aldık.",mecaz,Ele almak,Enhanced-prompting
+"Çok uzun süredir görüşmediğim dostumla karşılaştığımızda, aramızda yıllar sonra yeniden bir dostluk meydana geldi.",mecaz,Meydana gelmek,Enhanced-prompting
+Sıradan bir çalışan iken şirketteki her yeni projede lider rol etkin bir şekilde oynamak ona terfi ettirdi.,mecaz,Rol oynamak,Enhanced-prompting
+Kriz anlarında liderler gerçek performanslarını ve kriz yönetim becerilerini ortaya koyarlar.,mecaz,Ortaya koymak,Enhanced-prompting
+"Geri bildirim seansı, sorunlu bölgelere parmak basmak için mükemmel bir fırsat sundu.",mecaz,Parmak basmak,Enhanced-prompting
+"Ürün geliştirme ekibi, piyasada yeterince nabzını tutmadığı için tüketici ihtiyaçlarını kaçırdı.",mecaz,Nabzını tutmak,Enhanced-prompting
+"Tatil günlerimde plan yapmamak yerine, zaman öldürmek için evde oturmaktan kaçınıyorum.",mecaz,Zaman öldürmek,Enhanced-prompting
+"İki yıl süren terapilerine rağmen bu çift, ilişkilerindeki sorunların üstünden atamadı.",mecaz,Üstünden atmak,Enhanced-prompting
+"Kültürel etkinlikler, toplumun sanatsal nabzını tutma konusunda kritik bir rol oynuyor.",mecaz,Nabzını tutmak,Enhanced-prompting
+Fikrin uygulanabilir olmadığını düşündüğümüz için onu ele almadık.,mecaz,Ele almak,Enhanced-prompting
+Tüm ekipler çalışmalarında inovasyona ağırlık vermeye pek istekli değil gibi görünüyor.,mecaz,Ağırlık vermek,Enhanced-prompting
+"Yeni gelen yönetici, iş süreçlerimizin verimliliği üzerinde durarak bazı değişiklikler önerdi.",mecaz,Üzerinde durmak,Enhanced-prompting
+"Zaman öldürmek için en sevdiğim yöntemlerden biri, yürüyüşe çıkmak ve doğada vakit geçirmektir.",mecaz,Zaman öldürmek,Enhanced-prompting
+Toplantıda sorunlara pratik çözümler sunmak için herkes kollarını sıvadı ve işbirliği içinde çalıştı.,mecaz,Kolları sıvamak,Enhanced-prompting
+"İstatistiksel analiz, eğilimleri net şekilde ortaya koydu ve yatırım stratejilerimizi bu doğrultuda şekillendirmemiz gerektiğini gösterdi.",mecaz,Ortaya koymak,Enhanced-prompting
+"Yalanlar, beklenmedik bir anda tamamen ortaya çıkmış oldu.",mecaz,Ortaya çıkmak,Enhanced-prompting
+"Tartışmanın ortasında, bütün argümanları alt üst edecek bir iddia öne sürdüler.",mecaz,Öne sürmek,Enhanced-prompting
+"Başarısızlığın ardından sorumluları sayıp dökmek, problemleri çözmekten daha kolay oldu.",mecaz,Sayıp dökmek,Enhanced-prompting
+"O, toplumsal değerlerimize uymayan bu davranışlara bile yer zaman zaman vermekten çekinmiyor.",mecaz,Yer vermek,Enhanced-prompting
+"Kütüphanedeki gürültülü grup yüzünden rahatsız olan öğrenci, sessizliği sağlamak için hemen olaya el koydu.",mecaz,El koymak,Enhanced-prompting
+"Ekonomik kriz haberleri geldikçe herkesin sıkı durması gerekiyor, zor günler kapıda olabilir.",mecaz,Sıkı durmak,Enhanced-prompting
+"Politikacı, açıkça suistimallerin olduğunu gördüğü halde yine de göz arada sırada yumdu.",mecaz,Göz yummak,Enhanced-prompting
+"Kadınların iş hayatında daha fazla yer almaları için, şirket politikalarında cinsiyet eşitliğine yer vermek büyük önem taşımaktadır.",mecaz,Yer vermek,Enhanced-prompting
+"Kritik düşünmenin önemini yazar, kitabının her bölümünde açıkça altını çizmek için her fırsatı değerlendirmişti.",mecaz,Altını çizmek,Enhanced-prompting
+"Deneyimlerini artırarak, alanlarında basamak yapmayı başardılar.",mecaz,Basamak yapmak,Enhanced-prompting
+Tartışmayı kazanmamız için argümanlarımız arasında maliyetler ile ilgili olanlara özellikle ağırlık vermek gerekiyor.,mecaz,Ağırlık vermek,Enhanced-prompting
+"Araştırma ekibi, yeni bulgularıyla bilime katkıda bulunan önemli detayları ortaya koydu.",mecaz,Ortaya koymak,Enhanced-prompting
+Yeni hipotezi öne sürmek herkes tarafından kabul görmüyor.,mecaz,Öne sürmek,Enhanced-prompting
+"Etkin bir çözüm bulunamamasının sebebi, toplantılarımızda hiç kimsenin asıl probleme parmak basmamasıdır.",mecaz,Parmak basmak,Enhanced-prompting
+"Geçmişin karanlık sayfalarını defterden silmek zaman alıyor, ama sonunda huzur bulacaksın.",mecaz,Defterden silmek,Enhanced-prompting
+"Kaybolan bu önemli belgeler için, amirler ofis içinde birbirine hesap vermek üzere toplandı.",mecaz,Hesap vermek,Enhanced-prompting
+"Bir dost eli uzandığında zor zamanında, insanın içi erir, minnettarlık duyguları kalbine işler.",mecaz,İçi erimek,Enhanced-prompting
+"Yeterli finansman alamayan bu proje, sektörde umulan büyük değişikliklere yol açmadı.",mecaz,Yol açmak,Enhanced-prompting
+"Kimin başa geçeceği konusunda yapılan oylama sonunda, grubun en tecrübeli üyesi daha fazla oy alarak liderlik koltuğuna oturdu.",mecaz,Başa geçmek,Enhanced-prompting
+"Herkes ona destek olunca eski korkularını üstünden atıp, kendine güveni arttı.",mecaz,Üstünden atmak,Enhanced-prompting
+Kendime bu kadar olumsuz düşüncelere yer vermek istemiyorum.,mecaz,Yer vermek,Enhanced-prompting
+"Sanatçı, eserlerindeki gerçek duygularını ortaya koymaktan hep kaçındı; izleyiciler tarafından yanlış anlaşılmaktan korkuyordu.",mecaz,Ortaya koymak,Enhanced-prompting
+"Bazı uzmanlar yüksek lisansa ağırlık vermek yerine, yazılım becerileri gibi pratik yeteneklere odaklanılmasını öneriyor.",mecaz,Ağırlık vermek,Enhanced-prompting
+Yeni doğan bir bebek gördüğünde içi eriyenler bilirler o saflığın ve masumiyetin değerini.,mecaz,İçi erimek,Enhanced-prompting
+"Politikacı, kampanyası sırasındaki gerçek niyetlerini hiçbir zaman ortaya koymadı; bu da onun güvenilirliğine zarar verdi.",mecaz,Ortaya koymak,Enhanced-prompting
+"Her öğrenci, sınav sabahına kadar, hücresine kadar her şeyiyle sıkı durmak için çaba göstermelidir.",mecaz,Sıkı durmak,Enhanced-prompting
+Ne yazık ki finansal sorunlar yüzünden yüksek lisansa adım atamıyorum.,mecaz,Adım atmak,Enhanced-prompting
+"Ekip lideri, sunumun bazı noktaları üzerinde özellikle durarak herkesin dikkatini çekmeye çalıştı.",mecaz,Üzerinde durmak,Enhanced-prompting
+"Politikaya her platformda, kararlılıkla karşı çıktılar.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Geleneksel ekonomi modelleri üzerine düşüncelerini derinlemesine geliştirerek, yenilikçi bir bakış açısıyla kesin olanları ileri sürmekte fayda var.",mecaz,İleri sürmek,Enhanced-prompting
+"Problem karşısında Akın, anında çözüm önerisi öne sürdü.",mecaz,Öne sürmek,Enhanced-prompting
+"Bugünlerde birçok yeniliğe anında karşı çıkmak, gelenekselliği savunmanın bir yolu olarak görülüyor.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Sınıfta herkes tarafından sevilmek için bazen diğer öğrencileri kötü gösterip, bu şekilde, adım adım basamak yapmaya devam etti.",mecaz,Basamak yapmak,Enhanced-prompting
+Kalbini kırdığım kişiden asla el açmayı düşünmem çünkü onu daha fazla üzmek istemem.,mecaz,El açmak,Enhanced-prompting
+"Sorunun kaynağı, detaylı bir incelemenin ardından ortaya çıktı.",mecaz,Ortaya çıkmak,Enhanced-prompting
+Toplantı sırasında zor soruları atlatmak için birkaç dakika daha zaman kazanmak oldukça hayatiydi.,mecaz,Zaman kazanmak,Enhanced-prompting
+Karşılaşacağımız zorluklar karşısında hepimiz sıkı durmalıyız.,mecaz,Sıkı durmak,Enhanced-prompting
+"Uzun ve sıkıcı toplantılar sırasında, bazen zihnimde hayali seyahatler yaparak zamanı öldürürüm.",mecaz,Zaman öldürmek,Enhanced-prompting
+"Toplantıda yöneticiler, müşteri memnuniyetinin önemini altını çizerek anlattılar.",mecaz,Altını çizmek,Enhanced-prompting
+"O donuk, gri sabah, yolda küçük bir kuşun titrediğini görünce, kalbim hemen eri için erimişti.",mecaz,İçi erimek,Enhanced-prompting
+"Pek çok startup, piyasada sıra dışı bir etki yaratmayı umsa da yetersiz finansman ve kötü yönetim nedeniyle iz bırakma fırsatını kaybediyor.",mecaz,İz bırakmak,Enhanced-prompting
+"Ev alırken güvenlik konusuna ağırlık verdik, çünkü ailemizin huzuru her şeyden önemli.",mecaz,Ağırlık vermek,Enhanced-prompting
+"Zaman kazanmak için kısa yoldan gitmeyi tercih etti, böylece arkadaşlarıyla buluşmaya geç kalmamış oldu.",mecaz,Zaman kazanmak,Enhanced-prompting
+Her şeye rağmen onunla birlikte yeni bir yaşama adım tek adım atmak istiyorum.,mecaz,Adım atmak,Enhanced-prompting
+"Yeni çıkan filmlerin nabzını tutan eleştirmen, izleyicinin beklentilerini her zaman doğru bir şekilde tespit ediyordu.",mecaz,Nabzını tutmak,Enhanced-prompting
+"Siyasi arenada herkesin eşit şansı olduğu bir ortamda, bazıları hala başkalarını aşağı çekerek basamak yapmamayı seçer.",mecaz,Basamak yapmak,Enhanced-prompting
+Etkinlikte yer almak istemedi çünkü düşüncelerini açıkça ifade etme konusunda tereddütleri vardı.,mecaz,Yer almak,Enhanced-prompting
+"Ekip projelerinde başarı, herkesin gerçekten iş birliği yapmasıyla mümkün olur; kimse rol oynamakla vakit kaybetmemeli.",mecaz,Rol oynamak,Enhanced-prompting
+"Sorunların farkında olarak hemen harekete geçmek zorundaydık, gizlemek için zaman kazanamadık.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Üste çıkmak kolay değildir, ama doğru strateji ve azimle mümkündür.",mecaz,Üste çıkmak,Enhanced-prompting
+"Toplantıda herkes fikirlerini ortaya koyma şansını değerlendirdi, böylece çeşitli perspektiflerden yararlanıldı.",mecaz,Ortaya koymak,Enhanced-prompting
+"Yardım istemeyi bilmek de bir cesaret işidir, herkes el açamaz.",mecaz,El açmak,Enhanced-prompting
+Ortaya atılan düşünceler çoğu zaman bizi yeni ufuklara taşır.,mecaz,Ortaya atmak,Enhanced-prompting
+"Hiç kimse, önergeye karşı çıkarken, alternatif bir çözüm ortaya atamadı.",mecaz,Ortaya atmak,Enhanced-prompting
+"Edebiyat dünyasında kalıcı eserler vererek iz bırakan yazarların, okuyucular üzerinde unutulmaz etkileri olmuştur.",mecaz,İz bırakmak,Enhanced-prompting
+"Üstünden atamadığı duygular, zamanla onu daha da yıprattı.",mecaz,Üstünden atmak,Enhanced-prompting
+"Grup çalışması sırasında ortaya çıkan anlaşmazlığa, deneyimli bir öğrenci anında el koydu.",mecaz,El koymak,Enhanced-prompting
+"İş yerinde yaşanan sorunları her zaman üstüne alan kişi, çözüm yollarını da en hızlı bulandır.",mecaz,Üstüne almak,Enhanced-prompting
+Şirket işleyişine el koymak zorunda kalmadım çünkü ekip her şeyi kontrol altında tuttu.,mecaz,El koymak,Enhanced-prompting
+"Taraflar arasında sürekli güncel kalarak ve alışılmışın dışında fikirler üreterek, Emre düşünce dünyasında başa geçti.",mecaz,Başa geçmek,Enhanced-prompting
+"Planını önceden yaparak, tasarımcı iş yükünü hafifletip zaman kazanmanın keyfini sürdü.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Yönetim toplantısında, iş süreçlerimizin geç ve yavaş işlemesinde ciddi bir problem olduğunda parmak üzerinde sıklıkla basılı kalır.",mecaz,Parmak basmak,Enhanced-prompting
+"Ne yazık ki, bu sezon beklenen ilgiyi görmedi ve moda dünyasında başa geçemedi.",mecaz,Başa geçmek,Enhanced-prompting
+"Ekonomik gelişmelerin nabzını tutmak amacıyla, analistler piyasadaki dalgalanmaları sürekli izliyordu.",mecaz,Nabzını tutmak,Enhanced-prompting
+"O sınavların üstünden atamamış olmasına rağmen, hâlâ ders çalışmaya devam ediyor.",mecaz,Üstünden atmak,Enhanced-prompting
+"Toplantıda herkes suskunken, gerçek sorunu gözler önüne sermek için parmak basmak zorundaydık.",mecaz,Parmak basmak,Enhanced-prompting
+"Eğer bu toplantıda projemi iyi anlatamazsam, muhtemelen ayvayı yerim.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Maalesef krizlerin üstünden atamamış olmaları, aileyi halen zor durumda bırakıyor.",mecaz,Üstünden atmak,Enhanced-prompting
+Maalesef hiçbir yönetici kriz anında inisiyatif kullanmayı üstüne almak istemiyor.,mecaz,Üstüne almak,Enhanced-prompting
+"Uluslararası toplumun göz yumması, bu tür adımları teşvik edebilir.",mecaz,Göz yummak,Enhanced-prompting
+"Bağış toplama kampanyalarında gösterilen başarı, bir NGO'nun toplumda saygınlık kazanıp basamak yapmasına katkıda bulunabilir.",mecaz,Basamak yapmak,Enhanced-prompting
+"Tarifeleri önceden inceleyerek market alışverişini hızlandıran Baran, böylelikle hafta sonu için zaman kazandı.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Pazardaki rekabetin giderek arttığı bu dönemde, kalitesiyle üste çıkan bir marka olmak büyük önem taşıyor.",mecaz,Üste çıkmak,Enhanced-prompting
+"Toplantıda çalışanların önerilerine yer vermek, katılımcılığı ve motivasyonu artırır.",mecaz,Yer vermek,Enhanced-prompting
+"Yapılan sunumda, ekip çalışmasının verimliliğini artırdığı altını çizilerek vurgulandı.",mecaz,Altını çizmek,Enhanced-prompting
+"Öğrenci konseyinde başa geçen yeni başkan, okulda bir dizi iyileştirme yapmayı planlıyor.",mecaz,Başa geçmek,Enhanced-prompting
+"Çalışmalarındaki kusurlar yüzünden, bilim insanı komite önünde hesap vermek zorunda kaldı.",mecaz,Hesap vermek,Enhanced-prompting
+Eleştirileri üstüne alarak iyileştirme yolunda önemli bir adım attı.,mecaz,Üstüne almak,Enhanced-prompting
+"Ürün geliştirme sürecinde piyasa analizi üzerinde durarak, daha bilinçli kararlar aldık.",mecaz,Üzerinde durmak,Enhanced-prompting
+Gerekli önlemler zamanında alınmadığı için krizin çözülmesine yol açmadı.,mecaz,Yol açmak,Enhanced-prompting
+"Liderlik pozisyonlarında rol oynamak, sorumluluklarına gerçekten sahip çıkanları ayırt etmeyi zorlaştırıyor.",mecaz,Rol oynamak,Enhanced-prompting
+"Uzun yıllar sonra firma içerisinde yükselen Ayşe, nihayet başa geçti ve şirketin yeniden yapılandırılmasını sağladı.",mecaz,Başa geçmek,Enhanced-prompting
+Sınav sonuçlarını beklerken zaman öldürmek için resim yapmaya başladım.,mecaz,Zaman öldürmek,Enhanced-prompting
+Sigara dumanının sağlığı ne kadar bozduğu araştırmalar sayesinde ortaya çıktı.,mecaz,Ortaya çıkmak,Enhanced-prompting
+"Sergide yer almış eserler, sanatseverler tarafından büyük ilgi gördü.",mecaz,Yer almak,Enhanced-prompting
+"Soğuk bekleme odasında, tek başıma oturarak, ellerimle dergi sayfalarını çevirirken, tedirgin bir şekilde zaman öldürmek deneyimini yaşıyordum.",mecaz,Zaman öldürmek,Enhanced-prompting
+Sınıf içinde sürekli yeni teoriler öne süren bir öğrenci vardı.,mecaz,Öne sürmek,Enhanced-prompting
+"Çalışma hayatından emekli olduktan sonra dünya turuna çıkarak hayalinin peşinden giden Ayşe, bu büyük yolculuğa adım atan birkaç insandan biri oldu.",mecaz,Adım atmak,Enhanced-prompting
+"Kollarını sıvayan ekip, eski evi tamir etmeye başladığında her köşe pırıl pırıl oldu.",mecaz,Kolları sıvamak,Enhanced-prompting
+"Nazlı ailesini tamamen defterden silmeyi hiç düşünmedi, ama bazılarını uzak tutmayı tercih etti.",mecaz,Defterden silmek,Enhanced-prompting
+"Çoğu kişi, bulgularını sorgulama riskini almadan önce, sahip oldukları bilgileri ortaya atacak cesareti bulamadı.",mecaz,Ortaya atmak,Enhanced-prompting
+"Ne kadar istersem isteyeyim, bu sene seyahate adım atamıyoruz.",mecaz,Adım atmak,Enhanced-prompting
+"Daha fazla araştırma yapmaksızın, bu teoriyi bilimsel camia içinde ileri sürmek sorumsuzca olmaz mı?",mecaz,İleri sürmek,Enhanced-prompting
+"Yapılacak yeni düzenlemelere önce karşı çıkmak geldi içinden, sonra ise kabullenmeye başladı.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Onu defterden silmek, içimdeki yaraların iyileşmesine yardımcı oldu.",mecaz,Defterden silmek,Enhanced-prompting
+Yeni tanıştığım insanların samimiyetini anlamak zor; çoğu zaman kimin rol oynadığını çözmeye çalışıyorum.,mecaz,Rol oynamak,Enhanced-prompting
+"Bu tür bir muameleye göz yumması, şirket kültürünü zehirliyor.",mecaz,Göz yummak,Enhanced-prompting
+Yapılan arabuluculuk girişimleri yeterince kuvvetli olmadığı için kalıcı barışa yol açmadı.,mecaz,Yol açmak,Enhanced-prompting
+"Bu alandaki başarılı çalışmalar, kariyerlerinde önemli bir basamak yapmalarını sağladı.",mecaz,Basamak yapmak,Enhanced-prompting
+"Kitabın analiz kısmında, yazarın kullandığı dil üzerinde özenle durulmuştu.",mecaz,Üzerinde durmak,Enhanced-prompting
+"Adımını atmadan önce tüm olasılıkları değerlendiren Murat, en doğru kararı vermek için titizlikle çalıştı.",mecaz,Adım atmak,Enhanced-prompting
+Kriz anlarında yapıcı olmak gerekir; suçlamalarla zaman kaybedip hataları sayıp dökme lüksümüz yok.,mecaz,Sayıp dökmek,Enhanced-prompting
+"Müfredatta modern sanat eserlerine yer vermek, öğrencilerin yaratıcılıklarını geliştirmelerine olanak tanıyor.",mecaz,Yer vermek,Enhanced-prompting
+"Onun tezini destekleyen yeterli bilgi olmadığından, akademik camia tarafından teklif edilen hipotezi ileri sürmekten kaçındı.",mecaz,İleri sürmek,Enhanced-prompting
+"Yeni girişimde başarıyı yakalamak isteyen herkes, heyecanla kolları sıvadı.",mecaz,Kolları sıvamak,Enhanced-prompting
+"Toplantıda, bölüm başkanının projeye neden bu kadar kaynak ayırdığını hesap vermesi talep edildi.",mecaz,Hesap vermek,Enhanced-prompting
+"Liderler, gerçeği bildikleri halde finansal raporlar konusunda göz nadiren ama etkili bir şekilde yumdu.",mecaz,Göz yummak,Enhanced-prompting
+"Tartışma sırasında Ali, çözüm için hiç düşünülmemiş bir öneri ortaya attı.",mecaz,Ortaya atmak,Enhanced-prompting
+"Performans değerlendirme toplantısında, yönetim kurulu, defterlerinden bazı çalışanları, performansları düşük olduğu için silmek zorunda kaldı.",mecaz,Defterden silmek,Enhanced-prompting
+"Sorumluluklarını ihmal edenler, er ya da geç hesap vermek zorunda kalacaklar.",mecaz,Hesap vermek,Enhanced-prompting
+"Bazı siyasetçiler, politikalarının uzun vadeli yararlarını anlatırken, gerçekten önemli olan noktaların altını çizmeyi başaramıyor.",mecaz,Altını çizmek,Enhanced-prompting
+Ne kadar uğraşsa da geçmişin gölgesini üstünden atamıyor.,mecaz,Üstünden atmak,Enhanced-prompting
+"Öğretmenler bazen sırf müfredatı tamamlamak adına, öğrenim sürecinde kritik olan noktaların altını çizmeyi unutabiliyor.",mecaz,Altını çizmek,Enhanced-prompting
+"Bu proje için fazladan kaynak gerektiğinde, başka departmanlara da el açmak zorunda kaldık.",mecaz,El açmak,Enhanced-prompting
+Ekonomik kriz ortamında başarılı sonuçlar elde edememiş olmamız hesap vermek zorunda kalmamızı engelledi.,mecaz,Hesap vermek,Enhanced-prompting
+Hayal gücünü kullanarak sürekli yeni senaryolar ortaya atan bir yazardan daha etkileyici kim olabilir ki?,mecaz,Ortaya atmak,Enhanced-prompting
+Ayvayı yememek için dikkatimi topladım ve çalışmalarımı iki katına çıkardım.,mecaz,Ayvayı yemek,Enhanced-prompting
+"Zor durumları yönetirken rol oynamak, bazen gerçek duygularımızı gizlememizi sağlar.",mecaz,Rol oynamak,Enhanced-prompting
+Ekip üyeleri arasında anlaşmazlık çıkınca projeyi ele alamadık.,mecaz,Ele almak,Enhanced-prompting
+Küçük yavrunun mahçup tebessümü karşısında içi eriyenlerden misiniz?,mecaz,İçi erimek,Enhanced-prompting
+"Öğrenci, ders ortasında öğretmenin sorusuna çözüm olarak ilginç bir fikir ortaya attı.",mecaz,Ortaya atmak,Enhanced-prompting
+"Steve Jobs'un Apple şirketindeki vizyoner liderliği, teknoloji ve tasarımın bir araya geldiği ürünler yaratılmasını sağlayarak tüketici elektroniği sektöründe çağ atlatan bir iz bıraktı.",mecaz,İz bırakmak,Enhanced-prompting
+Zor zamanları üstünden atmak için çok çaba sarf etti.,mecaz,Üstünden atmak,Enhanced-prompting
+"Yeni başlangıçlar yapabilmek için, bazı insanları hayat defterinden silmek gerekir.",mecaz,Defterden silmek,Enhanced-prompting
+"Yaptıkları affedilmezdi, bu yüzden onu hayatımın defterinden sildim.",mecaz,Defterden silmek,Enhanced-prompting
+Derin bir nefes aldı ve başladı gece boyunca biriktirdiği dertleri sayıp dökmeye.,mecaz,Sayıp dökmek,Enhanced-prompting
+"Moda akımında yer almak bu sezon için planlarımız arasında yok, çünkü pazarımız buna henüz hazır değil.",mecaz,Yer almak,Enhanced-prompting
+Üniversitenin bilimsel araştırma sonuçlarındaki başarılarda benim de bir yerim almış olması gurur verici.,mecaz,Yer almak,Enhanced-prompting
+"Eski hataları sayıp dökmek yerine, yarınlara umutla bakmayı tercih ediyoruz.",mecaz,Sayıp dökmek,Enhanced-prompting
+Bu teklifi yapmamam gerektiğini düşünerek hiçbir zaman sizden bu konuda el açmayacağım.,mecaz,El açmak,Enhanced-prompting
+"Ali, arkadaş grubundaki herkesi defterden silmeye yanaşmadı, sadece sorun çıkaranları dışladı.",mecaz,Defterden silmek,Enhanced-prompting
+"Her zaman dürüstlükten yana olan kişi, iş yerindeki mücadelelerde üste çıkmak için manipülasyon yapmayı reddetti.",mecaz,Üste çıkmak,Enhanced-prompting
+"Verilen yoğun eleştirilere rağmen, hatalarını bir üstüne alarak kabullenmekten çekinmedi.",mecaz,Üstüne almak,Enhanced-prompting
+"Toplum kurallarına aykırı davranmamış olsaydık, muhtemelen ayvayı yememiş olurduk.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Büyük bir şirket krizi yönetirken, CEO, şirketin içinde çalkantılara sebep olacağını düşündüğü için herhangi bir rol oynamak istemedi.",mecaz,Rol oynamak,Enhanced-prompting
+"Antolojide yer almak, şairin eserlerinin daha geniş bir edebiyat çevresinde tanınmasına vesile oldu.",mecaz,Yer almak,Enhanced-prompting
+"Araştırma raporunda, kritik bulgular üzerinde durularak okuyuculara derinlemesine bilgi sunuldu.",mecaz,Üzerinde durmak,Enhanced-prompting
+"O her zaman duygusuz biri olarak görülüyordu, bu yüzden duyguları bir türlü ortaya çıkmadı.",mecaz,Ortaya çıkmak,Enhanced-prompting
+Ortaya attığım plan öyle karmaşık ki detaylarıyla uğraşmak günlerimi alacak.,mecaz,Ortaya atmak,Enhanced-prompting
+"Tüm gerçekler, gizli dosyalar incelendikçe yavaş yavaş ortaya çıktı.",mecaz,Ortaya çıkmak,Enhanced-prompting
+"Çevresindeki herkes uyum içindeyken, o ise sürekli karşı çıkmaktan çekinmiyor.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Merdiven altı üretimlere göz yummak, ciddi sağlık sorunlarına neden olabilir.",mecaz,Göz yummak,Enhanced-prompting
+"Zaman kazanmak için evrakları elektronik ortamda hazırlamayı tercih ettiler, bu sayede dosya teslimi çok daha hızlı oldu.",mecaz,Zaman kazanmak,Enhanced-prompting
+"Nabzını tutarak, moda dünyasındaki son eğilimleri keşfeden tasarımcı, her koleksiyonunda trendleri yakalıyor.",mecaz,Nabzını tutmak,Enhanced-prompting
+"Toprak kokusunu içine çektiğinde, doğayla iç içe olmanın verdiği huzurla içi eridi.",mecaz,İçi erimek,Enhanced-prompting
+"Farkında olmadan yapılan o küçük hata, projemizin tam kalbinde, ayvayı yememize neden oldu.",mecaz,Ayvayı yemek,Enhanced-prompting
+"Şirketimiz, sektörel başarı listesinde yükselerek yer almayı başardı.",mecaz,Yer almak,Enhanced-prompting
+"Grup içi çekişmelere daha fazla tahammül edemeyen lider, bir anda el koyarak düzeni sağladı.",mecaz,El koymak,Enhanced-prompting
+"Zorlu sınavlara hazırlık sürecinde kollarını sıvayan öğrenciler, denemelerle bilgilerini pekiştirdi.",mecaz,Kolları sıvamak,Enhanced-prompting
+"İleri sürdüğü plan tüm ekip tarafından kabul görünce, projeye daha büyük bir heyecanla sarıldık.",mecaz,İleri sürmek,Enhanced-prompting
+"Geleneklere karşı çıkmak, gençler arasında giderek popülerleşen bir tutum halini aldı.",mecaz,Karşı çıkmak,Enhanced-prompting
+"Yüzme yarışında başlangıçta geride olan yarışmacı, son turda müthiş bir dönüş yaparak öndekileri tek tek geçip başa geçmeyi başardı.",gerçek,Başa geçmek,Enhanced-prompting
+Resim yaparken farkında olmadan parmağımı paletin üzerindeki boya kabına basmak suretiyle istemeden desen yapmış oldum.,gerçek,Parmak basmak,Enhanced-prompting
+"Gemi kaptanı, güverte üzerinde durarak ufku gözlemledi.",gerçek,Üzerinde durmak,Enhanced-prompting
+"Kayak yarışında, zorlu pistte dengesini koruyarak rakiplerini bir bir geçti ve başa geçmeyi başardı.",gerçek,Başa geçmek,Enhanced-prompting
+"Ağır çantaları sırtına yüklenmiş halde, yokuş yukarı sıkı sıkı adımlarla tırmandı ve zirveye ulaşınca soluklanmak için durmak istedi.",gerçek,Sıkı durmak,Enhanced-prompting
+"Resim dersinde öğretmen, altını çizmek istediğimiz figürleri belirlememizi istedi.",gerçek,Altını çizmek,Enhanced-prompting
+"Gruptaki herkes sessizce başa geçmek için yavaş hareket ederken, bir yürüyüş lideri öne çıkıp hızla ilerleyerek önde yürümeye başladı.",gerçek,Başa geçmek,Enhanced-prompting
+Fabrika çalışanları ürünleri özenle sayıp kutulara doğru döktü.,gerçek,Sayıp dökmek,Enhanced-prompting
+Çamaşır makinesinden çıkan ıslak kıyafetleri ele alarak kuruması için ipe astım.,gerçek,Ele almak,Enhanced-prompting
+"Zemin düz olmadığı için masa ayakları eşit yer tutmuyordu, buna çözüm olarak altına destek vermek zorunda kaldım.",gerçek,Yer vermek,Enhanced-prompting
+"Ormanda gezinen yırtıcı hayvan, avını öldürmek için doğru zamanı seçti.",gerçek,Zaman öldürmek,Enhanced-prompting
+"Bahçeye yeni bir gölet yapmak isteyen Ali, göletin kenarlarına taştan basamaklar dizmeye başladı.",gerçek,Basamak yapmak,Enhanced-prompting
+"Köy meydanına gelen tüm çocuklar, yeni kurulan oyun parkında buluştu.",gerçek,Meydana gelmek,Enhanced-prompting
+"Taş ustası, yeni bir heykel yaratırken yontu aletleriyle mermer yüzeyde keskin izler bıraktı.",gerçek,İz bırakmak,Enhanced-prompting
+"Planör modelini yaparken, babam çok küçük parçaları eline alıp açmak için bir cımbız kullandı.",gerçek,El açmak,Enhanced-prompting
+"Zaman, düşmanını öldürmek için karanlık bir sokakta pusuya yattı.",gerçek,Zaman öldürmek,Enhanced-prompting
+Basketbol maçında topu kapabilmek için öne doğru adım atarak sıçradım.,gerçek,Adım atmak,Enhanced-prompting
+"Arabayı öne doğru sürmek, park yerinden çıkmak için en uygun yöntemdi.",gerçek,Öne sürmek,Enhanced-prompting
+Sahildeki cankurtaran kulesine gözetleme yapabilmek için üste çıkmak gerekiyordu.,gerçek,Üste çıkmak,Enhanced-prompting
+"Pasta kutusunu titrek elleriyle almaya çalışan kişi, sonunda başardı.",gerçek,Ele almak,Enhanced-prompting
+Arabayı ileri sürmek için vitesi boşa alman gerekmekte.,gerçek,İleri sürmek,Enhanced-prompting
+"Doktor, objeyi gözümden çıkartabilmek için önce gözümü yumup sonra dikkatlice bakmamı istedi.",gerçek,Göz yummak,Enhanced-prompting
+Köy meydanında düzenlenen haftalık çiftçi pazarına taze ürünlerini satmak üzere çiftçiler erkenden meydana geldi.,gerçek,Meydana gelmek,Enhanced-prompting
+"Laboratuvarda yapılan deneyde, asit metali içten içe eritmeye devam etti.",gerçek,İçi erimek,Enhanced-prompting
+"Annesi ona yeni bir oyuncak almış, çocuk heyecanla onu ele geçirdi.",gerçek,Ele almak,Enhanced-prompting
+"Buzlu yollarda kaymamak için, ayakkabısının üstüne özel bir kar zinciri aldı.",gerçek,Üstüne almak,Enhanced-prompting
+"Öğretmen, sınıfın ortasına bir sandalye koyarak öğrencilere ders yapılacak alanı gösterdi.",gerçek,Ortaya koymak,Enhanced-prompting
+Arka odadan ortaya çıkmak için dakikalarca bekledim ama kimse beni fark etmedi.,gerçek,Ortaya çıkmak,Enhanced-prompting
+"Pencereyi silmeye başlamadan önce, kollarını sıvayan çalışan, temizlik malzemelerini yanına aldı.",gerçek,Kolları sıvamak,Enhanced-prompting
+"Yeni satın aldığı cep telefonunun kutusunu açmak için, genç adam ellerini sabırla kullanıyordu.",gerçek,El açmak,Enhanced-prompting
+"Sahil yolunda hızla bisiklet sürerken, bir anda karşı istikametten gelen bir sürü martı çıkarak etrafımı kuşattı.",gerçek,Karşı çıkmak,Enhanced-prompting
+Bahçede güzel bir yer kapmak için erken geldik ve piknik sepetimizi hemen oraya aldık.,gerçek,Yer almak,Enhanced-prompting
+"Yeni alınan kitaplığın montajını yaparken, vidaları sıkmak için parmağımı tornavidanın ucuna basmak gerekti.",gerçek,Parmak basmak,Enhanced-prompting
+Gözlem kulesine gitmek için uzun bir merdivenden üste çıkmam gerekti.,gerçek,Üste çıkmak,Enhanced-prompting
+"Oyun sırasında kaleci, topu sıkı bir şekilde yakaladı ve oyunun hızını durdurarak takımına nefes aldırdı.",gerçek,Sıkı durmak,Enhanced-prompting
+"Çiftçi, hasat edilen patatesleri sayıp çuvala döktü.",gerçek,Sayıp dökmek,Enhanced-prompting
+"Parkta köpeğini gezdiren yaşlı adam, onu öne doğru sürmek için tasmayı sıkıca tuttu.",gerçek,Öne sürmek,Enhanced-prompting
+Herkesin görebileceği şekilde ödülü podiumun ortasına koydu.,gerçek,Ortaya koymak,Enhanced-prompting
+Felaket bölgesine yardım malzemelerinin ulaştırılabilmesi için askeri birimler enkazı temizleyerek bir yol açtı.,gerçek,Yol açmak,Enhanced-prompting
+Şenlik esnasında tahta oymacıları el işi ürünlerini tezgâhlarında meydana getirdi.,gerçek,Meydana gelmek,Enhanced-prompting
+"Yerel tiyatroda bir aktör, detektif rolünü oynamak için gerekli olan şapka ve trençkot ile sahneye adım attı.",gerçek,Rol oynamak,Enhanced-prompting
+"Dağcı, tırmanış sırasında ağır çantasını daha rahat taşıyabilmek için üstüne almak zorunda kaldı.",gerçek,Üstüne almak,Enhanced-prompting
+"Dikkatlice yürüyen çocuk, su birikintisine parmağı ile basmak için eğildi.",gerçek,Parmak basmak,Enhanced-prompting
+"Herkes konferans salonuna girdiğinde, organizatör broşürleri kapının ortasına atmıştı.",gerçek,Ortaya atmak,Enhanced-prompting
+"Öğrenciler fizik dersinde, denge noktasını bulmak için cetvele farklı noktalarda ağırlık verdiler.",gerçek,Ağırlık vermek,Enhanced-prompting
+"Dışarıdan alınan bu özel yemek, ayvalı garnitürü ile daha da özel bir lezzete büründü.",gerçek,Ayvayı yemek,Enhanced-prompting
+"Domates kasalarını kamyonete yüklerken, her birine eşit ağırlık vermek dikkat gerektiriyordu.",gerçek,Ağırlık vermek,Enhanced-prompting
+"Yoga yapan birey, denge egzersizleri sırasında matın üzerine parmaklarını sertçe basmak zorunda kaldı.",gerçek,Parmak basmak,Enhanced-prompting
+"Gecenin bir yarısı, aniden köşeden bir kedi ortaya çıkarak yolumu kesti.",gerçek,Ortaya çıkmak,Enhanced-prompting
+"Açık hava sinemasında, filmin ana karakterinin rolünü oynamak üzere seçilen aktör, seyirciler tarafından büyük ilgiyle karşılandı.",gerçek,Rol oynamak,Enhanced-prompting
+"Tamirat için bodrum katından başlayarak, en üste çıkmak üzere asansörü kullanmam gerekti.",gerçek,Üste çıkmak,Enhanced-prompting
+"Kutuları taşırken, elindekilerin üstüne başka bir kutu daha almak zorunda kaldı.",gerçek,Üstüne almak,Enhanced-prompting
+Karşı köyü ziyaret etmek amacıyla evden erken çıkmak gerekti.,gerçek,Karşı çıkmak,Enhanced-prompting
+"Eski maden sahasına yeni ekipmanları taşımak üzere, ağır makinalar kullanılarak sağlam bir yol açıldı.",gerçek,Yol açmak,Enhanced-prompting
+Evdeki bozuk paraları sayıp bir kumbaraya dökmeye karar verdik.,gerçek,Sayıp dökmek,Enhanced-prompting
+"Yarışçı, finiş çizgisine yaklaşırken sıkı sıkıya durdu ve son bir hamleyle birinci oldu.",gerçek,Sıkı durmak,Enhanced-prompting
+"Avcı, ormana gizlice girerken dikkatsizce dallarda kırıklar ve yerde izler bıraktı.",gerçek,İz bırakmak,Enhanced-prompting
+"Arkeolog, kazı alanında yeni bir keşif yapabilmek için dikkatli adımlar atarak ilerledi.",gerçek,Adım atmak,Enhanced-prompting
+"Aile, tatil bütçesini hesaplayarak seyahat acentesine ödeme için gerekli hesabı verdi.",gerçek,Hesap vermek,Enhanced-prompting
+"İşçi, duvara yeni bir raf monte etmek için matkaba el koydu.",gerçek,El koymak,Enhanced-prompting
+"Elleriyle kıskaç kullanarak, sıkışmış teneke kutuyu açmak için uğraştı.",gerçek,El açmak,Enhanced-prompting
+Yeni aldığı resim çerçevesini ele alarak duvara asma işlemine başladı.,gerçek,Ele almak,Enhanced-prompting
+"Tırmanış sırasında, ipi sabitlemek için büyük bir taşa ağırlık verdi.",gerçek,Ağırlık vermek,Enhanced-prompting
+"Mutfakta yeni bir buzdolabı için yer açmak adına, eski mutfak masasını balkona vererek ferah bir mutfak elde etmeye çalışıldı.",gerçek,Yer vermek,Enhanced-prompting
+"Bilgisayarım bozulduğunda, teknisyen kasayı açınca bir sürü toz ortaya çıktı.",gerçek,Ortaya çıkmak,Enhanced-prompting
+"Pazar yerindeki satıcı, portakal kasasını tezgahın üstüne almak için güç topladı.",gerçek,Üstüne almak,Enhanced-prompting
+Akşam yemeğinde ayvayı soyarken parmağımı kestim.,gerçek,Ayvayı yemek,Enhanced-prompting
+Kış güneşi altında kalan kar topunun içi erimek suretiyle suya dönüşüyordu.,gerçek,İçi erimek,Enhanced-prompting
+"Sofra kurulurken Ahmet, herkesin ne kadar ödeyeceğini hesaplayıp hesabı verdi.",gerçek,Hesap vermek,Enhanced-prompting
+"Sunum sırasında, konuşmacı anahtar konseptlerin altını çizmek için lazer gösterici kullandı.",gerçek,Altını çizmek,Enhanced-prompting
+"Arazi haritasında, korunması gereken doğal alanların altını çizmek, bu bölgelerdeki faaliyetleri sınırlandırmayı amaçlıyor.",gerçek,Altını çizmek,Enhanced-prompting
+"Orman içindeki yürüyüş parkurunu genişletmek üzere, işçiler düşmüş ağaçları temizleyerek yol açtılar.",gerçek,Yol açmak,Enhanced-prompting
+Resim yaparken fırçayı eline koyarak tuvale ilk dokunuşu yaptı.,gerçek,El koymak,Enhanced-prompting
+"Resim yapmaya başlamadan önce, ressam kollarını sıvadı ve boya paletini hazırladı.",gerçek,Kolları sıvamak,Enhanced-prompting
+"Balkon kapısının önüne çiçek saksıları koymak için küçük bir basamak yapmak, dekorasyona farklı bir hava kattı.",gerçek,Basamak yapmak,Enhanced-prompting
+Kazandibi yemeğin ardından ayvayı tatlı olarak sunduk ve herkes bayıldı.,gerçek,Ayvayı yemek,Enhanced-prompting
+"O, zamanı dize getirerek kazanmak için adeta bir savaşçı gibi mücadele ediyordu.",gerçek,Zaman kazanmak,Enhanced-prompting
+Yeni döşenen kar üzerinde kayakçılar hızla kayarken arkalarında düzgün izler bıraktı.,gerçek,İz bırakmak,Enhanced-prompting
+"Kapının eşiğinde bir süre tereddüt eden postacı, sonunda üzerinde durduğu basamağı terk etti.",gerçek,Üzerinde durmak,Enhanced-prompting
+Masanın üzerine elini koymak istedi ama doğru açıyı bulamadı.,gerçek,El koymak,Enhanced-prompting
+"Neşeli bir oyun sırasında çocuklar ""bakamayacağın yerde saklanacağım"" dedi ve gözlerini yumup saymaya başladı.",gerçek,Göz yummak,Enhanced-prompting
+"Tiyatro gösterisi başlamadan yarım saat önce, seyirciler oyunun oynanacağı meydana gelerek yerlerini aldı.",gerçek,Meydana gelmek,Enhanced-prompting
+"Herkes için adaleti kazanmak, uzun zaman alsa da mücadeleye değer.",gerçek,Zaman kazanmak,Enhanced-prompting
+"Festival için sandviçler hazırlayan gönüllü, hızlıca kollarını sıvadı ve malzemeleri tezgaha dizmeye başladı.",gerçek,Kolları sıvamak,Enhanced-prompting
+"Yeni havalimanı inşaatı kapsamında, çevre köylerden gelen işçiler için stabilize bir yol açıldı.",gerçek,Yol açmak,Enhanced-prompting
+"Elektrikçi, tamir edilen tesisat için gereken malzemelerin ücretini hesaplayıp müşteriye hesap verdi.",gerçek,Hesap vermek,Enhanced-prompting
+"Öğle yemeğinde ayvayı, balıkla birlikte sunarak farklı bir lezzet deneyimi yaşattım.",gerçek,Ayvayı yemek,Enhanced-prompting
+"Kamptayken, gece yıldızları daha iyi görebilmek için tepenin üste çıktık.",gerçek,Üste çıkmak,Enhanced-prompting
+Gözlerimi yumduğumda düşündüğüm her şey daha netleşti ve odaklanmam kolaylaştı.,gerçek,Göz yummak,Enhanced-prompting
+"Öldürmek için uygun zamanı bulduğunda, asker tetiği çekti.",gerçek,Zaman öldürmek,Enhanced-prompting
+Karnından üzerine dökülen suyu silkelemek için hızlıca üzerinden atladı.,gerçek,Üstünden atmak,Enhanced-prompting
+"Kazı sırasında eski bir sarnıç, meydanın ortasında gün yüzüne geldi.",gerçek,Meydana gelmek,Enhanced-prompting
+"Polardaki buz dağının içi, küresel ısınmanın etkisiyle erimek üzereydi.",gerçek,İçi erimek,Enhanced-prompting
+"Konferans salonunda en iyi görüş açısına sahip yerleri erkenden almak, etkinlik başlamadan önce gelmeyi gerektiriyordu.",gerçek,Yer almak,Enhanced-prompting
+"Eski adres bilgilerini defterden silmek, güncel bilgileri eklemeye yer açtı.",gerçek,Defterden silmek,Enhanced-prompting
+İlk yardım dersinde öğrenciler birbirlerinin nabzını tutmayı öğreniyor.,gerçek,Nabzını tutmak,Enhanced-prompting
+"Gösteri sırasında motorunu öne atarak sürmek, seyirciler tarafından büyük alkış aldı.",gerçek,Öne sürmek,Enhanced-prompting
+"Orman evine ulaşımı kolaylaştırmak için, yolu stabilize etmek ve basamaklar yapmak Faruk'un yaz projeleri arasındaydı.",gerçek,Basamak yapmak,Enhanced-prompting
+"Satıcı, cevizleri sayıp eski bir leğene dökerek müşterilerine sundu.",gerçek,Sayıp dökmek,Enhanced-prompting
+"Sinema günü etkinliği için film severler, açık hava sinemasının kurulduğu meydana gelip yerlerini aldı.",gerçek,Meydana gelmek,Enhanced-prompting
+Çocuk cama vuran kuşu gördüğünde hemen pencereyi eliyle açmak için koştu.,gerçek,El açmak,Enhanced-prompting
+"Akşamüstü, parkta koşu yapmak için sporcular birbiri ardına meydana geldi.",gerçek,Meydana gelmek,Enhanced-prompting
+Çocuk parkta koşarken kumda minik izler bıraktı.,gerçek,İz bırakmak,Enhanced-prompting
+"Araba, çamurlu yolu geçerken arkasında lastik izleri bırakmıştı.",gerçek,İz bırakmak,Enhanced-prompting
+Arkadaşım tırmanma duvarında hızla üste çıkmak için çaba gösterdi.,gerçek,Üste çıkmak,Enhanced-prompting
+"Bel ağrısından şikayetçi olan adam, egzersizler sırasında beline gereksiz ağırlık vermekten kaçındı.",gerçek,Ağırlık vermek,Enhanced-prompting
+Zorlu arazi koşullarında ATV'yi ileri sürmek büyük bir beceri gerektiriyordu.,gerçek,İleri sürmek,Enhanced-prompting
+"Futbol topunu alıp hızla sahaya koşarken, arkadaşları onu dikkatle ele geçirip maça başladılar.",gerçek,Ele almak,Enhanced-prompting
+"İnşaat ekibi, yeni bir otoban projesi için ormanlık alanda yol açmak için çalışıyor.",gerçek,Yol açmak,Enhanced-prompting
+"Savunma oyuncusu, rakibinin sıkı markaj altında kaldığını gördüğü anda topu durdurdu ve pasını verdi.",gerçek,Sıkı durmak,Enhanced-prompting
+"Öne çıkmak için arabayı dikkatlice sürmeye başladı, bu şekilde diğer araçların önüne geçebilecekti.",gerçek,Öne sürmek,Enhanced-prompting
+"Çocuk parkındaki tahterevalli üzerinde duran iki çocuk, neşe içinde yukarı aşağı zıplıyordu.",gerçek,Üzerinde durmak,Enhanced-prompting
+Yürüyüş parkurunda doğa karşımıza çıktıkça gözlerimiz bayram etti.,gerçek,Karşı çıkmak,Enhanced-prompting
+"Acemi sürücü, otomobili ileri sürerken heyecandan elleri titriyordu.",gerçek,İleri sürmek,Enhanced-prompting
+"Yaşlı adam, kendi nabzını tutarak günlük sağlık takibini yapmayı alışkanlık haline getirmişti.",gerçek,Nabzını tutmak,Enhanced-prompting
+Eski dolabı kaldırarak çocuk odasında yeni oyuncaklar için yer açtık ve böylece daha fazla eğlence alanı vermeyi başardık.,gerçek,Yer vermek,Enhanced-prompting
+"Dağcı eğitiminde, eğitmen öğrencilere acil durumlarda nasıl nabız tutulacağını öğretti.",gerçek,Nabzını tutmak,Enhanced-prompting
+"Yağmurlu bir günde kaygan zeminde, sıkı adımlar atarak yürürken birden durmak zorunda kaldım çünkü önümde bir su birikintisi belirmişti.",gerçek,Sıkı durmak,Enhanced-prompting
+"Şef, tatlı tabağına son kez elini koyarak süslemeyi tamamladı.",gerçek,El koymak,Enhanced-prompting
+"Sokakta skateboardunu ileri sürmek, genç için adeta bir özgürlük simgesiydi.",gerçek,İleri sürmek,Enhanced-prompting
+"Karşıdan karşıya geçerken, hızla yaklaşan araca yol vermek için geriye doğru adım attım.",gerçek,Adım atmak,Enhanced-prompting
+"Doktor, hassasiyet gerektiren ameliyata başlamadan önce kollarını sıvadı ve steril eldivenlerini giydi.",gerçek,Kolları sıvamak,Enhanced-prompting
+Bahçedeki çiçekleri su vermeden önce toprakları kontrol etmek için ele alıp inceledim.,gerçek,Ele almak,Enhanced-prompting
+"Okulun yıl sonu töreninde öğrenciler, ödüllerini almak için sahneye meydana geldi.",gerçek,Meydana gelmek,Enhanced-prompting
+"Drama dersinde öğrenciler, tarihi kişiliklerin rolünü oynamak için eski çağ kıyafetleri giydiler.",gerçek,Rol oynamak,Enhanced-prompting
+Kitapları masanın üstüne dikkatlice ortaya koydu.,gerçek,Ortaya koymak,Enhanced-prompting
+"Yüzücü, havuz kenarında beklerken ayak parmaklarını serin suya basmak için uzattı.",gerçek,Parmak basmak,Enhanced-prompting
+"Yoğun bir koşu antrenmanının ardından antrenörün, öğrencisinin nabzını tuttuğunu gördüm.",gerçek,Nabzını tutmak,Enhanced-prompting
+"Hiç kimse zamanın öldürme gücünden kaçamazdı, o hep bir adım öndeydi.",gerçek,Zaman öldürmek,Enhanced-prompting
+"Sahilde köpek, gel-git sırasında birikmiş olan kum yığınlarının üzerinden atladı.",gerçek,Üstünden atmak,Enhanced-prompting
+"Dedemin aniden fenalaşması üzerine, annem hızla yanına giderek nabzını tuttu.",gerçek,Nabzını tutmak,Enhanced-prompting
+Resim çizmek için fırçaları kutudan ele almam gerekti.,gerçek,Ele almak,Enhanced-prompting
+"Tekneler yanaşırken, iskeleye fazla ağırlık vermemeleri için dikkatli olmaları gerekiyordu.",gerçek,Ağırlık vermek,Enhanced-prompting
+Top oyunu sırasında birden bire Mehmet topun üzerinde durarak oyunu durdurdu.,gerçek,Üzerinde durmak,Enhanced-prompting
+"Kimse zamanın öldürme yeteneğini görmezden gelemez; o, sessiz ama ölümcüldür.",gerçek,Zaman öldürmek,Enhanced-prompting
+"Bahçe işleri için hazırlanan Ali, hırkasının kollarını sıvayarak toprakları kazımaya başladı.",gerçek,Kolları sıvamak,Enhanced-prompting
+Çayı severek içtiği fincanı ortaya koydu ve diğer misafirlerle muhabbete başladı.,gerçek,Ortaya koymak,Enhanced-prompting
+"Kazı yapan arkeologlar, toprağın altından bir mozaik tablo ortaya çıkardı.",gerçek,Ortaya çıkmak,Enhanced-prompting
+Birkaç defa öne doğru sürüldüğünde sandalye nihayet istenilen yere yerleşti.,gerçek,Öne sürmek,Enhanced-prompting
+"Pastane sahibi, kurabiyeleri pişmeden önce sayıp tepsiye döktü.",gerçek,Sayıp dökmek,Enhanced-prompting
+"Piknik alanında, battaniyelerini sermek isteyen gruplara yer açmak için kişisel eşyalarını toplayıp daha dar bir alana verdiler.",gerçek,Yer vermek,Enhanced-prompting
+Rafa kitabı koymak için uzandı ve başarılı olmak için elini iyice uzattı.,gerçek,El koymak,Enhanced-prompting
+"Dağ bisikletiyle tehlikeli bir patikadan inerken, frenleri sıkı sıkıya kontrol etmem gerekiyordu ve engelleri aşmak için defalarca durmak zorunda kaldım.",gerçek,Sıkı durmak,Enhanced-prompting
+Fotoğraf çektirirken flaş patladığında gözlerimi yummak dışında bir tepki veremedim.,gerçek,Göz yummak,Enhanced-prompting
+"Kütüphanede kitapları rafa yerleştirmek, her birine özenle yer vermek gerektirir.",gerçek,Yer vermek,Enhanced-prompting
+"Haritada rota belirlerken, başlangıç noktasının altını dikkatlice çizmek gerekiyor.",gerçek,Altını çizmek,Enhanced-prompting
+"İnşaat işçileri, yeni bina için önce temel atıp ardından dayanıklı beton basamaklar yapmak üzere harekete geçtiler.",gerçek,Basamak yapmak,Enhanced-prompting
+"İşçiler, köprüyü desteklemek için beton bloklara özenle ağırlık verdiler.",gerçek,Ağırlık vermek,Enhanced-prompting
+Sergideki tüm eserlerini galerinin ortasına koyarak ziyaretçilere sundu.,gerçek,Ortaya koymak,Enhanced-prompting
+"Grup koşusunda lider öne geçmek için tempoyu artırırken, diğerleri de hızlarını sürmek için çabalıyordu.",gerçek,Öne sürmek,Enhanced-prompting
+"Halıya dikkatsizce kola döküldüğünde, hemen parmağımı elektrik süpürgesinin düğmesine basmak için harekete geçtim.",gerçek,Parmak basmak,Enhanced-prompting
+"Ahmet, matematik defterinden yanlış yazdığı denklemleri silmek için hemen silgisini kullandı.",gerçek,Defterden silmek,Enhanced-prompting
+"Eğitim seti satın alan birey, kurs merkezinde öğretmenine maliyeti kapsayacak şekilde hesap vermek zorunda kaldı.",gerçek,Hesap vermek,Enhanced-prompting
+"Pastanın içi tamamen erimek üzereyken, mutfaktan gelen o tatlı kokuyu hissetmek beni mutlu ediyor.",gerçek,İçi erimek,Enhanced-prompting
+Şehir merkezindeki yeni alışveriş merkezine ulaşım sağlamak için birkaç sokak genişletilerek yol açıldı.,gerçek,Yol açmak,Enhanced-prompting
+"Zorlu bir tırmanışın ardından, öğrenci grubu liderlerini takip ederek zirveye doğru başa geçmek için sık sık mola verdiler.",gerçek,Başa geçmek,Enhanced-prompting
+"Bahçede, çocuklar havuzun üstünden atlama oyunu oynadılar.",gerçek,Üstünden atmak,Enhanced-prompting
+"Yeni bir bilgisayar alındığında, eski modeli geri dönüşüm programına vermek için yer açmam gerekti ve masa üstündeki eski evrakları temizledim.",gerçek,Yer vermek,Enhanced-prompting
+Çocuklar oyun alanının ortasına bir trambolin koydu ve hemen zıplamaya başladılar.,gerçek,Ortaya koymak,Enhanced-prompting
+"Ürünleri paletlere yerleştirirken, her paletin taşıyabileceği maksimum ağırlığı vermeye dikkat ettik.",gerçek,Ağırlık vermek,Enhanced-prompting
+"Sıcak yaz gününde, dondurmanın içi hızla erimekte olduğunu görmek üzücüydü.",gerçek,İçi erimek,Enhanced-prompting
+"Kütüphanenin ortasına yerleştirdiği geniş çalışma masası, öğrencilere ortak projeler için ideal bir alan sağladı.",gerçek,Ortaya koymak,Enhanced-prompting
+"Tırmanış grubu, ipi sıkı bir şekilde bağladı ve zorlu dağ yolunda güvenle ilerlerken sık sık durmak zorunda kaldı.",gerçek,Sıkı durmak,Enhanced-prompting
+"Müze ziyaretim sırasında, bir heykeli daha iyi görebilmek için hızla ileriye doğru adım attım.",gerçek,Adım atmak,Enhanced-prompting
+"Dağ yürüyüşüne çıkan grup, büyük bir taş üzerinde durup yorulduklarında dinlenmeyi tercih ettiler.",gerçek,Üzerinde durmak,Enhanced-prompting
+"Orman yolu boyunca ilerlerken, yolun karşısından bir tavşan çıkarak hızla koştu.",gerçek,Karşı çıkmak,Enhanced-prompting
+"İnşaat işçisi, iş makinesini dikkatlice ileri sürdü.",gerçek,İleri sürmek,Enhanced-prompting
+"Bahçıvan, çiçekleri güneş alacak şekilde öne doğru sürerken bahçedeki düzeni de korudu.",gerçek,Öne sürmek,Enhanced-prompting
+"Müze turunu bitirdiğimizde, çıkışa doğru yürürken karşı duvarda asılı eski bir tablo dikkatimi çekti.",gerçek,Karşı çıkmak,Enhanced-prompting
+"Eski ahşap paletleri değerlendirerek kompost kutusu için bir basamak yapmak, bahçeyi daha kullanışlı hale getirdi.",gerçek,Basamak yapmak,Enhanced-prompting
+Yaşlı adam posta kutusunun kitlenmiş kapısını açmak için ellerini ve bir takım anahtarları kullandı.,gerçek,El açmak,Enhanced-prompting
+"Filmlerdeki gibi sisler arasından ortaya çıkmak, o anki sisli havada büyüleyici bir sahne oluşturdu.",gerçek,Ortaya çıkmak,Enhanced-prompting
+Kazanmak için zamanını en verimli şekilde kullanmayı öğrenmelisin.,gerçek,Zaman kazanmak,Enhanced-prompting
+"Yürüyüşe çıkan grup, ormanda yolunu kaybettiğinde lider sıkı bir disiplinle herkesi durdurdu ve toplanmalarını sağladı.",gerçek,Sıkı durmak,Enhanced-prompting
+"Zaman her şeyin ilacıdır, ama bazı yaraları öldürmek için yetersiz kalır.",gerçek,Zaman öldürmek,Enhanced-prompting
+Ders kitabındaki önemli bilgileri gözden kaçırmamak için altını çizmek gerekir.,gerçek,Altını çizmek,Enhanced-prompting
+"Kaplumbağanın kabuğunun altındaki içi, yoğun sıcağa maruz kaldığında erimek gibi yumuşuyor.",gerçek,İçi erimek,Enhanced-prompting
+"Resim öğretmeni, fırçasını boyaya batırıp tuval üzerinde renkli izler bırakarak çalışmasını sürdürüyor.",gerçek,İz bırakmak,Enhanced-prompting
+Antrenmanda ağırlık vermek için halteri kaldırdı.,gerçek,Ağırlık vermek,Enhanced-prompting
+"Zamanı alt ederek kazanmak, bu zorlu parkurda herkesin hedefiydi.",gerçek,Zaman kazanmak,Enhanced-prompting
+"Sahildeyken, suya girerken ilk adımı atmak üzereyim.",gerçek,Adım atmak,Enhanced-prompting
+"Parkta egzersiz yapan adam, bir an soluklanmak için durdu ve hızlanan nabzını tuttu.",gerçek,Nabzını tutmak,Enhanced-prompting
+"Kabin için yeni bir giriş yapmak istediğimde, ilk iş olarak sağlam bir basamak yapmak zorundaydım.",gerçek,Basamak yapmak,Enhanced-prompting
+Öğrenciler sınıfın ortasında oyun oynayacak yer yapmak için sıraları kenara almışlar.,gerçek,Yer almak,Enhanced-prompting
+"Animasyon karakteri tasarlamak üzere bir sanatçı, masal kitabındaki cesur prensin rolünü oynamak üzere karakterin hareketlerini çizdi.",gerçek,Rol oynamak,Enhanced-prompting
+"Zamanı yakalayıp kazanmak, bu oyunun en heyecan verici kısmıydı.",gerçek,Zaman kazanmak,Enhanced-prompting
+"Çocuk parkındaki kaydırağın en üstüne çıkmak, küçük kızın en sevdiği aktiviteydi.",gerçek,Üste çıkmak,Enhanced-prompting
+"Evin ortasına kurulan büyük çam ağacı, yılbaşı kutlamaları için mükemmel bir ortam koydu.",gerçek,Ortaya koymak,Enhanced-prompting
+"Mürekkep lekesini temizlemeye çalışan adam, bir yandan da eliyle çekmeceyi açmak için uğraşıyordu.",gerçek,El açmak,Enhanced-prompting
+"Deney yaparken laboratuvar asistanı, örnek kapları dikkatli bir şekilde masanın ortasına yerleştirdi.",gerçek,Ortaya atmak,Enhanced-prompting
+Çocuklar havuza girmek için çantalarını çimlerin ortaya attılar.,gerçek,Ortaya atmak,Enhanced-prompting
+"Ressam, kanvas üzerinde ince fırça darbeleriyle kalıcı izler bırakmaya özen gösterdi.",gerçek,İz bırakmak,Enhanced-prompting
+"Kiraz ağaçlarını podadan zarar görmemeleri için, bahçıvanın dalların üstünden atlaması gerekiyordu.",gerçek,Üstünden atmak,Enhanced-prompting
+"Duvara monte edilecek rafı, eliyle tutarken, vidaları da doğru noktalara koymak oldukça meşakkatliydi.",gerçek,El koymak,Enhanced-prompting
+"Çocuk parktan eve dönerken yorulmuştu, annesi onun montunu üstüne almak için eğildi.",gerçek,Üstüne almak,Enhanced-prompting
+"Marangoz, tahtaya elini koydu ve çivi çakmaya başladı.",gerçek,El koymak,Enhanced-prompting
+Maratonun son kilometrelerinde enerjisini toplayıp önündeki koşucuları geçip başa geçmek onun için büyük bir başarıydı.,gerçek,Başa geçmek,Enhanced-prompting
+Hızlı koşman gerekiyor çünkü bu yarışı kazanmak için zaman azalıyor.,gerçek,Zaman kazanmak,Enhanced-prompting
+Merdivenlerde yukarı çıkarken yanlışlıkla parmağımı elektrik anahtarına basmak elektrik çarpmasına neden olabilirdi.,gerçek,Parmak basmak,Enhanced-prompting
+"Nehrin karşısına geçmeye çalışırken, lider koyunu önce başa geçip diğerlerine yol gösterdi.",gerçek,Başa geçmek,Enhanced-prompting
+"Acil serviste çalışan doktor, hastanın nabzını tutmak için bileğine dokundu.",gerçek,Nabzını tutmak,Enhanced-prompting
+Yarışta final çizgisine doğru koşarken son engelin üzerinden atladı.,gerçek,Üstünden atmak,Enhanced-prompting
+Resim yaparken fırçayı tutan parmağını yanlışlıkla boya kutusuna basmıştı.,gerçek,Parmak basmak,Enhanced-prompting
+"Misafirler geliyorken, onlara özel ayvalı bir yemek hazırlamaya karar verdim.",gerçek,Ayvayı yemek,Enhanced-prompting
+"Bisiklete binerken bir anlık dengesizlikle, üzerinden atladığı çukur onu şaşırttı.",gerçek,Üstünden atmak,Enhanced-prompting
+"Kitaplığı taşırken, en üst rafa birkaç süs eşyası daha almıştım.",gerçek,Üstüne almak,Enhanced-prompting
+Odada ışıkları kapattığımızda herkes korku filmi başlamadan önce gözlerini yumdu.,gerçek,Göz yummak,Enhanced-prompting
+"Küçük bahçe havuzunun etrafına oturma grupları yapmak isteyen aile, havuza iniş için dört adet basamak ekledi.",gerçek,Basamak yapmak,Enhanced-prompting
+"Takım, kupayı kazanmak adına zamanlama ve hızlarını mükemmel ayarladı.",gerçek,Zaman kazanmak,Enhanced-prompting
+Basketbol potasına yeni file takabilmek için merdivenle üste çıkmam zorunlu oldu.,gerçek,Üste çıkmak,Enhanced-prompting
+Konser sırasında sahne arkasında sanatçılar için ayrılan özel alana valizlerini koymaları için yer vermek gerekti.,gerçek,Yer vermek,Enhanced-prompting
+"Toplantı esnasında, yönetici projenin kritik bölümlerinin altını çizmek için özel bir marker tercih etti.",gerçek,Altını çizmek,Enhanced-prompting
+"Koşu bandında, Jim spor salonundaki diğer üyeleri hızla geçerek antrenmanını ilk tamamlayan kişi oldu.",gerçek,Başa geçmek,Enhanced-prompting
+"Konser biletlerini almak için gişeye gelen genç, biletleri alabilmek için önce hesap vermek zorunda kaldı.",gerçek,Hesap vermek,Enhanced-prompting
+"Yük taşıyan işçi, sırtına bir çuval patates üstüne almak zorunda kaldı.",gerçek,Üstüne almak,Enhanced-prompting
+"Ziyaretçiler, müzenin cam zemininin üzerinde durarak alt kattaki eserleri gözlemledi.",gerçek,Üzerinde durmak,Enhanced-prompting
+"Belediye, kış mevsimi öncesinde karla kaplanmış yolları açmak için ek ekipman satın aldı.",gerçek,Yol açmak,Enhanced-prompting
+"Sınıftaki çocuklar, hafta sonu gördükleri korsan filmleri etkisinde kalarak gemi kaptanının rolünü oynamaya hevesle koyuldular.",gerçek,Rol oynamak,Enhanced-prompting
+"Yarışın son düzlüğünde, atlet öne geçmek için ekstra bir çaba sarf ederken, seyircilerden yükselen çığlıklarla birlikte başa geçmeyi başardı.",gerçek,Başa geçmek,Enhanced-prompting
+"Düşmanlarını öldürmek için zamanı doğru kullanmak, savaş stratejisinde kritik bir öneme sahiptir.",gerçek,Zaman öldürmek,Enhanced-prompting
+Eğitmen tüm öğrencileri sınıfın ortasına çıkmaya davet etti.,gerçek,Ortaya çıkmak,Enhanced-prompting
+"Mutfakta daha fazla yer açmak için, eski eşyaları dolaptan almaya başladım.",gerçek,Yer almak,Enhanced-prompting
+"Dedektif, katilin zamanı nasıl öldürdüğünü anlamaya çalışıyordu.",gerçek,Zaman öldürmek,Enhanced-prompting
+"Öne geçmek için heveslenen bisikletçi, yokuş aşağı bisikletini sürmekte bir an bile tereddüt etmedi.",gerçek,Öne sürmek,Enhanced-prompting
+"Kaleci, topu adım atarak daha ileri bir noktaya fırlattı.",gerçek,Adım atmak,Enhanced-prompting
+"Atölyede çalışan Deniz, üstündeki iş önlüğünün kollarını sıvayıp, ahşap parçaları kesmeye koyuldu.",gerçek,Kolları sıvamak,Enhanced-prompting
+Yaz tatilindeki planları değiştirince eski planları defterden silmek zorunda kaldım.,gerçek,Defterden silmek,Enhanced-prompting
+"Toplantı sırasında, katılımcılar öneri formlarını masanın ortasına atmışlardı.",gerçek,Ortaya atmak,Enhanced-prompting
+"Sergiye katılan sanatçı, eserlerini daha iyi sergileyebilmek için özenle adım atıyordu.",gerçek,Adım atmak,Enhanced-prompting
+"Kurye, paketleri dağıtabilmek için motorunu sürekli ileri sürüyordu.",gerçek,İleri sürmek,Enhanced-prompting
+Karşı tepeden şahane bir gün doğumunu izleyebilmek için erken çıkmak gerekiyordu.,gerçek,Karşı çıkmak,Enhanced-prompting
+"Defterden silmek için uygun bir silgi bulamayınca, Ali, arkadaşından bir tane ödünç aldı.",gerçek,Defterden silmek,Enhanced-prompting
+Çocuklar bahçede doktor rolünü oynamak için bir araya geldi.,gerçek,Rol oynamak,Enhanced-prompting
+Ağrıdan dolayı bir an için gözlerimi yummak zorunda kaldım.,gerçek,Göz yummak,Enhanced-prompting
+Tarım arazilerine daha kolay su taşınabilmesi için kullanılmayan araziden bir kanal yolu açıldı.,gerçek,Yol açmak,Enhanced-prompting
+Çatı katına çıkan merdivenler çok dik olduğu için oraya daha rahat çıkmak adına ekstra basamak yapmak zorunda kaldık.,gerçek,Basamak yapmak,Enhanced-prompting
+"İnşaat işçisi, henüz kurumamış betonun üzerinde dikkatlice durdu.",gerçek,Üzerinde durmak,Enhanced-prompting
+"Öğretmen, sınıfa girerken öğrencilerine doğru heyecanla adım attı.",gerçek,Adım atmak,Enhanced-prompting
+"Tomurcukları sepete sayıp dökmek, bahçede çalışırken en sevdiği anlardı.",gerçek,Sayıp dökmek,Enhanced-prompting
+"Yeni taşınan komşumuzu karşılamak için, apartmanın girişine park edebileceği bir yer vermek amacıyla arabamı başka bir yere çektim.",gerçek,Yer vermek,Enhanced-prompting
+Ağır makineyi hangarın içine ileri sürmek oldukça zordu.,gerçek,İleri sürmek,Enhanced-prompting
+"Gönüllüler, parkı temizlemek için kollarını sıvayıp çöp toplama araçlarını dağıttılar.",gerçek,Kolları sıvamak,Enhanced-prompting
+"Restoranda yemek sonrası garson, masaya hesap vermek için geldi.",gerçek,Hesap vermek,Enhanced-prompting
+"Kitabın en heyecanlı yerinde gözlerimi yummak zorunda kaldım, çünkü güneş çok parlak oluyordu.",gerçek,Göz yummak,Enhanced-prompting
+"Piknikte, Ali sandviçini battaniyenin ortasına düşecek şekilde attı.",gerçek,Ortaya atmak,Enhanced-prompting
+Kardeşim ödevini yaparken hatalı cümleleri defterden silmek için benim silgimi aldı.,gerçek,Defterden silmek,Enhanced-prompting
+"Dükkan sahibi, gün sonunda kasadaki paraları sayarak hesap vermek zorundaydı.",gerçek,Hesap vermek,Enhanced-prompting
+"Bahçe düzenlemesi yaparken, çiçek yataklarının sınırlarını belirginleştirebilmek için çimenlerin altını düzgünce çizmek gerekir.",gerçek,Altını çizmek,Enhanced-prompting
+Sporcunun engelli koşusunda çabucak üstünden atladığı yüksek bariyerler herkesi etkiledi.,gerçek,Üstünden atmak,Enhanced-prompting
+"Yol yapımında, asfaltın sınırlarını belirlemek amacıyla yoldaki çizgilerin altını belirginleştirmek gerekir.",gerçek,Altını çizmek,Enhanced-prompting
+Kapıyı eliyle açmak için biraz daha yaklaştı.,gerçek,El açmak,Enhanced-prompting
+"Konferansta bilim adamı, araştırma giderlerini hesaplayıp sponsorlara detaylı bir hesap verdi.",gerçek,Hesap vermek,Enhanced-prompting
+Bahçedeki köpek topu yuvarlak masanın ortasına attı.,gerçek,Ortaya atmak,Enhanced-prompting
+Yemekte kullanmak üzere ayvayı dilimlere ayırdım.,gerçek,Ayvayı yemek,Enhanced-prompting
+"Dizi çekimleri için set alanı, eski dönem askerlerinin rolünü oynayan figüranlarla dolup taştı.",gerçek,Rol oynamak,Enhanced-prompting
+Piknik sepetinden sandviçleri ele alarak herkese dağıtmaya başladım.,gerçek,Ele almak,Enhanced-prompting
+Çocukların yaptığı kar adamın içi güneş ışınlarıyla hızla erimek başladı.,gerçek,İçi erimek,Enhanced-prompting
+"Yeni yıl kutlamasında, çocuklar konfetilerini salonda bulunan yuvarlak halının ortasına attılar.",gerçek,Ortaya atmak,Enhanced-prompting
+"Yürüyüş parkurunda koşarken ayaklarım, çamurlu zeminde net izler bıraktı.",gerçek,İz bırakmak,Enhanced-prompting
+"Parkta koşarken, köpeği yanından geçtiğinde onun üstünden atlama cesareti gösterdi.",gerçek,Üstünden atmak,Enhanced-prompting
+"Defterden bir sayfayı silmek gerektiğinde, öncelikle o sayfanın önemli olmadığından emin olmak gerekir.",gerçek,Defterden silmek,Enhanced-prompting
+Arkadaşım eski şiirlerini görmemem için hızla defterden silmek istedi.,gerçek,Defterden silmek,Enhanced-prompting
+Bahçıvan yaprakları sayıp ardından hızla çuvallara dökmekteydi.,gerçek,Sayıp dökmek,Enhanced-prompting
+Konferans salonunda katılımcılara yer sağlamak amacıyla ek sandalyeler almamız gerekti.,gerçek,Yer almak,Enhanced-prompting
+Otobüste yer bulduk ve bavulları oraya almamız gerekiyordu.,gerçek,Yer almak,Enhanced-prompting
+"Hasan, kutudaki bilyeleri tezgaha sayıp dökerek düzenlemeye başladı.",gerçek,Sayıp dökmek,Enhanced-prompting
+"Yemek sınıfında, öğrenciler konserve kutusunu açmak için ellerini ve konserve açacağını kullanıyordu.",gerçek,El açmak,Enhanced-prompting
+"Dikkatsizce çizilmiş şekilleri defterden silmek, temiz bir sayfa bıraktı.",gerçek,Defterden silmek,Enhanced-prompting
+Dağın zirvesine çıkmak için sabahın erken saatlerinde yola çıktık.,gerçek,Üste çıkmak,Enhanced-prompting
+"Kışın soğuk günlerinde, montunun üstüne bir atkı alarak sıcak kalmaya çalıştı.",gerçek,Üstüne almak,Enhanced-prompting
+"Yemek menümüze ek olarak, kızartılmış ayva dilimleri ekledim ve tadı muhteşem oldu.",gerçek,Ayvayı yemek,Enhanced-prompting
+"Sahne sanatları kursunda genç bir kadın, Juliet rolünü oynamak için duygusal yoğunluk gerektiren sahneleri tekrarladı.",gerçek,Rol oynamak,Enhanced-prompting
+"Tatil için bavullarımızı arabanın bagajına yerleştirmek üzere, önce kutuları oradan almam gerekiyordu.",gerçek,Yer almak,Enhanced-prompting
+"Kedi, penceremizin dışında bulunan duvarda pervazın üzerinde duruyor.",gerçek,Üzerinde durmak,Enhanced-prompting
+Eski fotoğrafları karıştırırken ninenin gençlik yıllarına ait bir albüm ortaya çıktı.,gerçek,Ortaya çıkmak,Enhanced-prompting
+"Piknikte futbol oynayan gençler, aralarındaki mesafeyi ayarlamak için topu daima ortaya atıyorlardı.",gerçek,Ortaya atmak,Enhanced-prompting
+Kutunun içinden küçük bir yavru kedi çekingen bir şekilde ortaya çıktı.,gerçek,Ortaya çıkmak,Enhanced-prompting
+Parkın karşısına çıkmak için yolu dikkatlice geçtim.,gerçek,Karşı çıkmak,Enhanced-prompting
+Gözlerimi yumdum ve kulaklıklarımdan yükselen müziğin tadını çıkardım.,gerçek,Göz yummak,Enhanced-prompting
+"Kazanmak için gereken çabayı gösterirsen, zamanla başarı senin olacak.",gerçek,Zaman kazanmak,Enhanced-prompting
+İlk yardım eğitiminde öğrencilere nabzını nasıl tutmaları gerektiği anlatıldı.,gerçek,Nabzını tutmak,Enhanced-prompting
+"Metal parçasının içi, yüksek fırın sıcaklığında erimekte.",gerçek,İçi erimek,Enhanced-prompting
+"Bugün yemekte annem ayva yemeği yapacak, sabırsızlıkla bekliyorum.",gerçek,Ayvayı yemek,Enhanced-prompting
+Okul bahçesinde çocuklar oyun oynayacak yer bulmak için futbol sahasından kaleleri almak zorunda kaldılar.,gerçek,Yer almak,Enhanced-prompting
+"Bahçede toplanan meyveleri sepete eliyle koymak, onun için günün en rahatlatıcı anlarından biriydi.",gerçek,El koymak,Enhanced-prompting
+"Bahçıvan, çiçek dikimi için sabah erkenden kollarını sıvadı ve çapa ile toprağı işlemeye koyuldu.",gerçek,Kolları sıvamak,Enhanced-prompting
+Çocuk parkta scooterını ileri sürerken yüksek sesle kahkaha attı.,gerçek,İleri sürmek,Enhanced-prompting
+Karşı yamacı görebilmek için yüksek bir tepeden çıkmak istedim.,gerçek,Karşı çıkmak,Enhanced-prompting

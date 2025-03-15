@@ -1,0 +1,40 @@
+Classification Report for DistilBert, language IT, Train GPT4, Test DODIOM:
+              precision    recall  f1-score   support
+
+           0     0.7404    0.5152    0.6076      1345
+           1     0.5163    0.7412    0.6087       939
+
+    accuracy                         0.6081      2284
+   macro avg     0.6284    0.6282    0.6081      2284
+weighted avg     0.6483    0.6081    0.6081      2284
+
+Classification Report for mBert, language IT, Train GPT4, Test DODIOM:
+              precision    recall  f1-score   support
+
+           0     0.8597    0.5286    0.6547      1345
+           1     0.5649    0.8765    0.6870       939
+
+    accuracy                         0.6716      2284
+   macro avg     0.7123    0.7025    0.6708      2284
+weighted avg     0.7385    0.6716    0.6680      2284
+
+Classification Report for XLMRoberta, language IT, Train GPT4, Test DODIOM:
+              precision    recall  f1-score   support
+
+           0     0.8796    0.6082    0.7191      1345
+           1     0.6108    0.8807    0.7213       939
+
+    accuracy                         0.7202      2284
+   macro avg     0.7452    0.7445    0.7202      2284
+weighted avg     0.7691    0.7202    0.7200      2284
+
+
+Classification Report for ItalianBert, language IT, Train GPT4, Test DODIOM:
+              precision    recall  f1-score   support
+
+           0     0.9228    0.6045    0.7305      1345
+           1     0.6208    0.9276    0.7438       939
+
+    accuracy                         0.7373      2284
+   macro avg     0.7718    0.7660    0.7371      2284
+weighted avg     0.7987    0.7373    0.7359      2284
