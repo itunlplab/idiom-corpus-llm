@@ -28,3 +28,7 @@ Code for fine-tuning various BERT variants on the synthetic and human-generated 
 Code for investigating the contributions of the two distinct prompting methods used for synthetic data generation.
 ### Task 4: Multilingual Idiomaticity Detection
 Code for evaluating the performance of multilingual models in idiomaticity detection task.
+
+## 📄 Citation
+If you use this work, please cite our paper:
+> Doğukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit, and Joakim Nivre. 2025. Using LLMs to Advance Idiom Corpus Construction. In Proceedings of the 21st Workshop on Multiword Expressions (MWE 2025), pages 21–31, Albuquerque, New Mexico, U.S.A.. Association for Computational Linguistics.
